@@ -1,1 +1,28 @@
-[{"geoblacklight_version": "1.0", "dc_description_s": "SF Redevelopment Agency Project Areas", "layer_geom_type_s": "Polygon", "layer_modified_dt": "2012-11-28T23:35:22.104Z", "dc_creator_sm": "SF Redevelopment Agency", "layer_id_s": "s7xp47", "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"http://spatial.lib.berkeley.edu/public/ark28722-s7xp47/data.zip\"}", "dc_identifier_s": "http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7xp47", "dct_provenance_s": "Berkeley", "dc_title_s": "Redevelopment Agency Project Areas", "layer_slug_s": "ark28722-s7xp47", "dc_publisher_s": "San Francisco (Calif.). Department Of Telecommunications and Information Services.", "dc_format_s": "Shapefile", "dc_subject_sm": ["Redevelopment", "Economic Development"], "solr_year_i": 2002, "solr_geom": "ENVELOPE(-122.418614, -122.368276, 37.792392, 37.707773)", "dc_rights_s": "Public", "dct_spatial_sm": ["San Francisco County (Calif.)", "San Francisco (Calif.)"]}]
+[
+    {
+        "dc_creator_sm":"SF Redevelopment Agency",
+        "dc_description_s":"SF Redevelopment Agency Project Areas",
+        "dc_format_s":"Shapefile",
+        "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7xp47",
+        "dc_publisher_s":"San Francisco (Calif.). Department Of Telecommunications and Information Services.",
+        "dc_rights_s":"Public",
+        "dc_subject_sm":[
+            "Redevelopment",
+            "Economic Development"
+        ],
+        "dc_title_s":"Redevelopment Agency Project Areas",
+        "dct_provenance_s":"Berkeley",
+        "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7xp47/data.zip\"}",
+        "dct_spatial_sm":[
+            "San Francisco County (Calif.)",
+            "San Francisco (Calif.)"
+        ],
+        "geoblacklight_version":"1.0",
+        "layer_geom_type_s":"Polygon",
+        "layer_id_s":"s7xp47",
+        "layer_modified_dt":"2012-11-28T23:35:22.104Z",
+        "layer_slug_s":"ark28722-s7xp47",
+        "solr_geom":"ENVELOPE(-122.418614, -122.368276, 37.792392, 37.707773)",
+        "solr_year_i":2002
+    }
+]

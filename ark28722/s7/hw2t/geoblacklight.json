@@ -1,1 +1,28 @@
-[{"geoblacklight_version": "1.0", "dc_description_s": "This layer is a view of the Protected_OS_Lands feature that is in the planning database. The Protected_OS_Lands shows parks and preserves in the County of Napa that are accessible to the public.", "layer_geom_type_s": "Polygon", "layer_modified_dt": "2012-11-28T23:35:06.483Z", "dc_creator_sm": "John Woodbury", "layer_id_s": "s7hw2t", "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"http://spatial.lib.berkeley.edu/public/ark28722-s7hw2t/data.zip\"}", "dc_identifier_s": "http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7hw2t", "dct_provenance_s": "Berkeley", "dc_title_s": "PARKS", "layer_slug_s": "ark28722-s7hw2t", "dc_publisher_s": "Napa County (Calif.). County Of Napa.", "dc_format_s": "Shapefile", "dc_subject_sm": ["Society", "Boundaries", "Location"], "solr_year_i": 2008, "solr_geom": "ENVELOPE(-122.644075, -122.092303, 38.864926, 38.153683)", "dc_rights_s": "Public", "dct_spatial_sm": ["Napa County (Calif.)"]}]
+[
+    {
+        "dc_creator_sm":"John Woodbury",
+        "dc_description_s":"This layer is a view of the Protected_OS_Lands feature that is in the planning database. The Protected_OS_Lands shows parks and preserves in the County of Napa that are accessible to the public.",
+        "dc_format_s":"Shapefile",
+        "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7hw2t",
+        "dc_publisher_s":"Napa County (Calif.). County Of Napa.",
+        "dc_rights_s":"Public",
+        "dc_subject_sm":[
+            "Society",
+            "Boundaries",
+            "Location"
+        ],
+        "dc_title_s":"PARKS",
+        "dct_provenance_s":"Berkeley",
+        "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7hw2t/data.zip\"}",
+        "dct_spatial_sm":[
+            "Napa County (Calif.)"
+        ],
+        "geoblacklight_version":"1.0",
+        "layer_geom_type_s":"Polygon",
+        "layer_id_s":"s7hw2t",
+        "layer_modified_dt":"2012-11-28T23:35:06.483Z",
+        "layer_slug_s":"ark28722-s7hw2t",
+        "solr_geom":"ENVELOPE(-122.644075, -122.092303, 38.864926, 38.153683)",
+        "solr_year_i":2008
+    }
+]

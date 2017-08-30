@@ -1,1 +1,27 @@
-[{"geoblacklight_version": "1.0", "dc_description_s": "Data are a graphic representation of fire protection district boundaries in Marin County, California.", "layer_geom_type_s": "Polygon", "layer_modified_dt": "2012-11-28T23:34:50.803Z", "dc_creator_sm": "County of Marin", "layer_id_s": "s70w25", "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"http://spatial.lib.berkeley.edu/public/ark28722-s70w25/data.zip\"}", "dc_identifier_s": "http://spatial.lib.berkeley.edu/viewpublic/ark28722-s70w25", "dct_provenance_s": "Berkeley", "dc_title_s": "Fire Protection District", "layer_slug_s": "ark28722-s70w25", "dc_publisher_s": "San Rafael (Calif.). County Of Marin Community Development Agency.", "dc_format_s": "Shapefile", "dc_subject_sm": ["Boundaries", "Fire Districts"], "solr_year_i": 2000, "solr_geom": "ENVELOPE(-122.744739, -122.437304, 38.191313, 37.863027)", "dc_rights_s": "Public", "dct_spatial_sm": ["Marin County (Calif.)"]}]
+[
+    {
+        "dc_creator_sm":"County of Marin",
+        "dc_description_s":"Data are a graphic representation of fire protection district boundaries in Marin County, California.",
+        "dc_format_s":"Shapefile",
+        "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s70w25",
+        "dc_publisher_s":"San Rafael (Calif.). County Of Marin Community Development Agency.",
+        "dc_rights_s":"Public",
+        "dc_subject_sm":[
+            "Boundaries",
+            "Fire Districts"
+        ],
+        "dc_title_s":"Fire Protection District",
+        "dct_provenance_s":"Berkeley",
+        "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s70w25/data.zip\"}",
+        "dct_spatial_sm":[
+            "Marin County (Calif.)"
+        ],
+        "geoblacklight_version":"1.0",
+        "layer_geom_type_s":"Polygon",
+        "layer_id_s":"s70w25",
+        "layer_modified_dt":"2012-11-28T23:34:50.803Z",
+        "layer_slug_s":"ark28722-s70w25",
+        "solr_geom":"ENVELOPE(-122.744739, -122.437304, 38.191313, 37.863027)",
+        "solr_year_i":2000
+    }
+]

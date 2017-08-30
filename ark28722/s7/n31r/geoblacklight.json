@@ -1,1 +1,27 @@
-[{"geoblacklight_version": "1.0", "dc_description_s": "Road centerlines are captured from the aerial photography as the apparent centerline.  Attributes originally compiled via a conflation process from the original street centerline data to the new centerline coverage captured from the aerial photography.  Subsequently an extensive QC process followed to correct errors in the conflation process.  These areas where identified by staff in phase one of the QC process.", "layer_geom_type_s": "Line", "layer_modified_dt": "2012-11-28T23:35:32.485Z", "dc_creator_sm": "County of Sonoma GIS Central", "layer_id_s": "s7n31r", "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"http://spatial.lib.berkeley.edu/public/ark28722-s7n31r/data.zip\"}", "dc_identifier_s": "http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7n31r", "dct_provenance_s": "Berkeley", "dc_title_s": "TRA_STREETS", "layer_slug_s": "ark28722-s7n31r", "dc_publisher_s": "Santa Rosa (Calif.). County Of Sonoma Gis Central.", "dc_format_s": "Shapefile", "dc_subject_sm": ["Transportation", "Roads"], "solr_year_i": 2011, "solr_geom": "ENVELOPE(-123.534823, -122.358043, 38.862955, 38.103583)", "dc_rights_s": "Public", "dct_spatial_sm": ["Sonoma County (Calif.)"]}]
+[
+    {
+        "dc_creator_sm":"County of Sonoma GIS Central",
+        "dc_description_s":"Road centerlines are captured from the aerial photography as the apparent centerline.  Attributes originally compiled via a conflation process from the original street centerline data to the new centerline coverage captured from the aerial photography.  Subsequently an extensive QC process followed to correct errors in the conflation process.  These areas where identified by staff in phase one of the QC process.",
+        "dc_format_s":"Shapefile",
+        "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7n31r",
+        "dc_publisher_s":"Santa Rosa (Calif.). County Of Sonoma Gis Central.",
+        "dc_rights_s":"Public",
+        "dc_subject_sm":[
+            "Transportation",
+            "Roads"
+        ],
+        "dc_title_s":"TRA_STREETS",
+        "dct_provenance_s":"Berkeley",
+        "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7n31r/data.zip\"}",
+        "dct_spatial_sm":[
+            "Sonoma County (Calif.)"
+        ],
+        "geoblacklight_version":"1.0",
+        "layer_geom_type_s":"Line",
+        "layer_id_s":"s7n31r",
+        "layer_modified_dt":"2012-11-28T23:35:32.485Z",
+        "layer_slug_s":"ark28722-s7n31r",
+        "solr_geom":"ENVELOPE(-123.534823, -122.358043, 38.862955, 38.103583)",
+        "solr_year_i":2011
+    }
+]

@@ -1,1 +1,28 @@
-[{"geoblacklight_version": "1.0", "dc_description_s": "Areas of concentrated confirmed Sudden Oak Death from the California Department of Food and Agriculture, University of California at Davis, and University of California at Berkeley..  Reprojected from Albers GCS_North_American_1927 and renamed by County of Marin.", "layer_geom_type_s": "Polygon", "layer_modified_dt": "2012-11-28T23:35:27.205Z", "dc_creator_sm": "Sudden Oak Death Project, Center for the Assessment and Monitoring of Forestry and Environmental Resources (CAMFER) at U.C. Berkeley", "layer_id_s": "s7b01x", "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"http://spatial.lib.berkeley.edu/public/ark28722-s7b01x/data.zip\"}", "dc_identifier_s": "http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7b01x", "dct_provenance_s": "Berkeley", "dc_title_s": "Sudden Oak Death Suspected Areas", "layer_slug_s": "ark28722-s7b01x", "dc_publisher_s": "San Rafael (Calif.). County Of Marin.", "dc_format_s": "Shapefile", "dc_subject_sm": ["Sudden Oak Death", "Vegetation", "Biota"], "solr_year_i": 2002, "solr_geom": "ENVELOPE(-122.896632, -122.445819, 38.242808, 37.816143)", "dc_rights_s": "Public", "dct_spatial_sm": ["Marin County (Calif.)"]}]
+[
+    {
+        "dc_creator_sm":"Sudden Oak Death Project, Center for the Assessment and Monitoring of Forestry and Environmental Resources (CAMFER) at U.C. Berkeley",
+        "dc_description_s":"Areas of concentrated confirmed Sudden Oak Death from the California Department of Food and Agriculture, University of California at Davis, and University of California at Berkeley..  Reprojected from Albers GCS_North_American_1927 and renamed by County of Marin.",
+        "dc_format_s":"Shapefile",
+        "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7b01x",
+        "dc_publisher_s":"San Rafael (Calif.). County Of Marin.",
+        "dc_rights_s":"Public",
+        "dc_subject_sm":[
+            "Sudden Oak Death",
+            "Vegetation",
+            "Biota"
+        ],
+        "dc_title_s":"Sudden Oak Death Suspected Areas",
+        "dct_provenance_s":"Berkeley",
+        "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7b01x/data.zip\"}",
+        "dct_spatial_sm":[
+            "Marin County (Calif.)"
+        ],
+        "geoblacklight_version":"1.0",
+        "layer_geom_type_s":"Polygon",
+        "layer_id_s":"s7b01x",
+        "layer_modified_dt":"2012-11-28T23:35:27.205Z",
+        "layer_slug_s":"ark28722-s7b01x",
+        "solr_geom":"ENVELOPE(-122.896632, -122.445819, 38.242808, 37.816143)",
+        "solr_year_i":2002
+    }
+]

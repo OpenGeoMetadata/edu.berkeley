@@ -1,1 +1,33 @@
-[{"geoblacklight_version": "1.0", "dc_description_s": "Airport Land Use Commission Zones around Parrett Field and Angwin Airport.", "layer_geom_type_s": "Polygon", "layer_modified_dt": "2012-11-28T23:34:19.075Z", "dc_creator_sm": "Lynsey Wickman: County of Napa Conservation, Development   Planning Department", "layer_id_s": "s7160t", "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"http://spatial.lib.berkeley.edu/public/ark28722-s7160t/data.zip\"}", "dc_identifier_s": "http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7160t", "dct_provenance_s": "Berkeley", "dc_title_s": "Angwin Airport Compatibility Zone", "layer_slug_s": "ark28722-s7160t", "dc_publisher_s": "Napa County (Calif.). County Of Napa.", "dc_format_s": "Shapefile", "dc_subject_sm": ["Planningcadastre", "Boundaries", "Land Use", "Planning", "Zoning"], "solr_year_i": 2010, "solr_geom": "ENVELOPE(-122.444035, -122.417165, 38.593433, 38.556439)", "dc_rights_s": "Public", "dct_spatial_sm": ["Napa County (Calif.)", "Angwin (Calif.)", "Parrett Field (Calif.)", "Angwin Airport (Calif.)"]}]
+[
+    {
+        "dc_creator_sm":"Lynsey Wickman: County of Napa Conservation, Development   Planning Department",
+        "dc_description_s":"Airport Land Use Commission Zones around Parrett Field and Angwin Airport.",
+        "dc_format_s":"Shapefile",
+        "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7160t",
+        "dc_publisher_s":"Napa County (Calif.). County Of Napa.",
+        "dc_rights_s":"Public",
+        "dc_subject_sm":[
+            "Planningcadastre",
+            "Boundaries",
+            "Land Use",
+            "Planning",
+            "Zoning"
+        ],
+        "dc_title_s":"Angwin Airport Compatibility Zone",
+        "dct_provenance_s":"Berkeley",
+        "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7160t/data.zip\"}",
+        "dct_spatial_sm":[
+            "Napa County (Calif.)",
+            "Angwin (Calif.)",
+            "Parrett Field (Calif.)",
+            "Angwin Airport (Calif.)"
+        ],
+        "geoblacklight_version":"1.0",
+        "layer_geom_type_s":"Polygon",
+        "layer_id_s":"s7160t",
+        "layer_modified_dt":"2012-11-28T23:34:19.075Z",
+        "layer_slug_s":"ark28722-s7160t",
+        "solr_geom":"ENVELOPE(-122.444035, -122.417165, 38.593433, 38.556439)",
+        "solr_year_i":2010
+    }
+]

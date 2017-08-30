@@ -1,1 +1,28 @@
-[{"geoblacklight_version": "1.0", "dc_description_s": "Public Schools - under the jurisdiction of the San Francisco Unified School District.  This is a spatial view of the City Facilities layer.  Each point represents an active facility according the Real Estate Information System (REIS), formerly ICPD).  The primary key, [FACILITY_I], is the link back to the REIS table CITYFACILS.  The REIS serves as the foundation for information regarding City Property, from which is produced, among other things, the Real Estate Property Book.", "layer_geom_type_s": "Point", "layer_modified_dt": "2012-11-28T23:35:16.906Z", "dc_creator_sm": "Real Estate Division/Department of Administrative Services", "layer_id_s": "s74c74", "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"http://spatial.lib.berkeley.edu/public/ark28722-s74c74/data.zip\"}", "dc_identifier_s": "http://spatial.lib.berkeley.edu/viewpublic/ark28722-s74c74", "dct_provenance_s": "Berkeley", "dc_title_s": "Public Schools - Points", "layer_slug_s": "ark28722-s74c74", "dc_publisher_s": "San Francisco (Calif.). Department Of Telecommunications and Information Services.", "dc_format_s": "Shapefile", "dc_subject_sm": ["Facilities", "Education"], "solr_year_i": 2002, "solr_geom": "ENVELOPE(-122.515323, -119.76673, 37.949482, 37.300914)", "dc_rights_s": "Public", "dct_spatial_sm": ["San Francisco County (Calif.)", "San Francisco (Calif.)"]}]
+[
+    {
+        "dc_creator_sm":"Real Estate Division/Department of Administrative Services",
+        "dc_description_s":"Public Schools - under the jurisdiction of the San Francisco Unified School District.  This is a spatial view of the City Facilities layer.  Each point represents an active facility according the Real Estate Information System (REIS), formerly ICPD).  The primary key, [FACILITY_I], is the link back to the REIS table CITYFACILS.  The REIS serves as the foundation for information regarding City Property, from which is produced, among other things, the Real Estate Property Book.",
+        "dc_format_s":"Shapefile",
+        "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s74c74",
+        "dc_publisher_s":"San Francisco (Calif.). Department Of Telecommunications and Information Services.",
+        "dc_rights_s":"Public",
+        "dc_subject_sm":[
+            "Facilities",
+            "Education"
+        ],
+        "dc_title_s":"Public Schools - Points",
+        "dct_provenance_s":"Berkeley",
+        "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s74c74/data.zip\"}",
+        "dct_spatial_sm":[
+            "San Francisco County (Calif.)",
+            "San Francisco (Calif.)"
+        ],
+        "geoblacklight_version":"1.0",
+        "layer_geom_type_s":"Point",
+        "layer_id_s":"s74c74",
+        "layer_modified_dt":"2012-11-28T23:35:16.906Z",
+        "layer_slug_s":"ark28722-s74c74",
+        "solr_geom":"ENVELOPE(-122.515323, -119.76673, 37.949482, 37.300914)",
+        "solr_year_i":2002
+    }
+]

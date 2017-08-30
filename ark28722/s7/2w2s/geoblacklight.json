@@ -1,1 +1,28 @@
-[{"geoblacklight_version": "1.0", "dc_description_s": "Golf courses in the County of Napa", "layer_geom_type_s": "Polygon", "layer_modified_dt": "2012-11-28T23:35:01.243Z", "dc_creator_sm": "County of Napa ITS Department", "layer_id_s": "s72w2s", "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"http://spatial.lib.berkeley.edu/public/ark28722-s72w2s/data.zip\"}", "dc_identifier_s": "http://spatial.lib.berkeley.edu/viewpublic/ark28722-s72w2s", "dct_provenance_s": "Berkeley", "dc_title_s": "Golf courses", "layer_slug_s": "ark28722-s72w2s", "dc_publisher_s": "Napa County (Calif.). County Of Napa.", "dc_format_s": "Shapefile", "dc_subject_sm": ["Society", "Golf", "Golf Courses"], "solr_year_i": 2007, "solr_geom": "ENVELOPE(-122.591817, -122.228414, 38.588824, 38.20772)", "dc_rights_s": "Public", "dct_spatial_sm": ["Napa County (Calif.)"]}]
+[
+    {
+        "dc_creator_sm":"County of Napa ITS Department",
+        "dc_description_s":"Golf courses in the County of Napa",
+        "dc_format_s":"Shapefile",
+        "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s72w2s",
+        "dc_publisher_s":"Napa County (Calif.). County Of Napa.",
+        "dc_rights_s":"Public",
+        "dc_subject_sm":[
+            "Society",
+            "Golf",
+            "Golf Courses"
+        ],
+        "dc_title_s":"Golf courses",
+        "dct_provenance_s":"Berkeley",
+        "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s72w2s/data.zip\"}",
+        "dct_spatial_sm":[
+            "Napa County (Calif.)"
+        ],
+        "geoblacklight_version":"1.0",
+        "layer_geom_type_s":"Polygon",
+        "layer_id_s":"s72w2s",
+        "layer_modified_dt":"2012-11-28T23:35:01.243Z",
+        "layer_slug_s":"ark28722-s72w2s",
+        "solr_geom":"ENVELOPE(-122.591817, -122.228414, 38.588824, 38.20772)",
+        "solr_year_i":2007
+    }
+]

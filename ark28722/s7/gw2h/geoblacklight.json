@@ -1,1 +1,26 @@
-[{"geoblacklight_version": "1.0", "dc_description_s": "Marin county-wide geology compiled from four USGS publications and 2004 topographic mapping\n- Open-File Report (1997) OFR97-456 for Point Reyes and the San Andreas Fault Zone, 1:48000\n- Miscellaneous Field Study (2000) MF-2337 for parts of Marin, San Francisco, and Contra Costa counties, 1:75000\n- portion of Miscellaneous Field Study (2005)  MF-2402 for northernmost Marin and western Sonoma counties, 1:62500\n- portion of Scientific Investigations Map (2007) SIM-2956 for eastern Sonoma county, 1:62500", "layer_geom_type_s": "Polygon", "layer_modified_dt": "2012-11-28T23:34:50.899Z", "dc_creator_sm": "compiled from US Geological Survey sources by Brian B. Quinn, Ph.D. GISP", "layer_id_s": "s7gw2h", "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"http://spatial.lib.berkeley.edu/public/ark28722-s7gw2h/data.zip\"}", "dc_identifier_s": "http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7gw2h", "dct_provenance_s": "Berkeley", "dc_title_s": "ENTERPRISE_DBO_geology", "layer_slug_s": "ark28722-s7gw2h", "dc_publisher_s": "San Rafael (Calif.). County Of Marin.", "dc_format_s": "Shapefile", "dc_subject_sm": ["Geology"], "solr_year_i": 2009, "solr_geom": "ENVELOPE(-123.08608, -122.249616, 38.533472, 37.737207)", "dc_rights_s": "Public", "dct_spatial_sm": ["Marin County (Calif.)"]}]
+[
+    {
+        "dc_creator_sm":"compiled from US Geological Survey sources by Brian B. Quinn, Ph.D. GISP",
+        "dc_description_s":"Marin county-wide geology compiled from four USGS publications and 2004 topographic mapping\n- Open-File Report (1997) OFR97-456 for Point Reyes and the San Andreas Fault Zone, 1:48000\n- Miscellaneous Field Study (2000) MF-2337 for parts of Marin, San Francisco, and Contra Costa counties, 1:75000\n- portion of Miscellaneous Field Study (2005)  MF-2402 for northernmost Marin and western Sonoma counties, 1:62500\n- portion of Scientific Investigations Map (2007) SIM-2956 for eastern Sonoma county, 1:62500",
+        "dc_format_s":"Shapefile",
+        "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7gw2h",
+        "dc_publisher_s":"San Rafael (Calif.). County Of Marin.",
+        "dc_rights_s":"Public",
+        "dc_subject_sm":[
+            "Geology"
+        ],
+        "dc_title_s":"ENTERPRISE_DBO_geology",
+        "dct_provenance_s":"Berkeley",
+        "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7gw2h/data.zip\"}",
+        "dct_spatial_sm":[
+            "Marin County (Calif.)"
+        ],
+        "geoblacklight_version":"1.0",
+        "layer_geom_type_s":"Polygon",
+        "layer_id_s":"s7gw2h",
+        "layer_modified_dt":"2012-11-28T23:34:50.899Z",
+        "layer_slug_s":"ark28722-s7gw2h",
+        "solr_geom":"ENVELOPE(-123.08608, -122.249616, 38.533472, 37.737207)",
+        "solr_year_i":2009
+    }
+]

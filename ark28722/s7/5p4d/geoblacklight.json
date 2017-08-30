@@ -1,1 +1,27 @@
-[{"geoblacklight_version": "1.0", "dc_description_s": "Various zoning areas in Contra Costa County, California", "layer_geom_type_s": "Polygon", "layer_modified_dt": "2012-11-28T23:35:06.535Z", "dc_creator_sm": "Contra Costa County", "layer_id_s": "s75p4d", "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"http://spatial.lib.berkeley.edu/public/ark28722-s75p4d/data.zip\"}", "dc_identifier_s": "http://spatial.lib.berkeley.edu/viewpublic/ark28722-s75p4d", "dct_provenance_s": "Berkeley", "dc_title_s": "Zoning Contra Costa County 2009", "layer_slug_s": "ark28722-s75p4d", "dc_publisher_s": "Contra Costa County (Calif.)", "dc_format_s": "Shapefile", "dc_subject_sm": ["Boundaries", "Administrative and Political Divisions"], "solr_year_i": 2009, "solr_geom": "ENVELOPE(-122.444426, -121.532579, 38.105128, 37.711673)", "dc_rights_s": "Public", "dct_spatial_sm": ["Contra Costa County (Calif.)"]}]
+[
+    {
+        "dc_creator_sm":"Contra Costa County",
+        "dc_description_s":"Various zoning areas in Contra Costa County, California",
+        "dc_format_s":"Shapefile",
+        "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s75p4d",
+        "dc_publisher_s":"Contra Costa County (Calif.)",
+        "dc_rights_s":"Public",
+        "dc_subject_sm":[
+            "Boundaries",
+            "Administrative and Political Divisions"
+        ],
+        "dc_title_s":"Zoning Contra Costa County 2009",
+        "dct_provenance_s":"Berkeley",
+        "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s75p4d/data.zip\"}",
+        "dct_spatial_sm":[
+            "Contra Costa County (Calif.)"
+        ],
+        "geoblacklight_version":"1.0",
+        "layer_geom_type_s":"Polygon",
+        "layer_id_s":"s75p4d",
+        "layer_modified_dt":"2012-11-28T23:35:06.535Z",
+        "layer_slug_s":"ark28722-s75p4d",
+        "solr_geom":"ENVELOPE(-122.444426, -121.532579, 38.105128, 37.711673)",
+        "solr_year_i":2009
+    }
+]

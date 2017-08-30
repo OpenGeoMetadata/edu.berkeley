@@ -1,1 +1,26 @@
-[{"geoblacklight_version": "1.0", "dc_description_s": "Private Water District boundaries are areas where private contracts provide water to the district in California. This database is designed as a regions polygon database and is updated when sufficient number of changes have occured to warrant an update. Updates are determined by the needs of the local office. Separate databases are used for maintenance purposes. Boundaries are continually being updated as changes are identified by the Water Districts. The boundaries are not current for all Water Districts found in the database at the same time due to the update methods employed. There may be conflicts in the boundaries between districts due to the time of update and review process associated with each Water District. Other problems may be associated with Water District name changes that have not been updated and possibly new Water Districts not being included due to lack of information. This database represents the most current and accurate understanding of the boundary location and current name of the Water Districts.", "layer_geom_type_s": "Polygon", "layer_modified_dt": "2012-11-28T23:35:32.593Z", "dc_creator_sm": "U.S. Bureau of Reclamation in coordination with the California Department of  Water Resources", "layer_id_s": "s7k013", "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"http://spatial.lib.berkeley.edu/public/ark28722-s7k013/data.zip\"}", "dc_identifier_s": "http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7k013", "dct_provenance_s": "Berkeley", "dc_title_s": "wdpr24 - Private Water Districts for California 1:24,000-scale", "layer_slug_s": "ark28722-s7k013", "dc_publisher_s": "Sacramento (Calif.) U.s. Bureau Of Reclamation, Mid-pacific Region., California. California Department Of Water Resources.", "dc_format_s": "Shapefile", "dc_subject_sm": ["Hydrology"], "solr_year_i": 2003, "solr_geom": "ENVELOPE(-124.259324, -113.546909, 42.008468, 32.392622)", "dc_rights_s": "Public", "dct_spatial_sm": ["California"]}]
+[
+    {
+        "dc_creator_sm":"U.S. Bureau of Reclamation in coordination with the California Department of  Water Resources",
+        "dc_description_s":"Private Water District boundaries are areas where private contracts provide water to the district in California. This database is designed as a regions polygon database and is updated when sufficient number of changes have occured to warrant an update. Updates are determined by the needs of the local office. Separate databases are used for maintenance purposes. Boundaries are continually being updated as changes are identified by the Water Districts. The boundaries are not current for all Water Districts found in the database at the same time due to the update methods employed. There may be conflicts in the boundaries between districts due to the time of update and review process associated with each Water District. Other problems may be associated with Water District name changes that have not been updated and possibly new Water Districts not being included due to lack of information. This database represents the most current and accurate understanding of the boundary location and current name of the Water Districts.",
+        "dc_format_s":"Shapefile",
+        "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7k013",
+        "dc_publisher_s":"Sacramento (Calif.) U.s. Bureau Of Reclamation, Mid-pacific Region., California. California Department Of Water Resources.",
+        "dc_rights_s":"Public",
+        "dc_subject_sm":[
+            "Hydrology"
+        ],
+        "dc_title_s":"wdpr24 - Private Water Districts for California 1:24,000-scale",
+        "dct_provenance_s":"Berkeley",
+        "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7k013/data.zip\"}",
+        "dct_spatial_sm":[
+            "California"
+        ],
+        "geoblacklight_version":"1.0",
+        "layer_geom_type_s":"Polygon",
+        "layer_id_s":"s7k013",
+        "layer_modified_dt":"2012-11-28T23:35:32.593Z",
+        "layer_slug_s":"ark28722-s7k013",
+        "solr_geom":"ENVELOPE(-124.259324, -113.546909, 42.008468, 32.392622)",
+        "solr_year_i":2003
+    }
+]

@@ -1,1 +1,27 @@
-[{"geoblacklight_version": "1.0", "dc_description_s": "Point locations of facilities in Napa County with hazardous material concerns.", "layer_geom_type_s": "Point", "layer_modified_dt": "2012-11-28T23:34:56.035Z", "dc_creator_sm": "Napa County Department of Environmental Management", "layer_id_s": "s7qk5q", "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"http://spatial.lib.berkeley.edu/public/ark28722-s7qk5q/data.zip\"}", "dc_identifier_s": "http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7qk5q", "dct_provenance_s": "Berkeley", "dc_title_s": "Hazardous Materials Facilities", "layer_slug_s": "ark28722-s7qk5q", "dc_publisher_s": "Napa County (Calif.). County Of Napa.", "dc_format_s": "Shapefile", "dc_subject_sm": ["Environment", "Hazardous Materials"], "solr_year_i": 2011, "solr_geom": "ENVELOPE(-122.639302, -122.114456, 38.691414, 38.163704)", "dc_rights_s": "Public", "dct_spatial_sm": ["Napa County (Calif.)"]}]
+[
+    {
+        "dc_creator_sm":"Napa County Department of Environmental Management",
+        "dc_description_s":"Point locations of facilities in Napa County with hazardous material concerns.",
+        "dc_format_s":"Shapefile",
+        "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7qk5q",
+        "dc_publisher_s":"Napa County (Calif.). County Of Napa.",
+        "dc_rights_s":"Public",
+        "dc_subject_sm":[
+            "Environment",
+            "Hazardous Materials"
+        ],
+        "dc_title_s":"Hazardous Materials Facilities",
+        "dct_provenance_s":"Berkeley",
+        "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7qk5q/data.zip\"}",
+        "dct_spatial_sm":[
+            "Napa County (Calif.)"
+        ],
+        "geoblacklight_version":"1.0",
+        "layer_geom_type_s":"Point",
+        "layer_id_s":"s7qk5q",
+        "layer_modified_dt":"2012-11-28T23:34:56.035Z",
+        "layer_slug_s":"ark28722-s7qk5q",
+        "solr_geom":"ENVELOPE(-122.639302, -122.114456, 38.691414, 38.163704)",
+        "solr_year_i":2011
+    }
+]

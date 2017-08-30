@@ -1,1 +1,27 @@
-[{"geoblacklight_version": "1.0", "dc_description_s": "Dataset showing the boundaries of various fire districts within Napa County. Also contains info on Auto AID agreements between the City of Napa and the County of Napa.", "layer_geom_type_s": "Polygon", "layer_modified_dt": "2012-11-28T23:34:50.794Z", "dc_creator_sm": "EDAW", "layer_id_s": "s7ms4g", "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"http://spatial.lib.berkeley.edu/public/ark28722-s7ms4g/data.zip\"}", "dc_identifier_s": "http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7ms4g", "dct_provenance_s": "Berkeley", "dc_title_s": "Boundaries of fire districts", "layer_slug_s": "ark28722-s7ms4g", "dc_publisher_s": "Napa County (Calif.). County Of Napa.", "dc_format_s": "Shapefile", "dc_subject_sm": ["Boundaries", "Fire Districts"], "solr_year_i": 2007, "solr_geom": "ENVELOPE(-122.551663, -122.192089, 38.560004, 38.154095)", "dc_rights_s": "Public", "dct_spatial_sm": ["Napa County (Calif.)"]}]
+[
+    {
+        "dc_creator_sm":"EDAW",
+        "dc_description_s":"Dataset showing the boundaries of various fire districts within Napa County. Also contains info on Auto AID agreements between the City of Napa and the County of Napa.",
+        "dc_format_s":"Shapefile",
+        "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7ms4g",
+        "dc_publisher_s":"Napa County (Calif.). County Of Napa.",
+        "dc_rights_s":"Public",
+        "dc_subject_sm":[
+            "Boundaries",
+            "Fire Districts"
+        ],
+        "dc_title_s":"Boundaries of fire districts",
+        "dct_provenance_s":"Berkeley",
+        "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7ms4g/data.zip\"}",
+        "dct_spatial_sm":[
+            "Napa County (Calif.)"
+        ],
+        "geoblacklight_version":"1.0",
+        "layer_geom_type_s":"Polygon",
+        "layer_id_s":"s7ms4g",
+        "layer_modified_dt":"2012-11-28T23:34:50.794Z",
+        "layer_slug_s":"ark28722-s7ms4g",
+        "solr_geom":"ENVELOPE(-122.551663, -122.192089, 38.560004, 38.154095)",
+        "solr_year_i":2007
+    }
+]

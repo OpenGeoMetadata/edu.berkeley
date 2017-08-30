@@ -1,1 +1,28 @@
-[{"geoblacklight_version": "1.0", "dc_description_s": "Speed limit column was added to a 1998 street centerline shapefile.  Speed limits are indicated primarily for streets that have speeds higher than 25 MPH.  25 MPH is the de facto speed limit for residential and most commercial streets.  Alleys narrower than 25 feet can have de facto speed limits of 15 MPH.  The latter are not indicated specifically in this shapefile.", "layer_geom_type_s": "Line", "layer_modified_dt": "2012-11-28T23:34:45.65Z", "dc_creator_sm": "DPT", "layer_id_s": "s73k6h", "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"http://spatial.lib.berkeley.edu/public/ark28722-s73k6h/data.zip\"}", "dc_identifier_s": "http://spatial.lib.berkeley.edu/viewpublic/ark28722-s73k6h", "dct_provenance_s": "Berkeley", "dc_title_s": "Speed Limits", "layer_slug_s": "ark28722-s73k6h", "dc_publisher_s": "San Francisco (Calif.). Department Of Telecommunications and Information Services.", "dc_format_s": "Shapefile", "dc_subject_sm": ["Transportation", "Roads"], "solr_year_i": 2004, "solr_geom": "ENVELOPE(-122.514484, -122.357331, 37.81321, 37.706174)", "dc_rights_s": "Public", "dct_spatial_sm": ["San Francisco County (Calif.)", "San Francisco (Calif.)"]}]
+[
+    {
+        "dc_creator_sm":"DPT",
+        "dc_description_s":"Speed limit column was added to a 1998 street centerline shapefile.  Speed limits are indicated primarily for streets that have speeds higher than 25 MPH.  25 MPH is the de facto speed limit for residential and most commercial streets.  Alleys narrower than 25 feet can have de facto speed limits of 15 MPH.  The latter are not indicated specifically in this shapefile.",
+        "dc_format_s":"Shapefile",
+        "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s73k6h",
+        "dc_publisher_s":"San Francisco (Calif.). Department Of Telecommunications and Information Services.",
+        "dc_rights_s":"Public",
+        "dc_subject_sm":[
+            "Transportation",
+            "Roads"
+        ],
+        "dc_title_s":"Speed Limits",
+        "dct_provenance_s":"Berkeley",
+        "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s73k6h/data.zip\"}",
+        "dct_spatial_sm":[
+            "San Francisco County (Calif.)",
+            "San Francisco (Calif.)"
+        ],
+        "geoblacklight_version":"1.0",
+        "layer_geom_type_s":"Line",
+        "layer_id_s":"s73k6h",
+        "layer_modified_dt":"2012-11-28T23:34:45.65Z",
+        "layer_slug_s":"ark28722-s73k6h",
+        "solr_geom":"ENVELOPE(-122.514484, -122.357331, 37.81321, 37.706174)",
+        "solr_year_i":2004
+    }
+]

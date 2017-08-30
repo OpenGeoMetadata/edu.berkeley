@@ -1,1 +1,26 @@
-[{"geoblacklight_version": "1.0", "dc_description_s": "The Napa County Watersheds were generated from two elevation datasets.  The Napa River Watershed was generated from LIDAR data processed by NCALM at UC Berkeley (http://calm.geo.berkeley.edu/ncalm/index.html).  The eastern side of the county was delineated from DTM data which was generated from aerial photography (2002).  The watersheds are intended to be used for hydrologic modeling and planning.", "layer_geom_type_s": "Polygon", "layer_modified_dt": "2012-11-28T23:35:01.266Z", "dc_creator_sm": "Jones   Stokes", "layer_id_s": "s7pk6s", "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"http://spatial.lib.berkeley.edu/public/ark28722-s7pk6s/data.zip\"}", "dc_identifier_s": "http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7pk6s", "dct_provenance_s": "Berkeley", "dc_title_s": "major basins", "layer_slug_s": "ark28722-s7pk6s", "dc_publisher_s": "Napa County (Calif.). County Of Napa.", "dc_format_s": "Shapefile", "dc_subject_sm": ["Hydrology"], "solr_year_i": 2005, "solr_geom": "ENVELOPE(-122.648961, -122.061188, 38.864112, 38.144157)", "dc_rights_s": "Public", "dct_spatial_sm": ["Napa County (Calif.)"]}]
+[
+    {
+        "dc_creator_sm":"Jones   Stokes",
+        "dc_description_s":"The Napa County Watersheds were generated from two elevation datasets.  The Napa River Watershed was generated from LIDAR data processed by NCALM at UC Berkeley (http://calm.geo.berkeley.edu/ncalm/index.html).  The eastern side of the county was delineated from DTM data which was generated from aerial photography (2002).  The watersheds are intended to be used for hydrologic modeling and planning.",
+        "dc_format_s":"Shapefile",
+        "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7pk6s",
+        "dc_publisher_s":"Napa County (Calif.). County Of Napa.",
+        "dc_rights_s":"Public",
+        "dc_subject_sm":[
+            "Hydrology"
+        ],
+        "dc_title_s":"major basins",
+        "dct_provenance_s":"Berkeley",
+        "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7pk6s/data.zip\"}",
+        "dct_spatial_sm":[
+            "Napa County (Calif.)"
+        ],
+        "geoblacklight_version":"1.0",
+        "layer_geom_type_s":"Polygon",
+        "layer_id_s":"s7pk6s",
+        "layer_modified_dt":"2012-11-28T23:35:01.266Z",
+        "layer_slug_s":"ark28722-s7pk6s",
+        "solr_geom":"ENVELOPE(-122.648961, -122.061188, 38.864112, 38.144157)",
+        "solr_year_i":2005
+    }
+]

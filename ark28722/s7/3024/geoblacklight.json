@@ -1,1 +1,33 @@
-[{"geoblacklight_version": "1.0", "dc_description_s": "Boundaries of the Spheres of Influence of Napa County Cities.", "layer_geom_type_s": "Polygon", "layer_modified_dt": "2012-11-28T23:34:34.899Z", "dc_creator_sm": "LAFCO of Napa County", "layer_id_s": "s73024", "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"http://spatial.lib.berkeley.edu/public/ark28722-s73024/data.zip\"}", "dc_identifier_s": "http://spatial.lib.berkeley.edu/viewpublic/ark28722-s73024", "dct_provenance_s": "Berkeley", "dc_title_s": "Spheres of Influence for Cities in Napa County", "layer_slug_s": "ark28722-s73024", "dc_publisher_s": "Napa County (Calif.). County Of Napa.", "dc_format_s": "Shapefile", "dc_subject_sm": ["Boundaries", "Planning and Cadastral", "Administrative and Political Divisions"], "solr_year_i": 2010, "solr_geom": "ENVELOPE(-122.604292, -122.230231, 38.59804, 38.155206)", "dc_rights_s": "Public", "dct_spatial_sm": ["Napa County (Calif.)", "American Canyon (Calif.)", "Napa (Calif.)", "St Helena (Calif.)", "Yountville (Calif.)", "Calistoga (Calif.)"]}]
+[
+    {
+        "dc_creator_sm":"LAFCO of Napa County",
+        "dc_description_s":"Boundaries of the Spheres of Influence of Napa County Cities.",
+        "dc_format_s":"Shapefile",
+        "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s73024",
+        "dc_publisher_s":"Napa County (Calif.). County Of Napa.",
+        "dc_rights_s":"Public",
+        "dc_subject_sm":[
+            "Boundaries",
+            "Planning and Cadastral",
+            "Administrative and Political Divisions"
+        ],
+        "dc_title_s":"Spheres of Influence for Cities in Napa County",
+        "dct_provenance_s":"Berkeley",
+        "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s73024/data.zip\"}",
+        "dct_spatial_sm":[
+            "Napa County (Calif.)",
+            "American Canyon (Calif.)",
+            "Napa (Calif.)",
+            "St Helena (Calif.)",
+            "Yountville (Calif.)",
+            "Calistoga (Calif.)"
+        ],
+        "geoblacklight_version":"1.0",
+        "layer_geom_type_s":"Polygon",
+        "layer_id_s":"s73024",
+        "layer_modified_dt":"2012-11-28T23:34:34.899Z",
+        "layer_slug_s":"ark28722-s73024",
+        "solr_geom":"ENVELOPE(-122.604292, -122.230231, 38.59804, 38.155206)",
+        "solr_year_i":2010
+    }
+]

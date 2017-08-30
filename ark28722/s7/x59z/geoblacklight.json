@@ -1,1 +1,27 @@
-[{"geoblacklight_version": "1.0", "dc_description_s": "Centerline file for Hayward and some surrounding county areas", "layer_geom_type_s": "Line", "layer_modified_dt": "2012-11-28T23:34:35.135Z", "dc_creator_sm": "City of Hawyard", "layer_id_s": "s7x59z", "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"http://spatial.lib.berkeley.edu/public/ark28722-s7x59z/data.zip\"}", "dc_identifier_s": "http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7x59z", "dct_provenance_s": "Berkeley", "dc_title_s": "Street Centerlines City of Hayward 2010", "layer_slug_s": "ark28722-s7x59z", "dc_publisher_s": "Hayward (Calif.)", "dc_format_s": "Shapefile", "dc_subject_sm": ["Transportation"], "solr_year_i": 2010, "solr_geom": "ENVELOPE(-122.275737, -121.87171, 37.70919, 37.561915)", "dc_rights_s": "Public", "dct_spatial_sm": ["Hayward (Calif.)", "Alameda County (Calif.)"]}]
+[
+    {
+        "dc_creator_sm":"City of Hawyard",
+        "dc_description_s":"Centerline file for Hayward and some surrounding county areas",
+        "dc_format_s":"Shapefile",
+        "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7x59z",
+        "dc_publisher_s":"Hayward (Calif.)",
+        "dc_rights_s":"Public",
+        "dc_subject_sm":[
+            "Transportation"
+        ],
+        "dc_title_s":"Street Centerlines City of Hayward 2010",
+        "dct_provenance_s":"Berkeley",
+        "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7x59z/data.zip\"}",
+        "dct_spatial_sm":[
+            "Hayward (Calif.)",
+            "Alameda County (Calif.)"
+        ],
+        "geoblacklight_version":"1.0",
+        "layer_geom_type_s":"Line",
+        "layer_id_s":"s7x59z",
+        "layer_modified_dt":"2012-11-28T23:34:35.135Z",
+        "layer_slug_s":"ark28722-s7x59z",
+        "solr_geom":"ENVELOPE(-122.275737, -121.87171, 37.70919, 37.561915)",
+        "solr_year_i":2010
+    }
+]

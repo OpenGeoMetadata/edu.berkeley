@@ -1,1 +1,28 @@
-[{"geoblacklight_version": "1.0", "dc_description_s": "Commercial, residential and public address locations in the City of Hayward, California", "layer_geom_type_s": "Point", "layer_modified_dt": "2012-11-28T23:34:35.128Z", "dc_creator_sm": "City of Hayard", "layer_id_s": "s7201f", "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"http://spatial.lib.berkeley.edu/public/ark28722-s7201f/data.zip\"}", "dc_identifier_s": "http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7201f", "dct_provenance_s": "Berkeley", "dc_title_s": "Address Points Hayward 2010", "layer_slug_s": "ark28722-s7201f", "dc_publisher_s": "Hayward (Calif.)", "dc_format_s": "Shapefile", "dc_subject_sm": ["Location", "Geodetic Networks"], "solr_year_i": 2010, "solr_geom": "ENVELOPE(-122.184245, -121.925872, 37.700083, 37.604694)", "dc_rights_s": "Public", "dct_spatial_sm": ["Hayward (Calif.)", "Alameda County (Calif.)"]}]
+[
+    {
+        "dc_creator_sm":"City of Hayard",
+        "dc_description_s":"Commercial, residential and public address locations in the City of Hayward, California",
+        "dc_format_s":"Shapefile",
+        "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7201f",
+        "dc_publisher_s":"Hayward (Calif.)",
+        "dc_rights_s":"Public",
+        "dc_subject_sm":[
+            "Location",
+            "Geodetic Networks"
+        ],
+        "dc_title_s":"Address Points Hayward 2010",
+        "dct_provenance_s":"Berkeley",
+        "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7201f/data.zip\"}",
+        "dct_spatial_sm":[
+            "Hayward (Calif.)",
+            "Alameda County (Calif.)"
+        ],
+        "geoblacklight_version":"1.0",
+        "layer_geom_type_s":"Point",
+        "layer_id_s":"s7201f",
+        "layer_modified_dt":"2012-11-28T23:34:35.128Z",
+        "layer_slug_s":"ark28722-s7201f",
+        "solr_geom":"ENVELOPE(-122.184245, -121.925872, 37.700083, 37.604694)",
+        "solr_year_i":2010
+    }
+]

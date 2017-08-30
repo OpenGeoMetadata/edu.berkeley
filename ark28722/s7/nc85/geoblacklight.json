@@ -1,1 +1,28 @@
-[{"geoblacklight_version": "1.0", "dc_description_s": "San Francisco Neighborhoods as designated by the San Francisco Association of Realtors (SFAR).  The data set was digitized from paper maps provided by Public Affairs personnel. DPW/ Public Affairs drew boundaries and assigned designations to 88 distinct neighborhoods. Note: Chinatown is not  designated.", "layer_geom_type_s": "Polygon", "layer_modified_dt": "2012-11-28T23:35:11.7Z", "dc_creator_sm": "Department of Public Works and Department of Public Affairs", "layer_id_s": "s7nc85", "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"http://spatial.lib.berkeley.edu/public/ark28722-s7nc85/data.zip\"}", "dc_identifier_s": "http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7nc85", "dct_provenance_s": "Berkeley", "dc_title_s": "Neighborhoods - SF Assoc. of Realtors", "layer_slug_s": "ark28722-s7nc85", "dc_publisher_s": "San Francisco (Calif.). Department Of Telecommunications and Information Services.", "dc_format_s": "Shapefile", "dc_subject_sm": ["Neighborhoods", "Location"], "solr_year_i": 1998, "solr_geom": "ENVELOPE(-122.51578, -122.356466, 37.812948, 37.706125)", "dc_rights_s": "Public", "dct_spatial_sm": ["San Francisco County (Calif.)", "San Francisco (Calif.)"]}]
+[
+    {
+        "dc_creator_sm":"Department of Public Works and Department of Public Affairs",
+        "dc_description_s":"San Francisco Neighborhoods as designated by the San Francisco Association of Realtors (SFAR).  The data set was digitized from paper maps provided by Public Affairs personnel. DPW/ Public Affairs drew boundaries and assigned designations to 88 distinct neighborhoods. Note: Chinatown is not  designated.",
+        "dc_format_s":"Shapefile",
+        "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7nc85",
+        "dc_publisher_s":"San Francisco (Calif.). Department Of Telecommunications and Information Services.",
+        "dc_rights_s":"Public",
+        "dc_subject_sm":[
+            "Neighborhoods",
+            "Location"
+        ],
+        "dc_title_s":"Neighborhoods - SF Assoc. of Realtors",
+        "dct_provenance_s":"Berkeley",
+        "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7nc85/data.zip\"}",
+        "dct_spatial_sm":[
+            "San Francisco County (Calif.)",
+            "San Francisco (Calif.)"
+        ],
+        "geoblacklight_version":"1.0",
+        "layer_geom_type_s":"Polygon",
+        "layer_id_s":"s7nc85",
+        "layer_modified_dt":"2012-11-28T23:35:11.7Z",
+        "layer_slug_s":"ark28722-s7nc85",
+        "solr_geom":"ENVELOPE(-122.51578, -122.356466, 37.812948, 37.706125)",
+        "solr_year_i":1998
+    }
+]

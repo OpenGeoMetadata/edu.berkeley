@@ -1,1 +1,27 @@
-[{"geoblacklight_version": "1.0", "dc_description_s": "Boundary for the Making Connections project in the Lower San Antonio area of Oakland California", "layer_geom_type_s": "Polygon", "layer_modified_dt": "2012-11-28T23:35:01.273Z", "dc_creator_sm": "City of Oakland, California", "layer_id_s": "s7989d", "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"http://spatial.lib.berkeley.edu/public/ark28722-s7989d/data.zip\"}", "dc_identifier_s": "http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7989d", "dct_provenance_s": "Berkeley", "dc_title_s": "Making Connections Lower San Antonio Oakland California 2006", "layer_slug_s": "ark28722-s7989d", "dc_publisher_s": "Oakland (Calif.)", "dc_format_s": "Shapefile", "dc_subject_sm": ["Boundaries", "Administrative and Political Divisions"], "solr_year_i": 2010, "solr_geom": "ENVELOPE(-122.266629, -122.223709, 37.801593, 37.771673)", "dc_rights_s": "Public", "dct_spatial_sm": ["Oakland (Calif.)"]}]
+[
+    {
+        "dc_creator_sm":"City of Oakland, California",
+        "dc_description_s":"Boundary for the Making Connections project in the Lower San Antonio area of Oakland California",
+        "dc_format_s":"Shapefile",
+        "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7989d",
+        "dc_publisher_s":"Oakland (Calif.)",
+        "dc_rights_s":"Public",
+        "dc_subject_sm":[
+            "Boundaries",
+            "Administrative and Political Divisions"
+        ],
+        "dc_title_s":"Making Connections Lower San Antonio Oakland California 2006",
+        "dct_provenance_s":"Berkeley",
+        "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7989d/data.zip\"}",
+        "dct_spatial_sm":[
+            "Oakland (Calif.)"
+        ],
+        "geoblacklight_version":"1.0",
+        "layer_geom_type_s":"Polygon",
+        "layer_id_s":"s7989d",
+        "layer_modified_dt":"2012-11-28T23:35:01.273Z",
+        "layer_slug_s":"ark28722-s7989d",
+        "solr_geom":"ENVELOPE(-122.266629, -122.223709, 37.801593, 37.771673)",
+        "solr_year_i":2010
+    }
+]

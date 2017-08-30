@@ -1,1 +1,28 @@
-[{"geoblacklight_version": "1.0", "dc_description_s": "State park boundaries as delineated  by Cal State Parks Survey Section", "layer_geom_type_s": "Polygon", "layer_modified_dt": "2012-11-28T23:34:45.564Z", "dc_creator_sm": "Cal State Parks - Acquisition and Development Division", "layer_id_s": "s7bc70", "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"http://spatial.lib.berkeley.edu/public/ark28722-s7bc70/data.zip\"}", "dc_identifier_s": "http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7bc70", "dct_provenance_s": "Berkeley", "dc_title_s": "csp09_2unitname", "layer_slug_s": "ark28722-s7bc70", "dc_publisher_s": "California. Cal State Parks - Acquisition and Development Division.", "dc_format_s": "Shapefile", "dc_subject_sm": ["Parks", "Environment", "Boundaries"], "solr_year_i": 2009, "solr_geom": "ENVELOPE(-124.268395, -113.910458, 42.064063, 32.441881)", "dc_rights_s": "Public", "dct_spatial_sm": ["California"]}]
+[
+    {
+        "dc_creator_sm":"Cal State Parks - Acquisition and Development Division",
+        "dc_description_s":"State park boundaries as delineated  by Cal State Parks Survey Section",
+        "dc_format_s":"Shapefile",
+        "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7bc70",
+        "dc_publisher_s":"California. Cal State Parks - Acquisition and Development Division.",
+        "dc_rights_s":"Public",
+        "dc_subject_sm":[
+            "Parks",
+            "Environment",
+            "Boundaries"
+        ],
+        "dc_title_s":"csp09_2unitname",
+        "dct_provenance_s":"Berkeley",
+        "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7bc70/data.zip\"}",
+        "dct_spatial_sm":[
+            "California"
+        ],
+        "geoblacklight_version":"1.0",
+        "layer_geom_type_s":"Polygon",
+        "layer_id_s":"s7bc70",
+        "layer_modified_dt":"2012-11-28T23:34:45.564Z",
+        "layer_slug_s":"ark28722-s7bc70",
+        "solr_geom":"ENVELOPE(-124.268395, -113.910458, 42.064063, 32.441881)",
+        "solr_year_i":2009
+    }
+]

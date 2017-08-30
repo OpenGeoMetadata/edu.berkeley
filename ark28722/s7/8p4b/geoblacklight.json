@@ -1,1 +1,27 @@
-[{"geoblacklight_version": "1.0", "dc_description_s": "Airport Clear Zones. The clear zones shown are those that are currently in place as well as zones that are awaiting amendment to the Airport Industrial Area Specific Plan to be consistent with clear zones depicted in the Napa County General Plan", "layer_geom_type_s": "Polygon", "layer_modified_dt": "2012-11-28T23:34:19.043Z", "dc_creator_sm": "Vestra Resources Inc.", "layer_id_s": "s78p4b", "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"http://spatial.lib.berkeley.edu/public/ark28722-s78p4b/data.zip\"}", "dc_identifier_s": "http://spatial.lib.berkeley.edu/viewpublic/ark28722-s78p4b", "dct_provenance_s": "Berkeley", "dc_title_s": "Clear Zones adopted by the Airport Industrial Area Specific Plan (AIASP)", "layer_slug_s": "ark28722-s78p4b", "dc_publisher_s": "Napa County (Calif.). County Of Napa.", "dc_format_s": "Shapefile", "dc_subject_sm": ["Planning and Cadastral", "Land Use"], "solr_year_i": 2003, "solr_geom": "ENVELOPE(-122.295491, -122.263974, 38.228437, 38.200198)", "dc_rights_s": "Public", "dct_spatial_sm": ["Napa County (Calif.)"]}]
+[
+    {
+        "dc_creator_sm":"Vestra Resources Inc.",
+        "dc_description_s":"Airport Clear Zones. The clear zones shown are those that are currently in place as well as zones that are awaiting amendment to the Airport Industrial Area Specific Plan to be consistent with clear zones depicted in the Napa County General Plan",
+        "dc_format_s":"Shapefile",
+        "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s78p4b",
+        "dc_publisher_s":"Napa County (Calif.). County Of Napa.",
+        "dc_rights_s":"Public",
+        "dc_subject_sm":[
+            "Planning and Cadastral",
+            "Land Use"
+        ],
+        "dc_title_s":"Clear Zones adopted by the Airport Industrial Area Specific Plan (AIASP)",
+        "dct_provenance_s":"Berkeley",
+        "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s78p4b/data.zip\"}",
+        "dct_spatial_sm":[
+            "Napa County (Calif.)"
+        ],
+        "geoblacklight_version":"1.0",
+        "layer_geom_type_s":"Polygon",
+        "layer_id_s":"s78p4b",
+        "layer_modified_dt":"2012-11-28T23:34:19.043Z",
+        "layer_slug_s":"ark28722-s78p4b",
+        "solr_geom":"ENVELOPE(-122.295491, -122.263974, 38.228437, 38.200198)",
+        "solr_year_i":2003
+    }
+]

@@ -1,1 +1,26 @@
-[{"geoblacklight_version": "1.0", "dc_description_s": "Waterbodies (lakes, lagoons, ponds etc) from TIGER files", "layer_geom_type_s": "Polygon", "layer_modified_dt": "2012-11-28T23:35:32.55Z", "dc_creator_sm": "MarinMap", "layer_id_s": "s7488g", "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"http://spatial.lib.berkeley.edu/public/ark28722-s7488g/data.zip\"}", "dc_identifier_s": "http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7488g", "dct_provenance_s": "Berkeley", "dc_title_s": "Water Bodies Marin County 2002", "layer_slug_s": "ark28722-s7488g", "dc_publisher_s": "San Rafael (Calif.). County Of Marin.", "dc_format_s": "Shapefile", "dc_subject_sm": ["Hydrology"], "solr_year_i": 2000, "solr_geom": "ENVELOPE(-122.962692, -122.460538, 38.231654, 37.821069)", "dc_rights_s": "Public", "dct_spatial_sm": ["Marin County (Calif.)"]}]
+[
+    {
+        "dc_creator_sm":"MarinMap",
+        "dc_description_s":"Waterbodies (lakes, lagoons, ponds etc) from TIGER files",
+        "dc_format_s":"Shapefile",
+        "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7488g",
+        "dc_publisher_s":"San Rafael (Calif.). County Of Marin.",
+        "dc_rights_s":"Public",
+        "dc_subject_sm":[
+            "Hydrology"
+        ],
+        "dc_title_s":"Water Bodies Marin County 2002",
+        "dct_provenance_s":"Berkeley",
+        "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7488g/data.zip\"}",
+        "dct_spatial_sm":[
+            "Marin County (Calif.)"
+        ],
+        "geoblacklight_version":"1.0",
+        "layer_geom_type_s":"Polygon",
+        "layer_id_s":"s7488g",
+        "layer_modified_dt":"2012-11-28T23:35:32.55Z",
+        "layer_slug_s":"ark28722-s7488g",
+        "solr_geom":"ENVELOPE(-122.962692, -122.460538, 38.231654, 37.821069)",
+        "solr_year_i":2000
+    }
+]

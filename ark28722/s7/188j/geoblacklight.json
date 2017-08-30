@@ -1,1 +1,27 @@
-[{"geoblacklight_version": "1.0", "dc_description_s": "This layer represents the orthophotography delivered by Merrick to the County of Sonoma.  The layer is divided up into 1596 different tiles which represent the individual photos of the orthophotography.  Smaller tiles represent high resolution orthophotography with 1/4 foot pixels with medium and large tiles representing decreasing resolution of 1/2 foot pixels, 1 foot pixels, and 2 foot pixels respectively.  The County GIS database encompasses the entire geographic extent of the project limits as defined in the scope of work documentation.  In order to rapidly reference and manage coverages, ARC/INFO graphic databases must be logically divided based on geographic area.  This module/area is termed a \"TILE\" by ARC/INFO.  In this project, the tile sizes are: 2000' (\"y\" axis) by 3000' (\"x\" axis) - Cotati, Rohnert Park and Petaluma, 4000' (\"y\" axis) by 6000' (\"x\" axis) - Areas of Significant Interest (Including Santa Rosa), 8000' (\"y\" axis) by 12000' (\"x\" axis) - Areas of Lesser Interest", "layer_geom_type_s": "Polygon", "layer_modified_dt": "2012-11-28T23:35:11.752Z", "dc_creator_sm": "County of Sonoma GIS Central", "layer_id_s": "s7188j", "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"http://spatial.lib.berkeley.edu/public/ark28722-s7188j/data.zip\"}", "dc_identifier_s": "http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7188j", "dct_provenance_s": "Berkeley", "dc_title_s": "REF_ORTHINDX", "layer_slug_s": "ark28722-s7188j", "dc_publisher_s": "Santa Rosa (Calif.). County Of Sonoma Gis Central.", "dc_format_s": "Shapefile", "dc_subject_sm": ["Imagery and Base Maps", "Aerial Photos"], "solr_year_i": 2001, "solr_geom": "ENVELOPE(-122.713822, -122.703251, 38.366298, 38.355251)", "dc_rights_s": "Public", "dct_spatial_sm": ["Sonoma County (Calif.)"]}]
+[
+    {
+        "dc_creator_sm":"County of Sonoma GIS Central",
+        "dc_description_s":"This layer represents the orthophotography delivered by Merrick to the County of Sonoma.  The layer is divided up into 1596 different tiles which represent the individual photos of the orthophotography.  Smaller tiles represent high resolution orthophotography with 1/4 foot pixels with medium and large tiles representing decreasing resolution of 1/2 foot pixels, 1 foot pixels, and 2 foot pixels respectively.  The County GIS database encompasses the entire geographic extent of the project limits as defined in the scope of work documentation.  In order to rapidly reference and manage coverages, ARC/INFO graphic databases must be logically divided based on geographic area.  This module/area is termed a \"TILE\" by ARC/INFO.  In this project, the tile sizes are: 2000' (\"y\" axis) by 3000' (\"x\" axis) - Cotati, Rohnert Park and Petaluma, 4000' (\"y\" axis) by 6000' (\"x\" axis) - Areas of Significant Interest (Including Santa Rosa), 8000' (\"y\" axis) by 12000' (\"x\" axis) - Areas of Lesser Interest",
+        "dc_format_s":"Shapefile",
+        "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7188j",
+        "dc_publisher_s":"Santa Rosa (Calif.). County Of Sonoma Gis Central.",
+        "dc_rights_s":"Public",
+        "dc_subject_sm":[
+            "Imagery and Base Maps",
+            "Aerial Photos"
+        ],
+        "dc_title_s":"REF_ORTHINDX",
+        "dct_provenance_s":"Berkeley",
+        "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7188j/data.zip\"}",
+        "dct_spatial_sm":[
+            "Sonoma County (Calif.)"
+        ],
+        "geoblacklight_version":"1.0",
+        "layer_geom_type_s":"Polygon",
+        "layer_id_s":"s7188j",
+        "layer_modified_dt":"2012-11-28T23:35:11.752Z",
+        "layer_slug_s":"ark28722-s7188j",
+        "solr_geom":"ENVELOPE(-122.713822, -122.703251, 38.366298, 38.355251)",
+        "solr_year_i":2001
+    }
+]

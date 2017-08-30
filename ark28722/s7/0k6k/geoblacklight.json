@@ -1,1 +1,28 @@
-[{"geoblacklight_version": "1.0", "dc_description_s": "Address points for San Francisco derived from Department of Building Inspection's Address Verification System (AVS), the Assessor-Recorder Office's Parcel database, Department of Elections, Street Centerline Network, and other sources.", "layer_geom_type_s": "Point", "layer_modified_dt": "2012-11-28T23:35:16.942Z", "dc_creator_sm": "Department of Telecommunications and Informations Services", "layer_id_s": "s70k6k", "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"http://spatial.lib.berkeley.edu/public/ark28722-s70k6k/data.zip\"}", "dc_identifier_s": "http://spatial.lib.berkeley.edu/viewpublic/ark28722-s70k6k", "dct_provenance_s": "Berkeley", "dc_title_s": "San Francisco Addresses", "layer_slug_s": "ark28722-s70k6k", "dc_publisher_s": "San Francisco (Calif.). Department Of Telecommunications and Information Services.", "dc_format_s": "Shapefile", "dc_subject_sm": ["Location", "Addresses"], "solr_year_i": 2004, "solr_geom": "ENVELOPE(-122.515818, -122.361099, 37.831862, 37.706328)", "dc_rights_s": "Public", "dct_spatial_sm": ["San Francisco County (Calif.)", "San Francisco (Calif.)"]}]
+[
+    {
+        "dc_creator_sm":"Department of Telecommunications and Informations Services",
+        "dc_description_s":"Address points for San Francisco derived from Department of Building Inspection's Address Verification System (AVS), the Assessor-Recorder Office's Parcel database, Department of Elections, Street Centerline Network, and other sources.",
+        "dc_format_s":"Shapefile",
+        "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s70k6k",
+        "dc_publisher_s":"San Francisco (Calif.). Department Of Telecommunications and Information Services.",
+        "dc_rights_s":"Public",
+        "dc_subject_sm":[
+            "Location",
+            "Addresses"
+        ],
+        "dc_title_s":"San Francisco Addresses",
+        "dct_provenance_s":"Berkeley",
+        "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s70k6k/data.zip\"}",
+        "dct_spatial_sm":[
+            "San Francisco County (Calif.)",
+            "San Francisco (Calif.)"
+        ],
+        "geoblacklight_version":"1.0",
+        "layer_geom_type_s":"Point",
+        "layer_id_s":"s70k6k",
+        "layer_modified_dt":"2012-11-28T23:35:16.942Z",
+        "layer_slug_s":"ark28722-s70k6k",
+        "solr_geom":"ENVELOPE(-122.515818, -122.361099, 37.831862, 37.706328)",
+        "solr_year_i":2004
+    }
+]

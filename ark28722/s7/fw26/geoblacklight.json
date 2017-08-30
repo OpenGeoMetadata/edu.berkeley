@@ -1,1 +1,28 @@
-[{"geoblacklight_version": "1.0", "dc_description_s": "Library is a point representation of libraries in Marin County.", "layer_geom_type_s": "Point", "layer_modified_dt": "2012-11-28T23:34:56.194Z", "dc_creator_sm": "County of Marin", "layer_id_s": "s7fw26", "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"http://spatial.lib.berkeley.edu/public/ark28722-s7fw26/data.zip\"}", "dc_identifier_s": "http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7fw26", "dct_provenance_s": "Berkeley", "dc_title_s": "Library", "layer_slug_s": "ark28722-s7fw26", "dc_publisher_s": "San Rafael (Calif.). County Of Marin Community Development Agency.", "dc_format_s": "Shapefile", "dc_subject_sm": ["Libraries", "Society", "Structure"], "solr_year_i": 2009, "solr_geom": "ENVELOPE(-122.853462, -122.460981, 38.109096, 37.853162)", "dc_rights_s": "Public", "dct_spatial_sm": ["Marin County (Calif.)"]}]
+[
+    {
+        "dc_creator_sm":"County of Marin",
+        "dc_description_s":"Library is a point representation of libraries in Marin County.",
+        "dc_format_s":"Shapefile",
+        "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7fw26",
+        "dc_publisher_s":"San Rafael (Calif.). County Of Marin Community Development Agency.",
+        "dc_rights_s":"Public",
+        "dc_subject_sm":[
+            "Libraries",
+            "Society",
+            "Structure"
+        ],
+        "dc_title_s":"Library",
+        "dct_provenance_s":"Berkeley",
+        "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7fw26/data.zip\"}",
+        "dct_spatial_sm":[
+            "Marin County (Calif.)"
+        ],
+        "geoblacklight_version":"1.0",
+        "layer_geom_type_s":"Point",
+        "layer_id_s":"s7fw26",
+        "layer_modified_dt":"2012-11-28T23:34:56.194Z",
+        "layer_slug_s":"ark28722-s7fw26",
+        "solr_geom":"ENVELOPE(-122.853462, -122.460981, 38.109096, 37.853162)",
+        "solr_year_i":2009
+    }
+]

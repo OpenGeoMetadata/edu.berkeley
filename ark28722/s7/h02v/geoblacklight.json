@@ -1,1 +1,27 @@
-[{"geoblacklight_version": "1.0", "dc_description_s": "Napa County Viewshed Roads per the Viewshed Protection Ordinance.", "layer_geom_type_s": "Line", "layer_modified_dt": "2012-11-28T23:35:16.83Z", "dc_creator_sm": "Napa County Conservation, Development   Planning", "layer_id_s": "s7h02v", "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"http://spatial.lib.berkeley.edu/public/ark28722-s7h02v/data.zip\"}", "dc_identifier_s": "http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7h02v", "dct_provenance_s": "Berkeley", "dc_title_s": "viewshed_roads", "layer_slug_s": "ark28722-s7h02v", "dc_publisher_s": "Napa County (Calif.). County Of Napa.", "dc_format_s": "Shapefile", "dc_subject_sm": ["Transportation", "Roads"], "solr_year_i": 2003, "solr_geom": "ENVELOPE(-122.697332, -122.027477, 38.878136, 38.115624)", "dc_rights_s": "Public", "dct_spatial_sm": ["Napa County (Calif.)"]}]
+[
+    {
+        "dc_creator_sm":"Napa County Conservation, Development   Planning",
+        "dc_description_s":"Napa County Viewshed Roads per the Viewshed Protection Ordinance.",
+        "dc_format_s":"Shapefile",
+        "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7h02v",
+        "dc_publisher_s":"Napa County (Calif.). County Of Napa.",
+        "dc_rights_s":"Public",
+        "dc_subject_sm":[
+            "Transportation",
+            "Roads"
+        ],
+        "dc_title_s":"viewshed_roads",
+        "dct_provenance_s":"Berkeley",
+        "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7h02v/data.zip\"}",
+        "dct_spatial_sm":[
+            "Napa County (Calif.)"
+        ],
+        "geoblacklight_version":"1.0",
+        "layer_geom_type_s":"Line",
+        "layer_id_s":"s7h02v",
+        "layer_modified_dt":"2012-11-28T23:35:16.83Z",
+        "layer_slug_s":"ark28722-s7h02v",
+        "solr_geom":"ENVELOPE(-122.697332, -122.027477, 38.878136, 38.115624)",
+        "solr_year_i":2003
+    }
+]
