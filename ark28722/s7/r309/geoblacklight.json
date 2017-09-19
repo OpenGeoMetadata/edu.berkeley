@@ -5,14 +5,14 @@
         "dc_format_s":"Shapefile",
         "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7r309",
         "dc_publisher_s":"San Rafael (Calif.). County Of Marin.",
-        "dc_rights_s":"Restricted",
+        "dc_rights_s":"Public",
         "dc_subject_sm":[
             "Ocean",
             "Estuaries"
         ],
         "dc_title_s":"Water Ripple Marin County 2007",
         "dct_provenance_s":"Berkeley",
-        "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://34.208.84.69:8080/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://34.208.84.69:8080/geoserver/wms\",\"http://schema.org/downloadUrl\":\"http://spatial.lib.berkeley.edu/UCB/ark28722-s7r309/data.zip\"}",
+        "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://34.208.84.69:8080/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://34.208.84.69:8080/geoserver/wms\",\"http://schema.org/downloadUrl\":\"http://spatial.lib.berkeley.edu/public/ark28722-s7r309/data.zip\"}",
         "dct_spatial_sm":[
             "Marin County (Calif.)"
         ],
