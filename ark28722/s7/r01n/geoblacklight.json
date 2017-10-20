@@ -1,26 +1,24 @@
-[
-    {
-        "dc_creator_sm":"Santa Clara County",
-        "dc_description_s":"Landslide Hazard Zones in Santa Clara County, California",
-        "dc_format_s":"Shapefile",
-        "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7r01n",
-        "dc_publisher_s":"San Jose (Calif.). Santa Clara County Planning Office.",
-        "dc_rights_s":"Public",
-        "dc_subject_sm":[
-            "Geology"
-        ],
-        "dc_title_s":"Sliding Santa Clara County 2006",
-        "dct_provenance_s":"Berkeley",
-        "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7r01n/data.zip\"}",
-        "dct_spatial_sm":[
-            "Santa Clara County (Calif.)"
-        ],
-        "geoblacklight_version":"1.0",
-        "layer_geom_type_s":"Polygon",
-        "layer_id_s":"s7r01n",
-        "layer_modified_dt":"2012-11-28T23:35:22.177Z",
-        "layer_slug_s":"ark28722-s7r01n",
-        "solr_geom":"ENVELOPE(-122.256466, -121.206869, 37.490345, 36.889671)",
-        "solr_year_i":2006
-    }
-]
+{
+    "dc_creator_sm":"Santa Clara County",
+    "dc_description_s":"Landslide Hazard Zones in Santa Clara County, California",
+    "dc_format_s":"Shapefile",
+    "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7r01n",
+    "dc_publisher_s":"San Jose (Calif.). Santa Clara County Planning Office.",
+    "dc_rights_s":"Public",
+    "dc_subject_sm":[
+        "Geology"
+    ],
+    "dc_title_s":"Sliding Santa Clara County 2006",
+    "dct_provenance_s":"Berkeley",
+    "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7r01n/data.zip\"}",
+    "dct_spatial_sm":[
+        "Santa Clara County (Calif.)"
+    ],
+    "geoblacklight_version":"1.0",
+    "layer_geom_type_s":"Polygon",
+    "layer_id_s":"s7r01n",
+    "layer_modified_dt":"2012-11-28T23:35:22.177Z",
+    "layer_slug_s":"ark28722-s7r01n",
+    "solr_geom":"ENVELOPE(-122.256466, -121.206869, 37.490345, 36.889671)",
+    "solr_year_i":2006
+}

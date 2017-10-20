@@ -1,27 +1,25 @@
-[
-    {
-        "dc_description_s":"San Francisco neighborhoods according to Department of City Planning, plus the Treasure Island and Yerbai Island neighborhood.",
-        "dc_format_s":"Shapefile",
-        "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s71k5h",
-        "dc_publisher_s":"San Francisco (Calif.). Department Of Telecommunications and Information Services.",
-        "dc_rights_s":"Public",
-        "dc_subject_sm":[
-            "Neighborhoods",
-            "Location"
-        ],
-        "dc_title_s":"Neighborhoods Plus Treasure Island",
-        "dct_provenance_s":"Berkeley",
-        "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s71k5h/data.zip\"}",
-        "dct_spatial_sm":[
-            "San Francisco County (Calif.)",
-            "San Francisco (Calif.)"
-        ],
-        "geoblacklight_version":"1.0",
-        "layer_geom_type_s":"Polygon",
-        "layer_id_s":"s71k5h",
-        "layer_modified_dt":"2012-11-28T23:35:06.567Z",
-        "layer_slug_s":"ark28722-s71k5h",
-        "solr_geom":"ENVELOPE(-122.516338, -122.356202, 37.833505, 37.706124)",
-        "solr_year_i":2004
-    }
-]
+{
+    "dc_description_s":"San Francisco neighborhoods according to Department of City Planning, plus the Treasure Island and Yerbai Island neighborhood.",
+    "dc_format_s":"Shapefile",
+    "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s71k5h",
+    "dc_publisher_s":"San Francisco (Calif.). Department Of Telecommunications and Information Services.",
+    "dc_rights_s":"Public",
+    "dc_subject_sm":[
+        "Neighborhoods",
+        "Location"
+    ],
+    "dc_title_s":"Neighborhoods Plus Treasure Island",
+    "dct_provenance_s":"Berkeley",
+    "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s71k5h/data.zip\"}",
+    "dct_spatial_sm":[
+        "San Francisco County (Calif.)",
+        "San Francisco (Calif.)"
+    ],
+    "geoblacklight_version":"1.0",
+    "layer_geom_type_s":"Polygon",
+    "layer_id_s":"s71k5h",
+    "layer_modified_dt":"2012-11-28T23:35:06.567Z",
+    "layer_slug_s":"ark28722-s71k5h",
+    "solr_geom":"ENVELOPE(-122.516338, -122.356202, 37.833505, 37.706124)",
+    "solr_year_i":2004
+}

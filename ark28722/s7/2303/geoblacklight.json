@@ -1,34 +1,32 @@
-[
-    {
-        "dc_creator_sm":"Vestra Resources Inc. Redding, CA",
-        "dc_description_s":"Sphere of Influence for County Service Area #4.",
-        "dc_format_s":"Shapefile",
-        "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s72303",
-        "dc_publisher_s":"Napa County (Calif.). County Of Napa.",
-        "dc_rights_s":"Public",
-        "dc_subject_sm":[
-            "Boundaries",
-            "Infrastructure",
-            "Services",
-            "Housing"
-        ],
-        "dc_title_s":"Sphere of Influence for County Service Area #4",
-        "dct_provenance_s":"Berkeley",
-        "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s72303/data.zip\"}",
-        "dct_spatial_sm":[
-            "Napa County (Calif.)",
-            "American Canyon (Calif.)",
-            "Napa (Calif.)",
-            "St Helena (Calif.)",
-            "Yountville (Calif.)",
-            "Calistoga (Calif.)"
-        ],
-        "geoblacklight_version":"1.0",
-        "layer_geom_type_s":"Polygon",
-        "layer_id_s":"s72303",
-        "layer_modified_dt":"2012-11-28T23:34:35.119Z",
-        "layer_slug_s":"ark28722-s72303",
-        "solr_geom":"ENVELOPE(-122.646538, -122.061372, 38.864289, 38.154937)",
-        "solr_year_i":2010
-    }
-]
+{
+    "dc_creator_sm":"Vestra Resources Inc. Redding, CA",
+    "dc_description_s":"Sphere of Influence for County Service Area #4.",
+    "dc_format_s":"Shapefile",
+    "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s72303",
+    "dc_publisher_s":"Napa County (Calif.). County Of Napa.",
+    "dc_rights_s":"Public",
+    "dc_subject_sm":[
+        "Boundaries",
+        "Infrastructure",
+        "Services",
+        "Housing"
+    ],
+    "dc_title_s":"Sphere of Influence for County Service Area #4",
+    "dct_provenance_s":"Berkeley",
+    "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s72303/data.zip\"}",
+    "dct_spatial_sm":[
+        "Napa County (Calif.)",
+        "American Canyon (Calif.)",
+        "Napa (Calif.)",
+        "St Helena (Calif.)",
+        "Yountville (Calif.)",
+        "Calistoga (Calif.)"
+    ],
+    "geoblacklight_version":"1.0",
+    "layer_geom_type_s":"Polygon",
+    "layer_id_s":"s72303",
+    "layer_modified_dt":"2012-11-28T23:34:35.119Z",
+    "layer_slug_s":"ark28722-s72303",
+    "solr_geom":"ENVELOPE(-122.646538, -122.061372, 38.864289, 38.154937)",
+    "solr_year_i":2010
+}

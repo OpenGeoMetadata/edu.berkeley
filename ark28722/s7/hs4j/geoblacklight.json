@@ -1,38 +1,36 @@
-[
-    {
-        "dc_creator_sm":"US Census Bureau",
-        "dc_description_s":"Bay Area Counties.",
-        "dc_format_s":"Shapefile",
-        "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7hs4j",
-        "dc_publisher_s":"San Francisco (Calif.). Department Of Telecommunications and Information Services.",
-        "dc_rights_s":"Public",
-        "dc_subject_sm":[
-            "Boundaries",
-            "Administrative and Political Divisions"
-        ],
-        "dc_title_s":"Bay Area Counties",
-        "dct_provenance_s":"Berkeley",
-        "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7hs4j/data.zip\"}",
-        "dct_spatial_sm":[
-            "San Francisco Bay (Calif.)",
-            "San Francisco Bay Area (Calif.)",
-            "Alameda County (Calif.)",
-            "Contra Costa County (Calif.)",
-            "Marin County (Calif.)",
-            "Napa County (Calif.)",
-            "San Francisco County (Calif.)",
-            "San Francisco (Calif.)",
-            "San Mateo County (Calif.)",
-            "Santa Clara County (Calif.)",
-            "Solano County (Calif.)",
-            "Sonoma County (Calif.)"
-        ],
-        "geoblacklight_version":"1.0",
-        "layer_geom_type_s":"Polygon",
-        "layer_id_s":"s7hs4j",
-        "layer_modified_dt":"2012-11-28T23:34:24.312Z",
-        "layer_slug_s":"ark28722-s7hs4j",
-        "solr_geom":"ENVELOPE(-123.536726, -121.206626, 38.878067, 36.861586)",
-        "solr_year_i":2006
-    }
-]
+{
+    "dc_creator_sm":"US Census Bureau",
+    "dc_description_s":"Bay Area Counties.",
+    "dc_format_s":"Shapefile",
+    "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7hs4j",
+    "dc_publisher_s":"San Francisco (Calif.). Department Of Telecommunications and Information Services.",
+    "dc_rights_s":"Public",
+    "dc_subject_sm":[
+        "Boundaries",
+        "Administrative and Political Divisions"
+    ],
+    "dc_title_s":"Bay Area Counties",
+    "dct_provenance_s":"Berkeley",
+    "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7hs4j/data.zip\"}",
+    "dct_spatial_sm":[
+        "San Francisco Bay (Calif.)",
+        "San Francisco Bay Area (Calif.)",
+        "Alameda County (Calif.)",
+        "Contra Costa County (Calif.)",
+        "Marin County (Calif.)",
+        "Napa County (Calif.)",
+        "San Francisco County (Calif.)",
+        "San Francisco (Calif.)",
+        "San Mateo County (Calif.)",
+        "Santa Clara County (Calif.)",
+        "Solano County (Calif.)",
+        "Sonoma County (Calif.)"
+    ],
+    "geoblacklight_version":"1.0",
+    "layer_geom_type_s":"Polygon",
+    "layer_id_s":"s7hs4j",
+    "layer_modified_dt":"2012-11-28T23:34:24.312Z",
+    "layer_slug_s":"ark28722-s7hs4j",
+    "solr_geom":"ENVELOPE(-123.536726, -121.206626, 38.878067, 36.861586)",
+    "solr_year_i":2006
+}

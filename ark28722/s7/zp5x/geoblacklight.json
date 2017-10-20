@@ -1,28 +1,26 @@
-[
-    {
-        "dc_creator_sm":"Real Estate Division/Department of Administrative Services",
-        "dc_description_s":"San Francisco Facilities - City-Owned, City-Leased and other designated Critical Facilities (hospitals, shelters, et al.). Each point represents an active facility according the Real Estate Information System (REIS), formerly ICPD).  The primary key, [FACILITY_I], is the link back to the REIS table CITYFACILS.  The REIS serves as the foundation for information regarding City Property, from which is produced, among other things, the Real Estate Property Book.",
-        "dc_format_s":"Shapefile",
-        "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7zp5x",
-        "dc_publisher_s":"San Francisco (Calif.). Department Of Telecommunications and Information Services.",
-        "dc_rights_s":"Public",
-        "dc_subject_sm":[
-            "Facilities",
-            "Critical Facilities"
-        ],
-        "dc_title_s":"SDE.SFGIS.SFLNDS_PUBLIC_ALL",
-        "dct_provenance_s":"Berkeley",
-        "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7zp5x/data.zip\"}",
-        "dct_spatial_sm":[
-            "San Francisco County (Calif.)",
-            "San Francisco (Calif.)"
-        ],
-        "geoblacklight_version":"1.0",
-        "layer_geom_type_s":"Polygon",
-        "layer_id_s":"s7zp5x",
-        "layer_modified_dt":"2012-11-28T23:35:21.995Z",
-        "layer_slug_s":"ark28722-s7zp5x",
-        "solr_geom":"ENVELOPE(-122.517761, -122.350876, 37.812596, 37.602168)",
-        "solr_year_i":2002
-    }
-]
+{
+    "dc_creator_sm":"Real Estate Division/Department of Administrative Services",
+    "dc_description_s":"San Francisco Facilities - City-Owned, City-Leased and other designated Critical Facilities (hospitals, shelters, et al.). Each point represents an active facility according the Real Estate Information System (REIS), formerly ICPD).  The primary key, [FACILITY_I], is the link back to the REIS table CITYFACILS.  The REIS serves as the foundation for information regarding City Property, from which is produced, among other things, the Real Estate Property Book.",
+    "dc_format_s":"Shapefile",
+    "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7zp5x",
+    "dc_publisher_s":"San Francisco (Calif.). Department Of Telecommunications and Information Services.",
+    "dc_rights_s":"Public",
+    "dc_subject_sm":[
+        "Facilities",
+        "Critical Facilities"
+    ],
+    "dc_title_s":"SDE.SFGIS.SFLNDS_PUBLIC_ALL",
+    "dct_provenance_s":"Berkeley",
+    "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7zp5x/data.zip\"}",
+    "dct_spatial_sm":[
+        "San Francisco County (Calif.)",
+        "San Francisco (Calif.)"
+    ],
+    "geoblacklight_version":"1.0",
+    "layer_geom_type_s":"Polygon",
+    "layer_id_s":"s7zp5x",
+    "layer_modified_dt":"2012-11-28T23:35:21.995Z",
+    "layer_slug_s":"ark28722-s7zp5x",
+    "solr_geom":"ENVELOPE(-122.517761, -122.350876, 37.812596, 37.602168)",
+    "solr_year_i":2002
+}

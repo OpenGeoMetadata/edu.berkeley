@@ -1,31 +1,29 @@
-[
-    {
-        "dc_creator_sm":"Lynsey Wickman - County of Napa Conservation, Development   Planning Department",
-        "dc_description_s":"Airport Land Use Commission (ALUC) Zones in Napa County.",
-        "dc_format_s":"Shapefile",
-        "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7rp52",
-        "dc_publisher_s":"Napa County (Calif.). County Of Napa.",
-        "dc_rights_s":"Public",
-        "dc_subject_sm":[
-            "Planningcadastre",
-            "Boundaries",
-            "Land Use",
-            "Airport",
-            "Zoning"
-        ],
-        "dc_title_s":"Napa Airport Compatibility Zone",
-        "dct_provenance_s":"Berkeley",
-        "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7rp52/data.zip\"}",
-        "dct_spatial_sm":[
-            "Napa County (Calif.)",
-            "Napa (Calif.)"
-        ],
-        "geoblacklight_version":"1.0",
-        "layer_geom_type_s":"Polygon",
-        "layer_id_s":"s7rp52",
-        "layer_modified_dt":"2012-11-28T23:34:19.104Z",
-        "layer_slug_s":"ark28722-s7rp52",
-        "solr_geom":"ENVELOPE(-122.337295, -122.222181, 38.262055, 38.168926)",
-        "solr_year_i":2010
-    }
-]
+{
+    "dc_creator_sm":"Lynsey Wickman - County of Napa Conservation, Development   Planning Department",
+    "dc_description_s":"Airport Land Use Commission (ALUC) Zones in Napa County.",
+    "dc_format_s":"Shapefile",
+    "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7rp52",
+    "dc_publisher_s":"Napa County (Calif.). County Of Napa.",
+    "dc_rights_s":"Public",
+    "dc_subject_sm":[
+        "Planningcadastre",
+        "Boundaries",
+        "Land Use",
+        "Airport",
+        "Zoning"
+    ],
+    "dc_title_s":"Napa Airport Compatibility Zone",
+    "dct_provenance_s":"Berkeley",
+    "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7rp52/data.zip\"}",
+    "dct_spatial_sm":[
+        "Napa County (Calif.)",
+        "Napa (Calif.)"
+    ],
+    "geoblacklight_version":"1.0",
+    "layer_geom_type_s":"Polygon",
+    "layer_id_s":"s7rp52",
+    "layer_modified_dt":"2012-11-28T23:34:19.104Z",
+    "layer_slug_s":"ark28722-s7rp52",
+    "solr_geom":"ENVELOPE(-122.337295, -122.222181, 38.262055, 38.168926)",
+    "solr_year_i":2010
+}

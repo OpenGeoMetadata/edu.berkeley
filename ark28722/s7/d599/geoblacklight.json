@@ -1,28 +1,26 @@
-[
-    {
-        "dc_creator_sm":"City of Hayward",
-        "dc_description_s":"City of Hayward Parcel Base Layer",
-        "dc_format_s":"Shapefile",
-        "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7d599",
-        "dc_publisher_s":"Hayward (Calif.)",
-        "dc_rights_s":"Public",
-        "dc_subject_sm":[
-            "Boundaries",
-            "Administrative and Political Divisions"
-        ],
-        "dc_title_s":"Hayward Parcels 2010",
-        "dct_provenance_s":"Berkeley",
-        "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7d599/data.zip\"}",
-        "dct_spatial_sm":[
-            "Hayward (Calif.)",
-            "Alameda County (Calif.)"
-        ],
-        "geoblacklight_version":"1.0",
-        "layer_geom_type_s":"Polygon",
-        "layer_id_s":"s7d599",
-        "layer_modified_dt":"2012-11-28T23:34:35.179Z",
-        "layer_slug_s":"ark28722-s7d599",
-        "solr_geom":"ENVELOPE(-122.215312, -121.914216, 37.70313, 37.546253)",
-        "solr_year_i":2010
-    }
-]
+{
+    "dc_creator_sm":"City of Hayward",
+    "dc_description_s":"City of Hayward Parcel Base Layer",
+    "dc_format_s":"Shapefile",
+    "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7d599",
+    "dc_publisher_s":"Hayward (Calif.)",
+    "dc_rights_s":"Public",
+    "dc_subject_sm":[
+        "Boundaries",
+        "Administrative and Political Divisions"
+    ],
+    "dc_title_s":"Hayward Parcels 2010",
+    "dct_provenance_s":"Berkeley",
+    "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7d599/data.zip\"}",
+    "dct_spatial_sm":[
+        "Hayward (Calif.)",
+        "Alameda County (Calif.)"
+    ],
+    "geoblacklight_version":"1.0",
+    "layer_geom_type_s":"Polygon",
+    "layer_id_s":"s7d599",
+    "layer_modified_dt":"2012-11-28T23:34:35.179Z",
+    "layer_slug_s":"ark28722-s7d599",
+    "solr_geom":"ENVELOPE(-122.215312, -121.914216, 37.70313, 37.546253)",
+    "solr_year_i":2010
+}

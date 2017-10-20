@@ -1,29 +1,27 @@
-[
-    {
-        "dc_creator_sm":"DTIS",
-        "dc_description_s":"The Presidio of San Francisco. Layer created from Block 1300, Lot 001 of Citylots layers.",
-        "dc_format_s":"Shapefile",
-        "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s72c8w",
-        "dc_publisher_s":"San Francisco (Calif.). Department Of Telecommunications and Information Services.",
-        "dc_rights_s":"Public",
-        "dc_subject_sm":[
-            "Recreation Area",
-            "Military Base",
-            "Society"
-        ],
-        "dc_title_s":"The Presidio",
-        "dct_provenance_s":"Berkeley",
-        "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s72c8w/data.zip\"}",
-        "dct_spatial_sm":[
-            "San Francisco County (Calif.)",
-            "San Francisco (Calif.)"
-        ],
-        "geoblacklight_version":"1.0",
-        "layer_geom_type_s":"Polygon",
-        "layer_id_s":"s72c8w",
-        "layer_modified_dt":"2012-11-28T23:35:22.095Z",
-        "layer_slug_s":"ark28722-s72c8w",
-        "solr_geom":"ENVELOPE(-122.486518, -122.446346, 37.81153, 37.7866)",
-        "solr_year_i":2005
-    }
-]
+{
+    "dc_creator_sm":"DTIS",
+    "dc_description_s":"The Presidio of San Francisco. Layer created from Block 1300, Lot 001 of Citylots layers.",
+    "dc_format_s":"Shapefile",
+    "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s72c8w",
+    "dc_publisher_s":"San Francisco (Calif.). Department Of Telecommunications and Information Services.",
+    "dc_rights_s":"Public",
+    "dc_subject_sm":[
+        "Recreation Area",
+        "Military Base",
+        "Society"
+    ],
+    "dc_title_s":"The Presidio",
+    "dct_provenance_s":"Berkeley",
+    "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s72c8w/data.zip\"}",
+    "dct_spatial_sm":[
+        "San Francisco County (Calif.)",
+        "San Francisco (Calif.)"
+    ],
+    "geoblacklight_version":"1.0",
+    "layer_geom_type_s":"Polygon",
+    "layer_id_s":"s72c8w",
+    "layer_modified_dt":"2012-11-28T23:35:22.095Z",
+    "layer_slug_s":"ark28722-s72c8w",
+    "solr_geom":"ENVELOPE(-122.486518, -122.446346, 37.81153, 37.7866)",
+    "solr_year_i":2005
+}

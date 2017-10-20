@@ -1,28 +1,26 @@
-[
-    {
-        "dc_creator_sm":"San Mateo County",
-        "dc_description_s":"5 foot topographic contours in San Mateo County, California",
-        "dc_format_s":"Shapefile",
-        "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s71g77",
-        "dc_publisher_s":"San Mateo County (Calif.). County Of San Mateo.",
-        "dc_rights_s":"Public",
-        "dc_subject_sm":[
-            "Elevation",
-            "Topography",
-            "Contours"
-        ],
-        "dc_title_s":"Elevation Contours San Mateo County 2011",
-        "dct_provenance_s":"Berkeley",
-        "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s71g77/data.zip\"}",
-        "dct_spatial_sm":[
-            "San Mateo County (Calif.)"
-        ],
-        "geoblacklight_version":"1.0",
-        "layer_geom_type_s":"Line",
-        "layer_id_s":"s71g77",
-        "layer_modified_dt":"2012-11-28T23:34:50.921Z",
-        "layer_slug_s":"ark28722-s71g77",
-        "solr_geom":"ENVELOPE(-122.525307, -122.094955, 37.71548, 37.106025)",
-        "solr_year_i":2011
-    }
-]
+{
+    "dc_creator_sm":"San Mateo County",
+    "dc_description_s":"5 foot topographic contours in San Mateo County, California",
+    "dc_format_s":"Shapefile",
+    "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s71g77",
+    "dc_publisher_s":"San Mateo County (Calif.). County Of San Mateo.",
+    "dc_rights_s":"Public",
+    "dc_subject_sm":[
+        "Elevation",
+        "Topography",
+        "Contours"
+    ],
+    "dc_title_s":"Elevation Contours San Mateo County 2011",
+    "dct_provenance_s":"Berkeley",
+    "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s71g77/data.zip\"}",
+    "dct_spatial_sm":[
+        "San Mateo County (Calif.)"
+    ],
+    "geoblacklight_version":"1.0",
+    "layer_geom_type_s":"Line",
+    "layer_id_s":"s71g77",
+    "layer_modified_dt":"2012-11-28T23:34:50.921Z",
+    "layer_slug_s":"ark28722-s71g77",
+    "solr_geom":"ENVELOPE(-122.525307, -122.094955, 37.71548, 37.106025)",
+    "solr_year_i":2011
+}

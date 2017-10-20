@@ -1,28 +1,26 @@
-[
-    {
-        "dc_creator_sm":"County of Marin",
-        "dc_description_s":"A parcel is a fundamental cadastral unit: a piece of land which can be owned, sold, and developed. Parcels have legal descriptions that describe their boundaries and contain information concerning rights and interests.  Data are a graphic representation of parcel boundaries in Marin County, California.",
-        "dc_format_s":"Shapefile",
-        "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s75c7f",
-        "dc_publisher_s":"San Rafael (Calif.). County Of Marin Community Development Agency.",
-        "dc_rights_s":"Public",
-        "dc_subject_sm":[
-            "Parcels",
-            "Boundaries",
-            "Planning and Cadastral"
-        ],
-        "dc_title_s":"Parcel",
-        "dct_provenance_s":"Berkeley",
-        "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s75c7f/data.zip\"}",
-        "dct_spatial_sm":[
-            "Marin County (Calif.)"
-        ],
-        "geoblacklight_version":"1.0",
-        "layer_geom_type_s":"Polygon",
-        "layer_id_s":"s75c7f",
-        "layer_modified_dt":"2012-11-28T23:35:06.45Z",
-        "layer_slug_s":"ark28722-s75c7f",
-        "solr_geom":"ENVELOPE(-123.035245, -122.346187, 38.330904, 37.805661)",
-        "solr_year_i":2011
-    }
-]
+{
+    "dc_creator_sm":"County of Marin",
+    "dc_description_s":"A parcel is a fundamental cadastral unit: a piece of land which can be owned, sold, and developed. Parcels have legal descriptions that describe their boundaries and contain information concerning rights and interests.  Data are a graphic representation of parcel boundaries in Marin County, California.",
+    "dc_format_s":"Shapefile",
+    "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s75c7f",
+    "dc_publisher_s":"San Rafael (Calif.). County Of Marin Community Development Agency.",
+    "dc_rights_s":"Public",
+    "dc_subject_sm":[
+        "Parcels",
+        "Boundaries",
+        "Planning and Cadastral"
+    ],
+    "dc_title_s":"Parcel",
+    "dct_provenance_s":"Berkeley",
+    "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s75c7f/data.zip\"}",
+    "dct_spatial_sm":[
+        "Marin County (Calif.)"
+    ],
+    "geoblacklight_version":"1.0",
+    "layer_geom_type_s":"Polygon",
+    "layer_id_s":"s75c7f",
+    "layer_modified_dt":"2012-11-28T23:35:06.45Z",
+    "layer_slug_s":"ark28722-s75c7f",
+    "solr_geom":"ENVELOPE(-123.035245, -122.346187, 38.330904, 37.805661)",
+    "solr_year_i":2011
+}

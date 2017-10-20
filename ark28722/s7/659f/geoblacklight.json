@@ -1,28 +1,26 @@
-[
-    {
-        "dc_creator_sm":"DTIS",
-        "dc_description_s":"USPS Post Offices in San Francisco.",
-        "dc_format_s":"Shapefile",
-        "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7659f",
-        "dc_publisher_s":"San Francisco (Calif.). Department Of Telecommunications and Information Services.",
-        "dc_rights_s":"Public",
-        "dc_subject_sm":[
-            "Structure",
-            "Post Office"
-        ],
-        "dc_title_s":"Post Offices",
-        "dct_provenance_s":"Berkeley",
-        "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7659f/data.zip\"}",
-        "dct_spatial_sm":[
-            "San Francisco County (Calif.)",
-            "San Francisco (Calif.)"
-        ],
-        "geoblacklight_version":"1.0",
-        "layer_geom_type_s":"Point",
-        "layer_id_s":"s7659f",
-        "layer_modified_dt":"2012-11-28T23:35:22.089Z",
-        "layer_slug_s":"ark28722-s7659f",
-        "solr_geom":"ENVELOPE(-122.491446, -122.381989, 37.805305, 37.71046)",
-        "solr_year_i":2004
-    }
-]
+{
+    "dc_creator_sm":"DTIS",
+    "dc_description_s":"USPS Post Offices in San Francisco.",
+    "dc_format_s":"Shapefile",
+    "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7659f",
+    "dc_publisher_s":"San Francisco (Calif.). Department Of Telecommunications and Information Services.",
+    "dc_rights_s":"Public",
+    "dc_subject_sm":[
+        "Structure",
+        "Post Office"
+    ],
+    "dc_title_s":"Post Offices",
+    "dct_provenance_s":"Berkeley",
+    "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7659f/data.zip\"}",
+    "dct_spatial_sm":[
+        "San Francisco County (Calif.)",
+        "San Francisco (Calif.)"
+    ],
+    "geoblacklight_version":"1.0",
+    "layer_geom_type_s":"Point",
+    "layer_id_s":"s7659f",
+    "layer_modified_dt":"2012-11-28T23:35:22.089Z",
+    "layer_slug_s":"ark28722-s7659f",
+    "solr_geom":"ENVELOPE(-122.491446, -122.381989, 37.805305, 37.71046)",
+    "solr_year_i":2004
+}

@@ -1,26 +1,24 @@
-[
-    {
-        "dc_creator_sm":"CalTrans, Napa County Public Works, Office of Historic Preservation",
-        "dc_description_s":"Napa County Bridges",
-        "dc_format_s":"Shapefile",
-        "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7vg69",
-        "dc_publisher_s":"Napa County (Calif.). County Of Napa.",
-        "dc_rights_s":"Public",
-        "dc_subject_sm":[
-            "Infrastructure"
-        ],
-        "dc_title_s":"Bridges",
-        "dct_provenance_s":"Berkeley",
-        "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7vg69/data.zip\"}",
-        "dct_spatial_sm":[
-            "Napa County (Calif.)"
-        ],
-        "geoblacklight_version":"1.0",
-        "layer_geom_type_s":"Point",
-        "layer_id_s":"s7vg69",
-        "layer_modified_dt":"2012-11-28T23:34:29.602Z",
-        "layer_slug_s":"ark28722-s7vg69",
-        "solr_geom":"ENVELOPE(-122.614039, -122.136831, 38.714805, 38.161959)",
-        "solr_year_i":2006
-    }
-]
+{
+    "dc_creator_sm":"CalTrans, Napa County Public Works, Office of Historic Preservation",
+    "dc_description_s":"Napa County Bridges",
+    "dc_format_s":"Shapefile",
+    "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7vg69",
+    "dc_publisher_s":"Napa County (Calif.). County Of Napa.",
+    "dc_rights_s":"Public",
+    "dc_subject_sm":[
+        "Infrastructure"
+    ],
+    "dc_title_s":"Bridges",
+    "dct_provenance_s":"Berkeley",
+    "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7vg69/data.zip\"}",
+    "dct_spatial_sm":[
+        "Napa County (Calif.)"
+    ],
+    "geoblacklight_version":"1.0",
+    "layer_geom_type_s":"Point",
+    "layer_id_s":"s7vg69",
+    "layer_modified_dt":"2012-11-28T23:34:29.602Z",
+    "layer_slug_s":"ark28722-s7vg69",
+    "solr_geom":"ENVELOPE(-122.614039, -122.136831, 38.714805, 38.161959)",
+    "solr_year_i":2006
+}

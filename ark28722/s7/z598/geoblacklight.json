@@ -1,28 +1,26 @@
-[
-    {
-        "dc_creator_sm":"California Department of Fish   Game",
-        "dc_description_s":"Large scale conservation planning areas",
-        "dc_format_s":"Shapefile",
-        "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7z598",
-        "dc_publisher_s":"California. California Department Of Fish and Game.",
-        "dc_rights_s":"Public",
-        "dc_subject_sm":[
-            "Nccp",
-            "Hcp",
-            "Conservation Plan"
-        ],
-        "dc_title_s":"nccp-hcp2006",
-        "dct_provenance_s":"Berkeley",
-        "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7z598/data.zip\"}",
-        "dct_spatial_sm":[
-            "California"
-        ],
-        "geoblacklight_version":"1.0",
-        "layer_geom_type_s":"Polygon",
-        "layer_id_s":"s7z598",
-        "layer_modified_dt":"2012-11-28T23:35:01.351Z",
-        "layer_slug_s":"ark28722-s7z598",
-        "solr_geom":"ENVELOPE(-124.346513, -113.494781, 42.092456, 32.423682)",
-        "solr_year_i":2004
-    }
-]
+{
+    "dc_creator_sm":"California Department of Fish   Game",
+    "dc_description_s":"Large scale conservation planning areas",
+    "dc_format_s":"Shapefile",
+    "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7z598",
+    "dc_publisher_s":"California. California Department Of Fish and Game.",
+    "dc_rights_s":"Public",
+    "dc_subject_sm":[
+        "Nccp",
+        "Hcp",
+        "Conservation Plan"
+    ],
+    "dc_title_s":"nccp-hcp2006",
+    "dct_provenance_s":"Berkeley",
+    "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7z598/data.zip\"}",
+    "dct_spatial_sm":[
+        "California"
+    ],
+    "geoblacklight_version":"1.0",
+    "layer_geom_type_s":"Polygon",
+    "layer_id_s":"s7z598",
+    "layer_modified_dt":"2012-11-28T23:35:01.351Z",
+    "layer_slug_s":"ark28722-s7z598",
+    "solr_geom":"ENVELOPE(-124.346513, -113.494781, 42.092456, 32.423682)",
+    "solr_year_i":2004
+}

@@ -1,27 +1,25 @@
-[
-    {
-        "dc_creator_sm":"City of Oakland, California",
-        "dc_description_s":"Police beats in Oakland, California",
-        "dc_format_s":"Shapefile",
-        "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s71s46",
-        "dc_publisher_s":"Oakland (Calif.)",
-        "dc_rights_s":"Public",
-        "dc_subject_sm":[
-            "Boundaries",
-            "Administrative and Political Divisions"
-        ],
-        "dc_title_s":"Police Beats Oakland California 2009",
-        "dct_provenance_s":"Berkeley",
-        "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s71s46/data.zip\"}",
-        "dct_spatial_sm":[
-            "Oakland (Calif.)"
-        ],
-        "geoblacklight_version":"1.0",
-        "layer_geom_type_s":"Polygon",
-        "layer_id_s":"s71s46",
-        "layer_modified_dt":"2012-11-28T23:35:01.388Z",
-        "layer_slug_s":"ark28722-s71s46",
-        "solr_geom":"ENVELOPE(-122.367272, -122.06242, 37.886289, 37.691747)",
-        "solr_year_i":2010
-    }
-]
+{
+    "dc_creator_sm":"City of Oakland, California",
+    "dc_description_s":"Police beats in Oakland, California",
+    "dc_format_s":"Shapefile",
+    "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s71s46",
+    "dc_publisher_s":"Oakland (Calif.)",
+    "dc_rights_s":"Public",
+    "dc_subject_sm":[
+        "Boundaries",
+        "Administrative and Political Divisions"
+    ],
+    "dc_title_s":"Police Beats Oakland California 2009",
+    "dct_provenance_s":"Berkeley",
+    "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s71s46/data.zip\"}",
+    "dct_spatial_sm":[
+        "Oakland (Calif.)"
+    ],
+    "geoblacklight_version":"1.0",
+    "layer_geom_type_s":"Polygon",
+    "layer_id_s":"s71s46",
+    "layer_modified_dt":"2012-11-28T23:35:01.388Z",
+    "layer_slug_s":"ark28722-s71s46",
+    "solr_geom":"ENVELOPE(-122.367272, -122.06242, 37.886289, 37.691747)",
+    "solr_year_i":2010
+}

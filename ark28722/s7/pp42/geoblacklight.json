@@ -1,28 +1,26 @@
-[
-    {
-        "dc_creator_sm":"Bureau of Indian Affairs, Pacific Regional Office",
-        "dc_description_s":"Exterior reservation boundaries of Native American Indian Reservations in California.",
-        "dc_format_s":"Shapefile",
-        "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7pp42",
-        "dc_publisher_s":"Sacramento (Calif.). Bureau Of Indian Affairs, Pacific Regional Office.",
-        "dc_rights_s":"Public",
-        "dc_subject_sm":[
-            "Boundaries",
-            "Reservations",
-            "Native American"
-        ],
-        "dc_title_s":"PRO_Res_Boundary_20091009",
-        "dct_provenance_s":"Berkeley",
-        "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7pp42/data.zip\"}",
-        "dct_spatial_sm":[
-            "California"
-        ],
-        "geoblacklight_version":"1.0",
-        "layer_geom_type_s":"Polygon",
-        "layer_id_s":"s7pp42",
-        "layer_modified_dt":"2012-11-28T23:35:11.668Z",
-        "layer_slug_s":"ark28722-s7pp42",
-        "solr_geom":"ENVELOPE(-124.357699, -113.670518, 42.077027, 32.538881)",
-        "solr_year_i":2009
-    }
-]
+{
+    "dc_creator_sm":"Bureau of Indian Affairs, Pacific Regional Office",
+    "dc_description_s":"Exterior reservation boundaries of Native American Indian Reservations in California.",
+    "dc_format_s":"Shapefile",
+    "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7pp42",
+    "dc_publisher_s":"Sacramento (Calif.). Bureau Of Indian Affairs, Pacific Regional Office.",
+    "dc_rights_s":"Public",
+    "dc_subject_sm":[
+        "Boundaries",
+        "Reservations",
+        "Native American"
+    ],
+    "dc_title_s":"PRO_Res_Boundary_20091009",
+    "dct_provenance_s":"Berkeley",
+    "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7pp42/data.zip\"}",
+    "dct_spatial_sm":[
+        "California"
+    ],
+    "geoblacklight_version":"1.0",
+    "layer_geom_type_s":"Polygon",
+    "layer_id_s":"s7pp42",
+    "layer_modified_dt":"2012-11-28T23:35:11.668Z",
+    "layer_slug_s":"ark28722-s7pp42",
+    "solr_geom":"ENVELOPE(-124.357699, -113.670518, 42.077027, 32.538881)",
+    "solr_year_i":2009
+}

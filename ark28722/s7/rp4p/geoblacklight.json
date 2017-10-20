@@ -1,28 +1,26 @@
-[
-    {
-        "dc_creator_sm":"City of Berkeley, CA",
-        "dc_description_s":"The City of Berkeley's council districts created during 2002 redistricting.",
-        "dc_format_s":"Shapefile",
-        "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7rp4p",
-        "dc_publisher_s":"Berkeley (Calif.). City Of Berkeley.",
-        "dc_rights_s":"Public",
-        "dc_subject_sm":[
-            "Boundaries",
-            "Administrative and Political Divisions"
-        ],
-        "dc_title_s":"Council Districts Berkeley, California 2002",
-        "dct_provenance_s":"Berkeley",
-        "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7rp4p/data.zip\"}",
-        "dct_spatial_sm":[
-            "Berkeley (Calif.)",
-            "Alameda County (Calif.)"
-        ],
-        "geoblacklight_version":"1.0",
-        "layer_geom_type_s":"Polygon",
-        "layer_id_s":"s7rp4p",
-        "layer_modified_dt":"2012-11-28T23:34:40.472Z",
-        "layer_slug_s":"ark28722-s7rp4p",
-        "solr_geom":"ENVELOPE(-122.325148, -122.233609, 37.907046, 37.845623)",
-        "solr_year_i":2002
-    }
-]
+{
+    "dc_creator_sm":"City of Berkeley, CA",
+    "dc_description_s":"The City of Berkeley's council districts created during 2002 redistricting.",
+    "dc_format_s":"Shapefile",
+    "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7rp4p",
+    "dc_publisher_s":"Berkeley (Calif.). City Of Berkeley.",
+    "dc_rights_s":"Public",
+    "dc_subject_sm":[
+        "Boundaries",
+        "Administrative and Political Divisions"
+    ],
+    "dc_title_s":"Council Districts Berkeley, California 2002",
+    "dct_provenance_s":"Berkeley",
+    "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7rp4p/data.zip\"}",
+    "dct_spatial_sm":[
+        "Berkeley (Calif.)",
+        "Alameda County (Calif.)"
+    ],
+    "geoblacklight_version":"1.0",
+    "layer_geom_type_s":"Polygon",
+    "layer_id_s":"s7rp4p",
+    "layer_modified_dt":"2012-11-28T23:34:40.472Z",
+    "layer_slug_s":"ark28722-s7rp4p",
+    "solr_geom":"ENVELOPE(-122.325148, -122.233609, 37.907046, 37.845623)",
+    "solr_year_i":2002
+}

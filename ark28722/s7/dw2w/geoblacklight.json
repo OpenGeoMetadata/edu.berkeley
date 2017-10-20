@@ -1,27 +1,25 @@
-[
-    {
-        "dc_creator_sm":"Illingworth   Rodkin, Inc.",
-        "dc_description_s":"Noise Contours of Marin County, originally provided as a .dwg file from consultants Illingworth and Rodkin, Inc., for use in the 2007 Countywide Plan.  Was exported from .dwg to shapefile.",
-        "dc_format_s":"Shapefile",
-        "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7dw2w",
-        "dc_publisher_s":"San Rafael (Calif.). County Of Marin Community Development Agency.",
-        "dc_rights_s":"Public",
-        "dc_subject_sm":[
-            "Noise Contours",
-            "Health"
-        ],
-        "dc_title_s":"Noise Contour",
-        "dct_provenance_s":"Berkeley",
-        "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7dw2w/data.zip\"}",
-        "dct_spatial_sm":[
-            "Marin County (Calif.)"
-        ],
-        "geoblacklight_version":"1.0",
-        "layer_geom_type_s":"Line",
-        "layer_id_s":"s7dw2w",
-        "layer_modified_dt":"2012-11-28T23:35:01.369Z",
-        "layer_slug_s":"ark28722-s7dw2w",
-        "solr_geom":"ENVELOPE(-122.929086, -122.475779, 38.321055, 37.818026)",
-        "solr_year_i":2005
-    }
-]
+{
+    "dc_creator_sm":"Illingworth   Rodkin, Inc.",
+    "dc_description_s":"Noise Contours of Marin County, originally provided as a .dwg file from consultants Illingworth and Rodkin, Inc., for use in the 2007 Countywide Plan.  Was exported from .dwg to shapefile.",
+    "dc_format_s":"Shapefile",
+    "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7dw2w",
+    "dc_publisher_s":"San Rafael (Calif.). County Of Marin Community Development Agency.",
+    "dc_rights_s":"Public",
+    "dc_subject_sm":[
+        "Noise Contours",
+        "Health"
+    ],
+    "dc_title_s":"Noise Contour",
+    "dct_provenance_s":"Berkeley",
+    "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7dw2w/data.zip\"}",
+    "dct_spatial_sm":[
+        "Marin County (Calif.)"
+    ],
+    "geoblacklight_version":"1.0",
+    "layer_geom_type_s":"Line",
+    "layer_id_s":"s7dw2w",
+    "layer_modified_dt":"2012-11-28T23:35:01.369Z",
+    "layer_slug_s":"ark28722-s7dw2w",
+    "solr_geom":"ENVELOPE(-122.929086, -122.475779, 38.321055, 37.818026)",
+    "solr_year_i":2005
+}

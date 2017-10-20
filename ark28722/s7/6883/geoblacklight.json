@@ -1,25 +1,23 @@
-[
-    {
-        "dc_format_s":"Shapefile",
-        "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s76883",
-        "dc_publisher_s":"San Rafael (Calif.). County Of Marin.",
-        "dc_rights_s":"Public",
-        "dc_subject_sm":[
-            "Geoscientificinformation",
-            "Soils"
-        ],
-        "dc_title_s":"marinmap_dbo_geo_soil",
-        "dct_provenance_s":"Berkeley",
-        "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s76883/data.zip\"}",
-        "dct_spatial_sm":[
-            "Marin County (Calif.)"
-        ],
-        "geoblacklight_version":"1.0",
-        "layer_geom_type_s":"Polygon",
-        "layer_id_s":"s76883",
-        "layer_modified_dt":"2012-11-28T23:35:27.229Z",
-        "layer_slug_s":"ark28722-s76883",
-        "solr_geom":"ENVELOPE(-123.024379, -122.352538, 38.32115, 37.815418)",
-        "solr_year_i":2007
-    }
-]
+{
+    "dc_format_s":"Shapefile",
+    "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s76883",
+    "dc_publisher_s":"San Rafael (Calif.). County Of Marin.",
+    "dc_rights_s":"Public",
+    "dc_subject_sm":[
+        "Geoscientificinformation",
+        "Soils"
+    ],
+    "dc_title_s":"marinmap_dbo_geo_soil",
+    "dct_provenance_s":"Berkeley",
+    "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s76883/data.zip\"}",
+    "dct_spatial_sm":[
+        "Marin County (Calif.)"
+    ],
+    "geoblacklight_version":"1.0",
+    "layer_geom_type_s":"Polygon",
+    "layer_id_s":"s76883",
+    "layer_modified_dt":"2012-11-28T23:35:27.229Z",
+    "layer_slug_s":"ark28722-s76883",
+    "solr_geom":"ENVELOPE(-123.024379, -122.352538, 38.32115, 37.815418)",
+    "solr_year_i":2007
+}
