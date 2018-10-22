@@ -1,0 +1,30 @@
+{
+    "dc_creator_sm": [
+        "Sacramento Area Council of Governments"
+    ], 
+    "dc_description_s": "Airports in SACOG Region, digitized from USGS topo maps and corrected as necessary with TIGER data &amp; county parcel coverages.", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "http://spatial.lib.berkeley.edu/viewpublic/berkeley-s7d67w", 
+    "dc_publisher_s": "Sacramento Area Council of Governments", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Transportation", 
+        "Airports.", 
+        "Sacramento Area Council Of Governments."
+    ], 
+    "dc_title_s": "Airports, Sacramento County, California, 2008", 
+    "dc_type_s": "Dataset", 
+    "dct_issued_dt": "2008-02-26T23:34:35.206Z", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://github.com/OpenGeoMetadata/edu.berkeley/tree/master/s7/d6/7w/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7d67w/data.zip\"}", 
+    "dct_spatial_sm": [
+        "Sacramento County (Calif.)"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Polygon", 
+    "layer_id_s": "s7d67w", 
+    "layer_modified_dt": "2018-04-06T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s7d67w", 
+    "solr_geom": "ENVELOPE(-121.610036, -121.093694, 38.714412, 38.210018)", 
+    "solr_year_i": 2008
+}

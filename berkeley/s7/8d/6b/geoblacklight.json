@@ -1,0 +1,31 @@
+{
+    "dc_creator_sm": [
+        "San Joaquin County, Community Development, Geographic Information Systems "
+    ], 
+    "dc_description_s": "This dataset represents the airports located within San Joaquin County, California. Latest data export occurred on July 14th, 2014. Data was mapped and provided by the San Joaquin County, Community Development Department. ", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "http://spatial.lib.berkeley.edu/viewpublic/berkeley-s78d6b", 
+    "dc_publisher_s": "San Joaquin County, Community Development, Geographic Information Systems", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Transportation", 
+        "Structure", 
+        "Airports", 
+        "Runways (Aeronautics)"
+    ], 
+    "dc_title_s": "Airports, San Joaquin County, California, 2014", 
+    "dc_type_s": "Dataset", 
+    "dct_issued_dt": "2014-07-14T23:34:35.206Z", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://github.com/OpenGeoMetadata/edu.berkeley/tree/master/s7/8d/6b/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s78d6b/data.zip\"}", 
+    "dct_spatial_sm": [
+        "San Joaquin County (Calif.)"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Polygon", 
+    "layer_id_s": "s78d6b", 
+    "layer_modified_dt": "2014-11-10T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s78d6b", 
+    "solr_geom": "ENVELOPE(-121.458332, -120.961065, 38.231568, 37.667584)", 
+    "solr_year_i": 2014
+}

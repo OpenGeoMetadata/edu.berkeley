@@ -1,0 +1,249 @@
+﻿<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Geographic Information Systems, Sonoma County, California, PRMD GIS Staff</origin>
+        <pubdate>20110501</pubdate>
+        <title>Air Quality Control Board, Sonoma County, California, 2011</title>
+        <geoform>vector digital data</geoform>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>The air quality control board dataset represents the Northern Sonoma County Air Pollution Control District (a.k.a. NSCAPCD) and the Bay Area Air Quality Management District (a.k.a. BAAQMD). The Northern Sonoma County Air Pollution Control District set forth Rule 110 which states: rules and regulations are set forth to achieve and maintain such levels of air quality as will protect human health and safety; prevent injury to plant and animal life; avoid damage to property; and preserve the comfort, convenience and enjoyment of the natural attractions of the California North Coast Air Basin. The Bay Area Air Quality Management District is committed to achieving clean air to protect the public's health and the environment in the San Francisco Bay region. The Air District aims to: 1) attain and maintain air quality standards, 2) increase public awareness of positive air quality choices, and 3) develop and implement protocol and policies for environmental justice. It is the intent of all air pollution control districts and air quality management districts in the California North Coast Air Basin to adopt and enforce rules and regulations which assure that reasonable provision is made to achieve and maintain state and federal ambient air quality standards for the area under their jurisdiction and to enforce all applicable provisions of State law.</abstract>
+      <purpose>Since the GIS data was developed for planning purposes and use in publication of maps and/or database creation, the data is for illustrative purpose only and is not suitable for parcel specific decision making. 
+
+Therefore, the GIS data presented herein are approximations and further land development determination is at the discretion of the PRMD planning staff which may require a parcel specific site review (to draw parcel specific conclusions).</purpose>
+    </descript>
+    <status>
+      <progress>In work</progress>
+      <update>Unknown</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-123.534619</westbc>
+        <eastbc>-122.349809</eastbc>
+        <northbc>38.856910</northbc>
+        <southbc>38.103489</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>lcsh</themekt>
+        <themekey>Air quality management,</themekey>
+        <themekey>Air--Pollution--Control</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Categories</themekt>
+        <themekey>environment</themekey>
+        <themekey>health</themekey>
+      </theme>
+      <place>
+        <placekt>geonames </placekt>
+        <placekey>Sonoma County ( Calif.)</placekey>
+      </place>
+      <temporal>
+        <tempkt>None</tempkt>
+        <tempkey>2011</tempkey>
+      </temporal>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>No part of this map may be copied, reproduced, or transmitted in any form or by any means without written permission from the Permit and Resource Management Department (PRMD), County of Sonoma, California. Maps contained in a planning document published by PRMD can be photocopied by members of the public for review and comment purposes.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Geographic Information Systems, Sonoma County, California</cntorg>
+        </cntorgp>
+        <cntpos>PRMD GIS Staff</cntpos>
+      </cntinfo>
+    </ptcontac>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>UC Berkeley Library </cntorg>
+        </cntorgp>
+        <cntpos>GIS Librarian </cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>50 McCone Hall</address>
+          <city>Berkeley </city>
+          <state>CA</state>
+          <postal>94720</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>510-642-2997</cntvoice>
+        <cntemail>eart@library.berkeley.edu</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <datacred>Geographic Information Systems (2011), Air Quality Control Board, Sonoma County, California. Geographic Information Systems, Sonoma County, California</datacred>
+    <native>Microsoft Windows 7 Version 6.1 (Build 7601) Service Pack 1; Esri ArcGIS 10.5.1.7333</native>
+  </idinfo>
+  <dataqual>
+    <lineage>
+      <procstep>
+        <procdesc>Changed "SOCO_PRMD_Air_Quality_Control_Board.shp to "Sonoma_airqualitycontrol_2011.shp"</procdesc>
+        <procdate>20150129</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>UC Berkeley Library </cntorg>
+            </cntorgp>
+            <cntpos>GIS Librarian </cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical</addrtype>
+              <address>50 McCone Hall</address>
+              <city>Berkeley </city>
+              <state>CA</state>
+              <postal>94720</postal>
+              <country>US</country>
+            </cntaddr>
+            <cntvoice>510-642-2997</cntvoice>
+            <cntemail>eart@library.berkeley.edu</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>GT-polygon composed of chains</sdtstype>
+        <ptvctcnt>2</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <mapproj>
+          <mapprojn>NAD 1983 StatePlane California II FIPS 0402 Feet</mapprojn>
+          <lambertc>
+            <stdparll>38.33333333333334</stdparll>
+            <stdparll>39.83333333333334</stdparll>
+            <longcm>-122.0</longcm>
+            <latprjo>37.66666666666666</latprjo>
+            <feast>6561666.666666666</feast>
+            <fnorth>1640416.666666667</fnorth>
+          </lambertc>
+        </mapproj>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.000000027039137595608057</absres>
+            <ordres>0.000000027039137595608057</ordres>
+          </coordrep>
+          <plandu>foot_us</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>D North American 1983</horizdn>
+        <ellips>GRS 1980</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257222101</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Sonoma_Airqualitycontrol_2011</enttypl>
+        <enttypd>Air quality control within county </enttypd>
+        <enttypds>UC Berkeley Library </enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>SQ_MILE</attrlabl>
+        <attrdef>Square Mile </attrdef>
+        <attrdefs>UC Berkeley Library </attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>NAME</attrlabl>
+        <attrdef>Name of quality control districts</attrdef>
+        <attrdefs>UC Berkeley Library </attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>AREA_</attrlabl>
+        <attrdef>Area of district</attrdef>
+        <attrdefs>UC Berkeley Library </attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LABEL</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>ACREAGE</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>Shape_area</attrlabl>
+        <attrdef>Area of feature in internal units squared.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Positive real numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape_len</attrlabl>
+        <attrdef>Length of feature in internal units </attrdef>
+        <attrdefs>UC Berkeley Library </attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>UC Berkeley Library </cntorg>
+        </cntorgp>
+        <cntpos>GIS Librarian </cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>50 McCone Hall</address>
+          <city>Berkeley </city>
+          <state>CA</state>
+          <postal>94720</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>510-642-2997</cntvoice>
+        <cntemail>eart@library.berkeley.edu</cntemail>
+      </cntinfo>
+    </distrib>
+    <distliab>See access and use constraints information.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shapefile</formname>
+          <transize>0.000</transize>
+        </digtinfo>
+        <digtopt />
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20171218</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Geographic Information Systems, Sonoma County, California</cntorg>
+        </cntorgp>
+        <cntpos>PRMD GIS Staff</cntpos>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+  </metainfo>
+</metadata>
