@@ -1,0 +1,225 @@
+﻿<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>City of Berkeley , Department of Information Technology </origin>
+        <title>Police Beats, Berkeley, California, 2015</title>
+        <geoform>vector digital data</geoform>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Police Beat districts within the boundaries of the city of Berkeley, California. </abstract>
+      <purpose>Defines the beat areas for use in assigning patrol officers to a beat.  Updated by M. Gilbert, January 2015</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>20150121</begdate>
+        </rngdates>
+      </timeinfo>
+      <current>Unknown</current>
+    </timeperd>
+    <status>
+      <progress>In work</progress>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-122.325084</westbc>
+        <eastbc>-122.233619</eastbc>
+        <northbc>37.906067</northbc>
+        <southbc>37.845593</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>lcsh</themekt>
+        <themekey>Police service</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Categories</themekt>
+        <themekey>planningCadastre</themekey>
+      </theme>
+      <place>
+        <placekt>geonames</placekt>
+        <placekey>Berkeley (Calif.)</placekey>
+      </place>
+      <temporal>
+        <tempkt>None</tempkt>
+        <tempkey>2015</tempkey>
+      </temporal>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>None</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>City of Berkeley </cntorg>
+        </cntorgp>
+        <cntpos>Department of Information Technology </cntpos>
+        <cntvoice>(510) 981-6525</cntvoice>
+      </cntinfo>
+    </ptcontac>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>UC Berkeley Library </cntorg>
+        </cntorgp>
+        <cntpos>GIS Librarian </cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>50 McCone Hall</address>
+          <city>Berkeley</city>
+          <state>California </state>
+          <postal>94720</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice> (510) 642-2997</cntvoice>
+        <cntemail>eart@library.berkeley.edu</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <datacred>Department of Information Technology, City of Berkeley (2015), Police Beats, Berkeley, California, Department of Information Technology, Berkeley, California  </datacred>
+    <native>Microsoft Windows 7 Version 6.1 (Build 7601) Service Pack 1; Esri ArcGIS 10.5.1.7333</native>
+  </idinfo>
+  <dataqual>
+    <lineage>
+      <procstep>
+        <procdesc>Changed "PoliceBeats.shp" to "Berkeley_policebeats_2015.shp" </procdesc>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>UC Berkeley Library </cntorg>
+            </cntorgp>
+            <cntpos>GIS Librarian </cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical</addrtype>
+              <address>50 McCone Hall</address>
+              <city>Berkeley</city>
+              <state>California </state>
+              <postal>94720</postal>
+              <country>US</country>
+            </cntaddr>
+            <cntvoice> (510) 642-2997</cntvoice>
+            <cntemail>eart@library.berkeley.edu</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>GT-polygon composed of chains</sdtstype>
+        <ptvctcnt>25</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <mapproj>
+          <mapprojn>WGS 1984 UTM Zone 10N</mapprojn>
+          <transmer>
+            <sfctrmer>0.9996</sfctrmer>
+            <longcm>-123.0</longcm>
+            <latprjo>0.0</latprjo>
+            <feast>500000.0</feast>
+            <fnorth>0.0</fnorth>
+          </transmer>
+        </mapproj>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.000000002220024164500956</absres>
+            <ordres>0.000000002220024164500956</ordres>
+          </coordrep>
+          <plandu>meter</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>D WGS 1984</horizdn>
+        <ellips>WGS 1984</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257223563</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Berkeley_policebeats_2015</enttypl>
+        <enttypd>Police beats within the confines of the city </enttypd>
+        <enttypds>UC Berkeley Library </enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Subbeat</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>BEAT</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape_area</attrlabl>
+        <attrdef>Area of feature in internal units squared.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Positive real numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape_len</attrlabl>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>City of Berkeley </cntorg>
+        </cntorgp>
+        <cntpos>Department of Information Technology </cntpos>
+        <cntvoice>(510) 981-6525</cntvoice>
+      </cntinfo>
+    </distrib>
+    <distliab>See access and use constraints information.</distliab>
+  </distinfo>
+  <metainfo>
+    <metd>20171218</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>UC Berkeley Library </cntorg>
+        </cntorgp>
+        <cntpos>GIS Librarian </cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>50 McCone Hall</address>
+          <city>Berkeley</city>
+          <state>California </state>
+          <postal>94720</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice> (510) 642-2997</cntvoice>
+        <cntemail>eart@library.berkeley.edu</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+  </metainfo>
+</metadata>

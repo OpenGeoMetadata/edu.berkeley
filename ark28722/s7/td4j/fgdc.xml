@@ -1,0 +1,223 @@
+﻿<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Jake Armtrong, Solano County, GIS Coordinator</origin>
+        <title>Parcels, Solano County, California, 2012</title>
+        <geoform>vector digital data</geoform>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This is a GIS representation of the Parcel Assessors Map Books geometry; its purpose is to provide an electronic representation of the Assessors parcels; Update on September 24, 2012.</abstract>
+      <purpose>This is a GIS representation of the Parcel Assessors Map Books geometry; its purpose is to provide an electronic representation of the Assessors parcels.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>20120924</begdate>
+        </rngdates>
+      </timeinfo>
+      <current>Unknown</current>
+    </timeperd>
+    <status>
+      <progress>In work</progress>
+      <update>Quarterly</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-122.405905</westbc>
+        <eastbc>-121.592496</eastbc>
+        <northbc>38.539148</northbc>
+        <southbc>38.038554</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>lcsh </themekt>
+        <themekey>Real property--Maps</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Categories</themekt>
+        <themekey>boundaries</themekey>
+      </theme>
+      <place>
+        <placekt>geonames </placekt>
+        <placekey>Solano County (Calif.)</placekey>
+      </place>
+      <temporal>
+        <tempkt>None</tempkt>
+        <tempkey>2012</tempkey>
+      </temporal>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>This layer does not represent legal boundaries or legal descriptions of any feature within Solano County, CA. This dataset is not suitable for high-precision measurement applications such as engineering problems, property transfers, or other uses that might require highly accurate measurements of the earth's surface. Licensee may not loan, rent, reverse engineer, pledge, assign, or otherwise transfer the Data or Documentation, unless previously agreed to by both parties).</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Solano County</cntorg>
+          <cntper>Jake Armtrong</cntper>
+        </cntorgp>
+        <cntpos>GIS Coordinator</cntpos>
+      </cntinfo>
+    </ptcontac>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>UC Berkeley Library </cntorg>
+        </cntorgp>
+        <cntpos>GIS Librarian </cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>50 McCone Hall</address>
+          <city>Berkeley</city>
+          <state>CA</state>
+          <postal>94720</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>(510) 642-2997</cntvoice>
+        <cntemail>eart@library.berkeley.edu</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <datacred>Originally this layer was developed for Solano County by Barclay MapWorks, Inc. Since earlier on 2011, Solano County DoIT GIS services updates this dataset, and it the data is planned to come directly from CAD into ORACLE Spatial and SDE using MUNSYS.</datacred>
+    <native>Microsoft Windows 7 Version 6.1 (Build 7601) Service Pack 1; Esri ArcGIS 10.5.1.7333</native>
+  </idinfo>
+  <dataqual>
+    <lineage>
+      <procstep>
+        <procdesc>Changed "2012ParcelBoundaries.shp" to "Solano_parcelboundaries_2012.shp"</procdesc>
+        <procdate>20150325</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>UC Berkeley Library </cntorg>
+            </cntorgp>
+            <cntpos>GIS Librarian </cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical</addrtype>
+              <address>50 McCone Hall</address>
+              <city>Berkeley</city>
+              <state>CA</state>
+              <postal>94720</postal>
+              <country>US</country>
+            </cntaddr>
+            <cntvoice>(510) 642-2997</cntvoice>
+            <cntemail>eart@library.berkeley.edu</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>GT-polygon composed of chains</sdtstype>
+        <ptvctcnt>141333</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <mapproj>
+          <mapprojn>NAD 1983 StatePlane California II FIPS 0402 Feet</mapprojn>
+          <lambertc>
+            <stdparll>38.33333333333334</stdparll>
+            <stdparll>39.83333333333334</stdparll>
+            <longcm>-122.0</longcm>
+            <latprjo>37.66666666666666</latprjo>
+            <feast>6561666.666666666</feast>
+            <fnorth>1640416.666666667</fnorth>
+          </lambertc>
+        </mapproj>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.000000027039137595608057</absres>
+            <ordres>0.000000027039137595608057</ordres>
+          </coordrep>
+          <plandu>foot_us</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>D North American 1983</horizdn>
+        <ellips>GRS 1980</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257222101</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Solano_parcelboundaries_2012</enttypl>
+        <enttypd>Parcel boundary/zoning within county </enttypd>
+        <enttypds>UC Berkeley Library </enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>APN</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>UC Berkeley Library </cntorg>
+        </cntorgp>
+        <cntpos>GIS Librarian </cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>50 McCone Hall</address>
+          <city>Berkeley</city>
+          <state>CA</state>
+          <postal>94720</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>(510) 642-2997</cntvoice>
+        <cntemail>eart@library.berkeley.edu</cntemail>
+      </cntinfo>
+    </distrib>
+    <distliab>See access and use constraints information.</distliab>
+  </distinfo>
+  <metainfo>
+    <metd>20180725</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>UC Berkeley Library </cntorg>
+        </cntorgp>
+        <cntpos>GIS Librarian </cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>50 McCone Hall</address>
+          <city>Berkeley</city>
+          <state>CA</state>
+          <postal>94720</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>(510) 642-2997</cntvoice>
+        <cntemail>eart@library.berkeley.edu</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+  </metainfo>
+</metadata>

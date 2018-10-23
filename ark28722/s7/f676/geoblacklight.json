@@ -1,0 +1,29 @@
+{
+    "dc_creator_sm": [
+        "Napa County (Calif.)"
+    ], 
+    "dc_description_s": "This point dataset shows address locations for structures within Napa County, California as of 2015. This layer is a view of the addresses_base layer and the roadname_tbl table. Refer to these datasets for additional metadata.", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "http://spatial.lib.berkeley.edu/viewpublic/berkeley-s7f676", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Structure", 
+        "Street Addresses", 
+        "Structure"
+    ], 
+    "dc_title_s": "Addresses, Napa County, California, 2015", 
+    "dc_type_s": "Dataset", 
+    "dct_issued_dt": "2015-02-24T23:34:35.206Z", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://github.com/OpenGeoMetadata/edu.berkeley/blob/master/berkeley/s7/f676/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7f676/data.zip\"}", 
+    "dct_spatial_sm": [
+        "Napa County (Calif.)"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Point", 
+    "layer_id_s": "s7f676", 
+    "layer_modified_dt": "2018-06-15T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s7f676", 
+    "solr_geom": "ENVELOPE(-122.643921, -122.093357, 38.713725, 38.153762)", 
+    "solr_year_i": 2015
+}

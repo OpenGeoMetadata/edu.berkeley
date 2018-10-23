@@ -1,0 +1,275 @@
+﻿<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Marin County Community Development Agency</origin>
+        <pubdate>20071106</pubdate>
+        <title>Bikeways, Marin County, California, 2014</title>
+        <geoform>vector digital data</geoform>
+        <serinfo>
+          <sername>Marin Countywide Plan</sername>
+        </serinfo>
+        <pubinfo>
+          <pubplace>San Rafael</pubplace>
+          <publish>County of Marin</publish>
+        </pubinfo>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Bikeways were defined by the "Marin County Bicycle and Pedestrian Master Plan" (January 2000) and "Marin County Unincorporated Area Bicycle and Pedestrian Master Plan" (June 2001) by Alta Transportation Consulting. Data was both digitized and extracted from existing road data. Attribute BIKECLASS is defined as: 1 = Existing Bike Paths (Class 1) 2 = Existing Bike Lanes/Shoulders (Class 2) 3 = Existing Bike Routes (Class 3) Attribute BIKEPROP is defined as: 1 = Proposed Bike Paths (Class 1) 2 = Proposed Bike Lanes/Shoulders (Class 2) 3 = Proposed Bike Routes (Class 3)</abstract>
+      <purpose>To provide Bikeways data for the Marin Countywide Plan Update.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>20141001</begdate>
+        </rngdates>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>In work</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-122.839783</westbc>
+        <eastbc>-122.406402</eastbc>
+        <northbc>38.194766</northbc>
+        <southbc>37.802318</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>lcsh</themekt>
+        <themekey>transportation</themekey>
+        <themekey>Bikeways Existing Proposed</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Categories</themekt>
+        <themekey>transportation</themekey>
+      </theme>
+      <place>
+        <placekt>geonames</placekt>
+        <placekey>Marin County (Calif.)</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>Disclaimer MarinMap/Marin County has attempted to verify the accuracy of the information contained in the following maps at the time of publication. Marin County assumes no liability for any errors, omissions, or inaccuracies in the information provided regardless of how caused. MarinMap/Marin County also assumes no liability for any decisions made or actions taken or not taken by the user of MarinMap/Marin County's Internet site in reliance upon any information or data furnished hereunder.THE MAPS PROVIDED BY MARIN COUNTY ARE PROVIDED ON AN “AS IS” AND AS AVAILABLE BASIS, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT OR OTHER WARRANTIES, CONDITIONS, GUARANTEES OR REPRESENTATIONS, WHETHER EXPRESS OR IMPLIED.THE MARIN COUNTY MAP SERVICES ARE COMPLEX AND MAY CONTAIN NONCONFORMITIES, DEFECTS OR ERRORS. MARIN COUNTY HEREBY DISCLAIMS ANY REPRESENTATION OR WARRANTY THAT THE MARIN COUNTY MAP SERVICES WILL MEET YOUR NEEDS, EXPECTATIONS OR INTENDED USE, THAT THE MARIN COUNTYMAP SERVICES WILL BE ERROR FREE OR UNINTERRUPTED, OR THAT NONCONFORMITIES CAN OR WILL BE CORRECTED. </useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Marin County Community Development Agency</cntorg>
+          <cntper>Kristin Drumm</cntper>
+        </cntorgp>
+        <cntpos>Senior Planner</cntpos>
+        <cntvoice>415-499-6290</cntvoice>
+        <cntfax>415-499-7880</cntfax>
+        <cntemail>kdrumm@co.marin.ca.us</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>UC Berkeley Library </cntorg>
+        </cntorgp>
+        <cntpos>GIS Librarian </cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>50 McCone Hall</address>
+          <city>Berkeley</city>
+          <state>CA</state>
+          <postal>94720</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>(510) 642-2997</cntvoice>
+        <cntemail>eart@library.berkeley.edu</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <datacred>Marin County Community Development Agency (2014) Bikeways, Marin County, California. Marin County Assessor's Office, Marin Local Agency Formation Commission, Marin County, California. 
+
+
+
+</datacred>
+    <native>Microsoft Windows 7 Version 6.1 (Build 7601) Service Pack 1; Esri ArcGIS 10.5.1.7333</native>
+  </idinfo>
+  <dataqual>
+    <lineage>
+      <procstep>
+        <procdesc>Changed "bikeway.shp" to "marin_bikeways_2014.shp"</procdesc>
+        <procdate>20150406</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>UC Berkeley Library </cntorg>
+            </cntorgp>
+            <cntpos>GIS Librarian </cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical</addrtype>
+              <address>50 McCone Hall</address>
+              <city>Berkeley</city>
+              <state>CA</state>
+              <postal>94720</postal>
+              <country>US</country>
+            </cntaddr>
+            <cntvoice>(510) 642-2997</cntvoice>
+            <cntemail>eart@library.berkeley.edu</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>String</sdtstype>
+        <ptvctcnt>1456</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <mapproj>
+          <mapprojn>NAD 1983 HARN StatePlane California III FIPS 0403 Feet</mapprojn>
+          <lambertc>
+            <stdparll>37.06666666666667</stdparll>
+            <stdparll>38.43333333333333</stdparll>
+            <longcm>-120.5</longcm>
+            <latprjo>36.5</latprjo>
+            <feast>6561666.666666666</feast>
+            <fnorth>1640416.666666667</fnorth>
+          </lambertc>
+        </mapproj>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.00000002718320013528342</absres>
+            <ordres>0.00000002718320013528342</ordres>
+          </coordrep>
+          <plandu>foot_us</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>D North American 1983 HARN</horizdn>
+        <ellips>GRS 1980</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257222101</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>marin_bikeways_2014</enttypl>
+        <enttypd>Bikeway routes within county</enttypd>
+        <enttypds> UC Berkeley Library </enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TLID</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>FEDIRP</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>FENAME</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>FETYPE</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>FEDIRS</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CFCC</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>FRADDL</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>TOADDL</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>FRADDR</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>TOADDR</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CITY</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>BIKECLASS</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>BIKEPROP</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE_len</attrlabl>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>UC Berkeley Library </cntorg>
+        </cntorgp>
+        <cntpos>GIS Librarian </cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>50 McCone Hall</address>
+          <city>Berkeley</city>
+          <state>CA</state>
+          <postal>94720</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>(510) 642-2997</cntvoice>
+        <cntemail>eart@library.berkeley.edu</cntemail>
+      </cntinfo>
+    </distrib>
+    <distliab>See access and use constraints information.</distliab>
+  </distinfo>
+  <metainfo>
+    <metd>20171219</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>County of Marin Community Development Agency</cntorg>
+          <cntper>Fred Vogler</cntper>
+        </cntorgp>
+        <cntpos>GIS Manager</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>65 Mitchell Blvd, Suite 100G</address>
+          <city>San Rafael</city>
+          <state>CA</state>
+          <postal>94903</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>415-499-6286</cntvoice>
+        <cntemail>fvogler@co.marin.ca.us</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+  </metainfo>
+</metadata>

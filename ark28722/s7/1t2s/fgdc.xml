@@ -1,0 +1,432 @@
+﻿<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>San Francisco Enterprise GIS Program, Department of Technology</origin>
+        <title>Building Footprints , San Francisco, California, 2014</title>
+        <geoform>vector digital data</geoform>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This data layer shows building footprints for the City and County of San Francisco as of June 2011. There were created using the ArcGIS 3D Analyst conversion tool, "MultiPatch Footprint," converting the 3D building model data the City licensed from PIctometry, Inc.</abstract>
+      <purpose>Building footprints in the City and County of San Francisco, as of June 2011. </purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>20120104</begdate>
+          <enddate>20140814</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>Unknown</current>
+    </timeperd>
+    <status>
+      <progress>In work</progress>
+      <update>Unknown</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-122.515654</westbc>
+        <eastbc>-122.357094</eastbc>
+        <northbc>37.832176</northbc>
+        <southbc>37.703688</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>lcsh </themekt>
+        <themekey>Buildings</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Categories</themekt>
+        <themekey>planningCadastre</themekey>
+        <themekey>structure</themekey>
+      </theme>
+      <place>
+        <placekt>Geonames</placekt>
+        <placekey>San Francisco (Calif.)</placekey>
+      </place>
+      <temporal>
+        <tempkt>None</tempkt>
+        <tempkey>2011</tempkey>
+        <tempkey>2014-updated</tempkey>
+      </temporal>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>None.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Department of Technology</cntorg>
+          <cntper>San Francisco Enterprise GIS Program</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>unknown</addrtype>
+          <address>1 South Van Ness Ave, 2nd Floor</address>
+          <city>San Francisco</city>
+          <state>CA</state>
+          <postal>94103</postal>
+          <country>United States of America</country>
+        </cntaddr>
+        <cntemail>gis@sfgov.org</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>UC Berkeley Library </cntorg>
+        </cntorgp>
+        <cntpos>GIS Librarian </cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>50 McCone Hall</address>
+          <city>Berkeley </city>
+          <state>California </state>
+          <postal>94720</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>(510) 642-2997</cntvoice>
+        <cntemail>eart@library.berkeley.edu</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <datacred>San Francisco Enterprise GIS Program, Department of Technology (2014), Building Footprints, San Francisco, California, San Francisco Enterprise GIS Program, Department of Technology, San Francisco, California 
+</datacred>
+    <native>Microsoft Windows 7 Version 6.1 (Build 7601) Service Pack 1; Esri ArcGIS 10.2.2.3552</native>
+  </idinfo>
+  <dataqual>
+    <lineage>
+      <procstep>
+        <procdesc>Changed "building_footprint.shp" to "SanFrancisco_buildingfootprints_2014.shp"</procdesc>
+        <procdate>20150508</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>UC Berkeley Library </cntorg>
+            </cntorgp>
+            <cntpos>GIS Librarian </cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical</addrtype>
+              <address>50 McCone Hall</address>
+              <city>Berkeley </city>
+              <state>California </state>
+              <postal>94720</postal>
+              <country>US</country>
+            </cntaddr>
+            <cntvoice>(510) 642-2997</cntvoice>
+            <cntemail>eart@library.berkeley.edu</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>GT-polygon composed of chains</sdtstype>
+        <ptvctcnt>85166</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <mapproj>
+          <mapprojn>NAD 1983 StatePlane California III FIPS 0403 Feet</mapprojn>
+          <lambertc>
+            <stdparll>37.0666666666667</stdparll>
+            <stdparll>38.4333333333333</stdparll>
+            <longcm>-120.5</longcm>
+            <latprjo>36.5</latprjo>
+            <feast>6561666.66666667</feast>
+            <fnorth>1640416.66666667</fnorth>
+          </lambertc>
+        </mapproj>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.00000002718320013528342</absres>
+            <ordres>0.00000002718320013528342</ordres>
+          </coordrep>
+          <plandu>foot_us</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>D North American 1983</horizdn>
+        <ellips>GRS 1980</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257222101</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>SanFrancisco_buildingfootprints_2014</enttypl>
+        <enttypd>Attributes and Attribute values are derived from the original 3D Building Model dataset</enttypd>
+        <enttypds>Pictometry Inc.</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ObjName</attrlabl>
+        <attrdef>compound object name </attrdef>
+        <attrdefs>Pictometry</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CenterLat</attrlabl>
+        <attrdef>latitude of the object origin, in degrees WGS-84</attrdef>
+        <attrdefs>Pictometry, Inc.</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CenterLon</attrlabl>
+        <attrdef>longitude of the object origin, in degrees WGS-84</attrdef>
+        <attrdefs>Pictometry Inc.</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Origin84</attrlabl>
+        <attrdef>origin of the object, in meters WGS-84 vertical datum</attrdef>
+        <attrdefs>Pictometry Inc.</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OriginMSL</attrlabl>
+        <attrdef>origin of the object, in meters EGM96 vertical datum (mean sea level)</attrdef>
+        <attrdefs>Pictometry</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>USNGPos</attrlabl>
+        <attrdef>center of the bounding cube base, in National Grid coordinates</attrdef>
+        <attrdefs>Pictometry Inc.</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LatMin</attrlabl>
+        <attrdef>minimum latitude of the object bounding box, in degress WGS-84</attrdef>
+        <attrdefs>Pictometry Inc.</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LonMin</attrlabl>
+        <attrdef>minimum longitude of the object bounding box, in degress WGS-84</attrdef>
+        <attrdefs>Pictometry Inc.</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LatMax</attrlabl>
+        <attrdef>maximum latitude of the object bounding box, in degress WGS-84</attrdef>
+        <attrdefs>Pictometry Inc.</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LonMax</attrlabl>
+        <attrdef>maximum longitude of the object bounding box, in degress WGS-84</attrdef>
+        <attrdefs>Pictometry Inc.</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MinHeight</attrlabl>
+        <attrdef>minimum height of the object bounding box, in meters WGS-84 vertical datum</attrdef>
+        <attrdefs>Pictometry</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MaxHeight</attrlabl>
+        <attrdef>maximum height of the object bounding box, in meters WGS-84 vertical datum</attrdef>
+        <attrdefs>Pictometry Inc.</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>BoxXSize</attrlabl>
+        <attrdef>object bounding box size in north direction, in meters</attrdef>
+        <attrdefs>Pictometry Inc.</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>BoxYSize</attrlabl>
+        <attrdef>object bounding box size in north direction, in meters</attrdef>
+        <attrdefs>Pictometry Inc.</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>BoxZSize</attrlabl>
+        <attrdef>object bounding box size in vertical direction, in meters</attrdef>
+        <attrdefs>Pictometry Inc.</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>BrectRot</attrlabl>
+        <attrdef>best fit (via rotation) bounding rectangle rotation from east aligned rectangle, in degrees</attrdef>
+        <attrdefs>Pictometry Inc.</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>BrectLen</attrlabl>
+        <attrdef>best fit (via rotation) bounding rectangle length, in requested output coordinate system units (or meters if geodetic option selected)</attrdef>
+        <attrdefs>Pictometry Inc.</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>BrectWid</attrlabl>
+        <attrdef>best fit (via rotation) bounding rectangle width, in requested output coordinate system units (or meters if geodetic option selected)</attrdef>
+        <attrdefs>Pictometry Inc.</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>BrectArea</attrlabl>
+        <attrdef>are of best fit (via rotation) bounding rectangle, in requested output coordinate system units (or meters if geodetic option selected)</attrdef>
+        <attrdefs>Pictometry Inc.</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>BrCentLat</attrlabl>
+        <attrdef>latitude of the center of the best fit (via rotation) bounding rectangle, in degrees WGS-84</attrdef>
+        <attrdefs>Pictometry Inc.</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>BrCentLon</attrlabl>
+        <attrdef>longitude of the center of the best fit (via rotation) bounding rectangle, in degrees WGS-84</attrdef>
+        <attrdefs>Pictometry Inc.</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>NumFaces</attrlabl>
+        <attrdef>number of faces (not necessarily triangles) in the object - depends also in the Shape type</attrdef>
+        <attrdefs>Pictometry Inc.</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>BelowGnd</attrlabl>
+        <attrdef>height of any below ground extrusion used by the object, in meters</attrdef>
+        <attrdefs>Pictometry Inc.</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PrCentN</attrlabl>
+        <attrdef>northing of the object origin, in map projection units</attrdef>
+        <attrdefs>Pictometry Inc.</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PrCentE</attrlabl>
+        <attrdef>eastng of the object origin, in map projection units</attrdef>
+        <attrdefs>Pictometry Inc.</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PrCentH</attrlabl>
+        <attrdef>height of the object origin, in map projection units</attrdef>
+        <attrdefs>Pictometry Inc.</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>BelowGndP</attrlabl>
+        <attrdef>height of any below ground extrusion used by the object, in map projection units</attrdef>
+        <attrdefs>Pictometry Inc.</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PrMinE</attrlabl>
+        <attrdef>minimum easting of the object bound cube, in map projection units</attrdef>
+        <attrdefs>Pictometry Inc.</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PrMaxE</attrlabl>
+        <attrdef>maximum easting of the object bound cube, in map projection units</attrdef>
+        <attrdefs>Pictometry Inc.</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PrMinN</attrlabl>
+        <attrdef>minimum northing of the object bound cube, in map projection units</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>PrMaxN</attrlabl>
+        <attrdef>maximum northing of the object bound cube, in map projection units</attrdef>
+        <attrdefs>Pictometry Inc.</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PrMinH</attrlabl>
+        <attrdef>minimum height of the object bound cube, in map projection units</attrdef>
+        <attrdefs>Pictometry Inc.</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PrMaxH</attrlabl>
+        <attrdef>maximum height of the object bound cube, in map projection units</attrdef>
+        <attrdefs>Pictometry Inc.</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PrSizeE</attrlabl>
+        <attrdef>size in the easting direction of the object bound cube, in map projection units</attrdef>
+        <attrdefs>Pictometry Inc.</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PrSizeN</attrlabl>
+        <attrdef>size in the northing direction of the object bound cube, in map projection units</attrdef>
+        <attrdefs>Pictometry Inc.</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PrSizeH</attrlabl>
+        <attrdef>height of the object bound cube, in map projection units</attrdef>
+        <attrdefs>Pictometry Inc.</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>code</attrlabl>
+        <attrdef>compound object name (same as ObjName field)</attrdef>
+        <attrdefs>Pictometry Inc.</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Model</attrlabl>
+        <attrdef>filename of the OpenFlight object if were exported using one object per file option - includes any flt prefix specified in the Shapefile export setup</attrdef>
+        <attrdefs>Pictometry Inc.</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Z_Min</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>Z_Max</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>ruleid</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>ruleid_ds</attrlabl>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>UC Berkeley Library </cntorg>
+        </cntorgp>
+        <cntpos>GIS Librarian </cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>50 McCone Hall</address>
+          <city>Berkeley </city>
+          <state>California </state>
+          <postal>94720</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>(510) 642-2997</cntvoice>
+        <cntemail>eart@library.berkeley.edu</cntemail>
+      </cntinfo>
+    </distrib>
+    <distliab>See access and use constraints information.</distliab>
+  </distinfo>
+  <metainfo>
+    <metd>20150508</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Department of Technology</cntorg>
+          <cntper>San Francisco Enterprise GIS Program</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>unknown</addrtype>
+          <address>1 South Van Ness Ave, 2nd Floor</address>
+          <city>San Francisco</city>
+          <state>CA</state>
+          <postal>94103</postal>
+          <country>United States of America</country>
+        </cntaddr>
+        <cntemail>gis@sfgov.org</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+  </metainfo>
+</metadata>
