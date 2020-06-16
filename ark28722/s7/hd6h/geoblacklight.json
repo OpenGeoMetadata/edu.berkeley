@@ -1,0 +1,36 @@
+{
+    "dc_creator_sm": [
+        "Powell, Susan", 
+        "Navarro, Fernando"
+    ], 
+    "dc_description_s": "This line dataset represents railroads in and near Mongolia in 1950. The dataset was developed as part of the Mongolian 20th-century Historical GIS Database project. It is designed to integrate and align well with other datasets created as part of the project. It can be used for creating small to medium size maps of historical Mongolia and for analysis, as appropriate to the resolution. This data is only as accurate as the source maps upon which it is based. As such, the UC Berkeley Library does not guarantee the accuracy of the data. Researchers should use their own judgement about appropriate uses for this data. Users should please acknowledge and cite the \u201cMongolian 20th-century Historical GIS Database project\u201d in any derivative works. The source map for this dataset is: \"Soviet Union, Glavnoe upravlenie geodezii i kartografii. \u041a\u0438\u0442\u0430\u0439 (China) [map]. Scale 1:5,000,000. Moscow: Glavnoe upravlenie geodezii i kartografii pri Sovete Ministrov SSSR, 1950.\"", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "http://spatial.lib.berkeley.edu/viewpublic/berkeley-s7hd6h", 
+    "dc_publisher_s": "UC Berkeley Library", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Transportation", 
+        "Railroads", 
+        "Transportation"
+    ], 
+    "dc_title_s": "Railroads, Mongolia & Surrounding Areas, 1950", 
+    "dc_type_s": "Dataset", 
+    "dct_isPartOf_sm": [
+        "Mongolian 20th-century Historical GIS Database"
+    ], 
+    "dct_issued_dt": "2020-02-27T23:34:35.206Z", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7hd6h/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7hd6h/data.zip\"}", 
+    "dct_spatial_sm": [
+        "Mongolia", 
+        "China", 
+        "Russia"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Line", 
+    "layer_id_s": "s7hd6h", 
+    "layer_modified_dt": "2020-03-04T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s7hd6h", 
+    "solr_geom": "ENVELOPE(87.295858, 121.471108, 52.195303, 40.080067)", 
+    "solr_year_i": 1950
+}
