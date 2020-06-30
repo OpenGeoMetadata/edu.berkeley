@@ -1,0 +1,36 @@
+{
+    "dc_creator_sm": [
+        "East View Geospatial"
+    ], 
+    "dc_description_s": "This polygon dataset shows the outlines of important public buildings, such as structures associated with the national government, the city administration, U.S. facilities, buildings that are part of the life-supporting public infrastructure, such as electrical power plants, water works, port facilities, structures at airports, and communication facilities, hospitals and medical centers, colleges and other educational facilities, military barracks, churches and church-supported institutions, factories and some important businesses, such as hotels, in Port-au-Prince, Haiti and lists their names. It was created in 2010 after the earthquake. The data was mapped at a scale of 1:12,500.", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "http://spatial.lib.berkeley.edu/viewpublic/berkeley-s7v39n", 
+    "dc_publisher_s": "East View Geospatial", 
+    "dc_rights_s": "Restricted", 
+    "dc_subject_sm": [
+        "Structure", 
+        "Public Buildings", 
+        "Public Utilities", 
+        "Marine Terminals", 
+        "Hospitals", 
+        "Colleges and Universities", 
+        "Churches", 
+        "Factories", 
+        "Building Footprints"
+    ], 
+    "dc_title_s": "Building footprints (large structures), Port-au-Prince, Haiti, 2010", 
+    "dc_type_s": "Dataset", 
+    "dct_issued_dt": "2010-04-01T23:34:35.206Z", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices-secure.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices-secure.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://github.com/OpenGeoMetadata/edu.berkeley/tree/master/s7/v3/9n/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/UCB/berkeley-s7v39n/data.zip\"}", 
+    "dct_spatial_sm": [
+        "Port-au-prince (Haiti)"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Polygon", 
+    "layer_id_s": "s7v39n", 
+    "layer_modified_dt": "2019-01-10T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s7v39n", 
+    "solr_geom": "ENVELOPE(-72.428482, -72.191507, 18.662072, 18.420848)", 
+    "solr_year_i": 2010
+}
