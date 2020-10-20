@@ -1,25 +1,30 @@
 {
-    "dc_creator_sm":"Merrick   Company",
-    "dc_description_s":"Merrick has provided the County of Sonoma with an ArcINFO coverage named \"model\" which contains the model limits (lines) and photo centers (points) for the orthophotography tiles.  It also contains annotation (anno.dxf) with the photo center numbers.  The key item in both the .aat and .pat is dxf-layer.\n\n.aat dxf-layer \nmdllay_600,mdllay_1200,mdllay_2400 \n\n.pat dxf-layer \nphotoctrs_1200, photoctrs_2400, photoctrs_cotati, photoctrs_petalum, photoctrs_rohnert, photoctrs_santaro",
-    "dc_format_s":"Shapefile",
-    "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7dk69",
-    "dc_publisher_s":"Santa Rosa (Calif.). County Of Sonoma Gis Central.",
-    "dc_rights_s":"Public",
-    "dc_subject_sm":[
-        "Imagery and Base Maps",
+    "dc_creator_sm": [
+        "Merrick   Company"
+    ], 
+    "dc_description_s": "Merrick has provided the County of Sonoma with an ArcINFO coverage named \"model\" which contains the model limits (lines) and photo centers (points) for the orthophotography tiles.  It also contains annotation (anno.dxf) with the photo center numbers.  The key item in both the .aat and .pat is dxf-layer.\n\n.aat dxf-layer \nmdllay_600,mdllay_1200,mdllay_2400 \n\n.pat dxf-layer \nphotoctrs_1200, photoctrs_2400, photoctrs_cotati, photoctrs_petalum, photoctrs_rohnert, photoctrs_santaro", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7dk69", 
+    "dc_publisher_s": "Santa Rosa (Calif.). County Of Sonoma Gis Central.", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Imagery and Base Maps", 
         "Aerial Photos"
-    ],
-    "dc_title_s":"SCGISDB2_BASE_REF_AERIAL_MODEL",
-    "dct_provenance_s":"Berkeley",
-    "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7dk69/data.zip\"}",
-    "dct_spatial_sm":[
+    ], 
+    "dc_title_s": "SCGISDB2_BASE_REF_AERIAL_MODEL", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7dk69/data.zip\"}", 
+    "dct_spatial_sm": [
         "Sonoma County (Calif.)"
-    ],
-    "geoblacklight_version":"1.0",
-    "layer_geom_type_s":"Line",
-    "layer_id_s":"s7dk69",
-    "layer_modified_dt":"2012-11-28T23:35:11.731Z",
-    "layer_slug_s":"ark28722-s7dk69",
-    "solr_geom":"ENVELOPE(-123.558869, -122.326523, 38.908646, 38.064076)",
-    "solr_year_i":2001
+    ], 
+    "dct_temporal_sm": [
+        "2001"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Line", 
+    "layer_id_s": "s7dk69", 
+    "layer_modified_dt": "2012-11-28T23:35:11.731Z", 
+    "layer_slug_s": "ark28722-s7dk69", 
+    "solr_geom": "ENVELOPE(-123.558869, -122.326523, 38.908646, 38.064076)", 
+    "solr_year_i": 2001
 }

@@ -1,0 +1,27 @@
+{
+    "dc_creator_sm": [
+        "Kern County (Calif.) -- Engineering, Surveying and Permit Services "
+    ], 
+    "dc_description_s": "This dataset represents the city limits in Kern County, California in 2014. Data were mapped by the Engineering, Surveying and Permit Services Agency. All files range in size from 6 KB to 4 MB. Parcel file is approximately 88 MB. ESRI Shape Files, State Plane NAD 83 California Zone V Projection. ", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7cw97", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Boundaries", 
+        "City Limits"
+    ], 
+    "dc_title_s": "City Limits, Kern County, California, 2014", 
+    "dc_type_s": "Dataset", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7cw97/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7cw97/data.zip\"}", 
+    "dct_spatial_sm": [
+        "Kern County (Calif.)"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Polygon", 
+    "layer_id_s": "s7cw97", 
+    "layer_modified_dt": "2018-02-16T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s7cw97", 
+    "solr_geom": "ENVELOPE(-119.503556, -117.615774, 35.797385, 35.004057)", 
+    "solr_year_i": 2014
+}

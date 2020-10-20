@@ -1,0 +1,30 @@
+{
+    "dc_creator_sm": [
+        "Geographic Information Systems, Sonoma County, California"
+    ], 
+    "dc_description_s": "The air quality control board dataset represents the Northern Sonoma County Air Pollution Control District (a.k.a. NSCAPCD) and the Bay Area Air Quality Management District (a.k.a. BAAQMD). The Northern Sonoma County Air Pollution Control District set forth Rule 110 which states: rules and regulations are set forth to achieve and maintain such levels of air quality as will protect human health and safety; prevent injury to plant and animal life; avoid damage to property; and preserve the comfort, convenience and enjoyment of the natural attractions of the California North Coast Air Basin. The Bay Area Air Quality Management District is committed to achieving clean air to protect the public's health and the environment in the San Francisco Bay region. The Air District aims to: 1) attain and maintain air quality standards, 2) increase public awareness of positive air quality choices, and 3) develop and implement protocol and policies for environmental justice. It is the intent of all air pollution control districts and air quality management districts in the California North Coast Air Basin to adopt and enforce rules and regulations which assure that reasonable provision is made to achieve and maintain state and federal ambient air quality standards for the area under their jurisdiction and to enforce all applicable provisions of State law.", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s70x0r", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Environment", 
+        "Health", 
+        "Air Quality Management,", 
+        "Air--pollution--control"
+    ], 
+    "dc_title_s": "Air Quality Control Board, Sonoma County, California, 2011", 
+    "dc_type_s": "Dataset", 
+    "dct_issued_dt": "2011-05-01T23:34:35.206Z", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s70x0r/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s70x0r/data.zip\"}", 
+    "dct_spatial_sm": [
+        "Sonoma County ( Calif.)"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Polygon", 
+    "layer_id_s": "s70x0r", 
+    "layer_modified_dt": "2017-12-18T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s70x0r", 
+    "solr_geom": "ENVELOPE(-123.534619, -122.349809, 38.85691, 38.103489)", 
+    "solr_year_i": 2011
+}

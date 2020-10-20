@@ -1,26 +1,31 @@
 {
-    "dc_creator_sm":"Sudden Oak Death Project, Center for the Assessment and Monitoring of Forestry and Environmental Resources (CAMFER) at U.C. Berkeley",
-    "dc_description_s":"This is a 1/4 mile buffer around all Sudden Oak Death confirmations from the California Department of Food and Agriculture, University of California at Davis, and University of California at Berkeley.  Reprojected from Albers GCS_North_American_1927 and renamed by County of Marin.",
-    "dc_format_s":"Shapefile",
-    "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7kg6t",
-    "dc_publisher_s":"San Rafael (Calif.). County Of Marin.",
-    "dc_rights_s":"Public",
-    "dc_subject_sm":[
-        "Sudden Oak Death",
-        "Vegetation",
+    "dc_creator_sm": [
+        "Sudden Oak Death Project, Center for the Assessment and Monitoring of Forestry and Environmental Resources (CAMFER) at U.C. Berkeley"
+    ], 
+    "dc_description_s": "This is a 1/4 mile buffer around all Sudden Oak Death confirmations from the California Department of Food and Agriculture, University of California at Davis, and University of California at Berkeley.  Reprojected from Albers GCS_North_American_1927 and renamed by County of Marin.", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7kg6t", 
+    "dc_publisher_s": "San Rafael (Calif.). County Of Marin.", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Sudden Oak Death", 
+        "Vegetation", 
         "Biota"
-    ],
-    "dc_title_s":"Sudden Oak Death Buffer",
-    "dct_provenance_s":"Berkeley",
-    "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7kg6t/data.zip\"}",
-    "dct_spatial_sm":[
+    ], 
+    "dc_title_s": "Sudden Oak Death Buffer", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7kg6t/data.zip\"}", 
+    "dct_spatial_sm": [
         "Marin County (Calif.)"
-    ],
-    "geoblacklight_version":"1.0",
-    "layer_geom_type_s":"Polygon",
-    "layer_id_s":"s7kg6t",
-    "layer_modified_dt":"2012-11-28T23:35:22.186Z",
-    "layer_slug_s":"ark28722-s7kg6t",
-    "solr_geom":"ENVELOPE(-122.737812, -122.42522, 38.18526, 37.849659)",
-    "solr_year_i":2003
+    ], 
+    "dct_temporal_sm": [
+        "2003"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Polygon", 
+    "layer_id_s": "s7kg6t", 
+    "layer_modified_dt": "2012-11-28T23:35:22.186Z", 
+    "layer_slug_s": "ark28722-s7kg6t", 
+    "solr_geom": "ENVELOPE(-122.737812, -122.42522, 38.18526, 37.849659)", 
+    "solr_year_i": 2003
 }

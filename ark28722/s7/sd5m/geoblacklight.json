@@ -1,0 +1,28 @@
+{
+    "dc_creator_sm": [
+        "Department of Public Works, Engineering & Construction, Bicycle & Pedestrian Program"
+    ], 
+    "dc_description_s": "Bikeway dataset represents the bike routes within the city of boundaries of Oakland, California. ", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7sd5m", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Society", 
+        "Transportation", 
+        "Bikeways"
+    ], 
+    "dc_title_s": "Bikeways, Oakland, California, 2014", 
+    "dc_type_s": "Dataset", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7sd5m/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7sd5m/data.zip\"}", 
+    "dct_spatial_sm": [
+        "Oakland (Calif.)"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Line", 
+    "layer_id_s": "s7sd5m", 
+    "layer_modified_dt": "2018-03-15T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s7sd5m", 
+    "solr_geom": "ENVELOPE(-122.339486, -122.118456, 37.879567, 37.712524)", 
+    "solr_year_i": 2014
+}

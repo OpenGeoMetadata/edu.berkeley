@@ -1,27 +1,32 @@
 {
-    "dc_creator_sm":"Solano County Department of Information Technology - GIS Services",
-    "dc_description_s":"California State Assembly Districts within Solano County, California.",
-    "dc_format_s":"Shapefile",
-    "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7m896",
-    "dc_publisher_s":"Fairfield (Calif.). Solano County Department Of Information Technology - Gis Services.",
-    "dc_rights_s":"Public",
-    "dc_subject_sm":[
-        "Elections",
-        "Registrar Of Voters",
-        "Rov Districts",
+    "dc_creator_sm": [
+        "Solano County Department of Information Technology - GIS Services"
+    ], 
+    "dc_description_s": "California State Assembly Districts within Solano County, California.", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7m896", 
+    "dc_publisher_s": "Fairfield (Calif.). Solano County Department Of Information Technology - Gis Services.", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Elections", 
+        "Registrar Of Voters", 
+        "Rov Districts", 
         "Boundaries"
-    ],
-    "dc_title_s":"assemblydistricts",
-    "dct_provenance_s":"Berkeley",
-    "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7m896/data.zip\"}",
-    "dct_spatial_sm":[
+    ], 
+    "dc_title_s": "assemblydistricts", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7m896/data.zip\"}", 
+    "dct_spatial_sm": [
         "Solano County (Calif.)"
-    ],
-    "geoblacklight_version":"1.0",
-    "layer_geom_type_s":"Polygon",
-    "layer_id_s":"s7m896",
-    "layer_modified_dt":"2012-11-28T23:34:19.185Z",
-    "layer_slug_s":"ark28722-s7m896",
-    "solr_geom":"ENVELOPE(-122.409424, -121.591604, 38.539187, 38.03111)",
-    "solr_year_i":2007
+    ], 
+    "dct_temporal_sm": [
+        "2007"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Polygon", 
+    "layer_id_s": "s7m896", 
+    "layer_modified_dt": "2012-11-28T23:34:19.185Z", 
+    "layer_slug_s": "ark28722-s7m896", 
+    "solr_geom": "ENVELOPE(-122.409424, -121.591604, 38.539187, 38.03111)", 
+    "solr_year_i": 2007
 }

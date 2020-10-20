@@ -1,0 +1,28 @@
+{
+    "dc_creator_sm": [
+        "US Census Bureau "
+    ], 
+    "dc_description_s": "The TIGER/Line Shapefiles are an extract of selected geographic and cartographic information from the Census MAF/TIGER database. The Census MAF/TIGER database represents a seamless national file with no overlaps or gaps between parts. However, each TIGER/Line Shapefile is designed to stand alone as an independent data set or the shapefiles can be combined to cover the whole nation.", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7km32", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Boundaries", 
+        "Planningcadastre", 
+        "Roads"
+    ], 
+    "dc_title_s": "Roads, Solano County, California, 2008", 
+    "dc_type_s": "Dataset", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7km32/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7km32/data.zip\"}", 
+    "dct_spatial_sm": [
+        "Solano County (Calif.)"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Line", 
+    "layer_id_s": "s7km32", 
+    "layer_modified_dt": "2018-04-02T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s7km32", 
+    "solr_geom": "ENVELOPE(-122.40699, -121.593273, 38.53905, 38.031721)", 
+    "solr_year_i": 2008
+}

@@ -1,0 +1,35 @@
+{
+    "dc_creator_sm": [
+        "Humboldt County Community Development Services -- Advance Planning Division"
+    ], 
+    "dc_description_s": "This polygonal dataset is an extract from the county's parcel layer. Includes agricultural areas, timber production areas, city-owned properties, public open spaces, parks, tribal lands, and other public properties in Humbold County, California. Humboldt County's Public Lands Parcel Layer Vers. 2.3 This dataset is the result of an ongoing effort to produce an accurate county wide parcel layer. Digitizing began as far back as 1996. Includes all unincorporated areas as well as cities/incorporated areas. Cities data obtained from Arcata, Eureka, and Trinidad. Please note the accuracy of GIS map data varies from location to location in the County. This GIS system is useful for planning purposes but should not be relied upon to determine property, zoning or general plan designation boundaries or be used in any way for project design. All GIS data should be verified before it is materially relied upon for property or project planning.", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7w10v", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Farming", 
+        "Boundaries", 
+        "Environment", 
+        "Planningcadastre", 
+        "Public Lands", 
+        "Land Use", 
+        "Public Domain", 
+        "Parks", 
+        "Open Spaces"
+    ], 
+    "dc_title_s": "Public Lands, Humboldt County, California, 2014", 
+    "dc_type_s": "Dataset", 
+    "dct_issued_dt": "2014-01-01T23:34:35.206Z", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7w10v/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7w10v/data.zip\"}", 
+    "dct_spatial_sm": [
+        "Humboldt County (Calif.)"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Polygon", 
+    "layer_id_s": "s7w10v", 
+    "layer_modified_dt": "2018-03-15T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s7w10v", 
+    "solr_geom": "ENVELOPE(-124.445666, -123.383072, 41.474443, 39.988272)", 
+    "solr_year_i": 2014
+}

@@ -1,0 +1,28 @@
+{
+    "dc_creator_sm": [
+        "Humboldt County Community Development Services -- Advance Planning Division"
+    ], 
+    "dc_description_s": "This polygonal dataset shows the extents of the county boundary for Humboldt County, California.", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7mt22", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Boundaries", 
+        "Administrative and Political Divisions"
+    ], 
+    "dc_title_s": "County Boundary, Humboldt County, California, 2014", 
+    "dc_type_s": "Dataset", 
+    "dct_issued_dt": "2014-01-01T23:34:35.206Z", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7mt22/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7mt22/data.zip\"}", 
+    "dct_spatial_sm": [
+        "Humboldt County (Calif.)"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Polygon", 
+    "layer_id_s": "s7mt22", 
+    "layer_modified_dt": "2018-04-02T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s7mt22", 
+    "solr_geom": "ENVELOPE(-124.445668, -123.383092, 41.474442, 39.987626)", 
+    "solr_year_i": 2014
+}

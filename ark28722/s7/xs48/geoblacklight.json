@@ -1,26 +1,31 @@
 {
-    "dc_creator_sm":"Dept. of Public Works",
-    "dc_description_s":"This data set is a grid of San Francisco and Treasure Island that references the appropriate TileKey  Image and Quadrant for the Orthophotos.",
-    "dc_format_s":"Shapefile",
-    "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7xs48",
-    "dc_publisher_s":"San Francisco (Calif.). Department Of Telecommunications and Information Services.",
-    "dc_rights_s":"Public",
-    "dc_subject_sm":[
-        "Imagery and Base Maps",
+    "dc_creator_sm": [
+        "Dept. of Public Works"
+    ], 
+    "dc_description_s": "This data set is a grid of San Francisco and Treasure Island that references the appropriate TileKey  Image and Quadrant for the Orthophotos.", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7xs48", 
+    "dc_publisher_s": "San Francisco (Calif.). Department Of Telecommunications and Information Services.", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Imagery and Base Maps", 
         "Aerial Photos"
-    ],
-    "dc_title_s":"Orthophoto Grid",
-    "dct_provenance_s":"Berkeley",
-    "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7xs48/data.zip\"}",
-    "dct_spatial_sm":[
-        "San Francisco County (Calif.)",
+    ], 
+    "dc_title_s": "Orthophoto Grid", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7xs48/data.zip\"}", 
+    "dct_spatial_sm": [
+        "San Francisco County (Calif.)", 
         "San Francisco (Calif.)"
-    ],
-    "geoblacklight_version":"1.0",
-    "layer_geom_type_s":"Polygon",
-    "layer_id_s":"s7xs48",
-    "layer_modified_dt":"2012-11-28T23:35:01.412Z",
-    "layer_slug_s":"ark28722-s7xs48",
-    "solr_geom":"ENVELOPE(-142.793915, -122.218206, 37.833618, 30.0099)",
-    "solr_year_i":2000
+    ], 
+    "dct_temporal_sm": [
+        "2000"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Polygon", 
+    "layer_id_s": "s7xs48", 
+    "layer_modified_dt": "2012-11-28T23:35:01.412Z", 
+    "layer_slug_s": "ark28722-s7xs48", 
+    "solr_geom": "ENVELOPE(-142.793915, -122.218206, 37.833618, 30.0099)", 
+    "solr_year_i": 2000
 }

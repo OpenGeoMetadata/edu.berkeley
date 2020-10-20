@@ -1,0 +1,29 @@
+{
+    "dc_creator_sm": [
+        "San Benito County (Calif.) -- Information Technology"
+    ], 
+    "dc_description_s": "This polygon dataset shows all tax parcel boundaries within San Benito County, California as of 2016.", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7tm37", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Boundaries", 
+        "Planningcadastre", 
+        "Real Property -- Boundaries", 
+        "Land Tenure"
+    ], 
+    "dc_title_s": "Parcels, San Benito County, California, 2016", 
+    "dc_type_s": "Dataset", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7tm37/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7tm37/data.zip\"}", 
+    "dct_spatial_sm": [
+        "San Benito County (Calif.)"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Polygon", 
+    "layer_id_s": "s7tm37", 
+    "layer_modified_dt": "2018-04-06T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s7tm37", 
+    "solr_geom": "ENVELOPE(-121.646899, -120.591742, 37.003237, 36.181357)", 
+    "solr_year_i": 2016
+}

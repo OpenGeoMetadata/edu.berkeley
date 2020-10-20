@@ -1,0 +1,27 @@
+{
+    "dc_creator_sm": [
+        "Solano County"
+    ], 
+    "dc_description_s": "This is a GIS representation of the Parcel Assessors Map Books geometry; its purpose is to provide an electronic representation of the Assessors parcels; Update on September 24, 2012.", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7td4j", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Boundaries", 
+        "Real Property--maps"
+    ], 
+    "dc_title_s": "Parcels, Solano County, California, 2012", 
+    "dc_type_s": "Dataset", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7td4j/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7td4j/data.zip\"}", 
+    "dct_spatial_sm": [
+        "Solano County (Calif.)"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Polygon", 
+    "layer_id_s": "s7td4j", 
+    "layer_modified_dt": "2018-07-25T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s7td4j", 
+    "solr_geom": "ENVELOPE(-122.405905, -121.592496, 38.539148, 38.038554)", 
+    "solr_year_i": 2012
+}

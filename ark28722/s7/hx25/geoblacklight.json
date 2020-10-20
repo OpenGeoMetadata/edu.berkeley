@@ -1,0 +1,31 @@
+{
+    "dc_creator_sm": [
+        " Nevada County (Calif.)"
+    ], 
+    "dc_description_s": "This polygon dataset shows administrative boundaries for the Board of Supervisors within Nevada County, Calfornia for 2014. The Board of Supervisors is the legislative and executive body of county government. There are five Supervisor Districts in Nevada County, California.", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7hx25", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Boundaries", 
+        "Society", 
+        "Supervisors (Local Government)", 
+        "Election Districts", 
+        "Administrative and Political Divisions"
+    ], 
+    "dc_title_s": "County Supervisor Districts, Nevada County, California, 2014", 
+    "dc_type_s": "Dataset", 
+    "dct_issued_dt": "2014-01-14T23:34:35.206Z", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7hx25/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7hx25/data.zip\"}", 
+    "dct_spatial_sm": [
+        "Nevada County (Calif.)"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Polygon", 
+    "layer_id_s": "s7hx25", 
+    "layer_modified_dt": "2018-03-28T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s7hx25", 
+    "solr_geom": "ENVELOPE(-121.282095, -119.99917, 39.532286, 38.991901)", 
+    "solr_year_i": 2014
+}

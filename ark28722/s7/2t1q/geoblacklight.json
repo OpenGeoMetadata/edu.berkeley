@@ -1,0 +1,30 @@
+{
+    "dc_creator_sm": [
+        "Mono County (Calif.) -- Information Technology"
+    ], 
+    "dc_description_s": "This data set delineates the land use designation (LUD) blocks within Mono County, California for 2011. Designations set by the Mono County General Plan (2009) http://www.monocounty.ca.gov/planning/page/general-plan", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s72t1q", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Planningcadastre", 
+        "Land Use", 
+        "Zoning", 
+        "City Blocks"
+    ], 
+    "dc_title_s": "Land Use Designation Blocks, Mono County, California, 2011", 
+    "dc_type_s": "Dataset", 
+    "dct_issued_dt": "2011-05-11T23:34:35.206Z", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s72t1q/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s72t1q/data.zip\"}", 
+    "dct_spatial_sm": [
+        "Mono County (Calif.)"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Polygon", 
+    "layer_id_s": "s72t1q", 
+    "layer_modified_dt": "2018-02-27T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s72t1q", 
+    "solr_geom": "ENVELOPE(-119.659774, -117.787666, 38.706128, 37.44548)", 
+    "solr_year_i": 2011
+}

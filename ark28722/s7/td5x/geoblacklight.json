@@ -1,0 +1,28 @@
+{
+    "dc_creator_sm": [
+        "Alameda County Registrar of Voters "
+    ], 
+    "dc_description_s": "Assembly Districts with district boundaries, within the extent of Alameda County; districts have been updated to show 2011 redistricting changesNOTE: The new district boundaries are to be used in 2012 for the purpose of determining boundaries for voters voting in the 2012 primary and general elections. Individuals elected to these offices in November 2012 will represent the newly configured districts when they are sworn into office in January 2013.", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7td5x", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Boundaries", 
+        "Society", 
+        "California. Legislature. Assembly--election Districts."
+    ], 
+    "dc_title_s": "State Assembly Districts, Alameda County, California, 2011", 
+    "dc_type_s": "Dataset", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7td5x/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7td5x/data.zip\"}", 
+    "dct_spatial_sm": [
+        "Alameda County (Calif.)"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Polygon", 
+    "layer_id_s": "s7td5x", 
+    "layer_modified_dt": "2018-03-28T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s7td5x", 
+    "solr_geom": "ENVELOPE(-122.349013, -121.468933, 37.915926, 37.448458)", 
+    "solr_year_i": 2011
+}

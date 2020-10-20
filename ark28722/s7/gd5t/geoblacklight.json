@@ -1,0 +1,30 @@
+{
+    "dc_creator_sm": [
+        "Sacramento Area Council of Governments"
+    ], 
+    "dc_description_s": "Fire Agency districts in Sacramento County", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7gd5t", 
+    "dc_publisher_s": "Sacramento Area Council of Governments", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Planningcadastre", 
+        "Environment", 
+        "Fire Protecion Districts."
+    ], 
+    "dc_title_s": "Fire Districts, Sacramento County, California, 2010", 
+    "dc_type_s": "Dataset", 
+    "dct_issued_dt": "2010-01-01T23:34:35.206Z", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7gd5t/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7gd5t/data.zip\"}", 
+    "dct_spatial_sm": [
+        "Sacramento County (Calif.)"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Polygon", 
+    "layer_id_s": "s7gd5t", 
+    "layer_modified_dt": "2018-04-02T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s7gd5t", 
+    "solr_geom": "ENVELOPE(-121.86323, -121.016431, 38.75345, 38.014222)", 
+    "solr_year_i": 2010
+}

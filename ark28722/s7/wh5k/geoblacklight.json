@@ -1,0 +1,30 @@
+{
+    "dc_creator_sm": [
+        "Yolo County, Public Works Division, Planning Services "
+    ], 
+    "dc_description_s": "This dataset represents the boundary that exists which determines Yolo County, California. Latest data export occurred on February 26th, 2007. Data was mapped and provided by the Yolo County, Public Works Division ", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7wh5k", 
+    "dc_publisher_s": "Yolo County (Calif.). Public Works Division ", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Boundaries", 
+        "Boundaries", 
+        "Political Boundaries"
+    ], 
+    "dc_title_s": "County Boundary, Yolo County, California, 2007", 
+    "dc_type_s": "Dataset", 
+    "dct_issued_dt": "2007-02-26T23:34:35.206Z", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7wh5k/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7wh5k/data.zip\"}", 
+    "dct_spatial_sm": [
+        "Yolo County (Calif.)"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Polygon", 
+    "layer_id_s": "s7wh5k", 
+    "layer_modified_dt": "2018-04-10T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s7wh5k", 
+    "solr_geom": "ENVELOPE(-122.42305, -121.497758, 38.926108, 38.312896)", 
+    "solr_year_i": 2007
+}

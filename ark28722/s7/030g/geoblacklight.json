@@ -1,25 +1,30 @@
 {
-    "dc_creator_sm":"Napa County Conservation",
-    "dc_description_s":"Geographic Evaluation Areas used in the Baseline Data Report (BDR).",
-    "dc_format_s":"Shapefile",
-    "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7030g",
-    "dc_publisher_s":"Napa County (Calif.). County Of Napa.",
-    "dc_rights_s":"Public",
-    "dc_subject_sm":[
-        "Boundaries",
+    "dc_creator_sm": [
+        "Napa County Conservation"
+    ], 
+    "dc_description_s": "Geographic Evaluation Areas used in the Baseline Data Report (BDR).", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7030g", 
+    "dc_publisher_s": "Napa County (Calif.). County Of Napa.", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Boundaries", 
         "Administrative and Political Divisions"
-    ],
-    "dc_title_s":"Geographic Evaluation Areas",
-    "dct_provenance_s":"Berkeley",
-    "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7030g/data.zip\"}",
-    "dct_spatial_sm":[
+    ], 
+    "dc_title_s": "Geographic Evaluation Areas", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7030g/data.zip\"}", 
+    "dct_spatial_sm": [
         "Napa County (Calif.)"
-    ],
-    "geoblacklight_version":"1.0",
-    "layer_geom_type_s":"Polygon",
-    "layer_id_s":"s7030g",
-    "layer_modified_dt":"2012-11-28T23:34:50.889Z",
-    "layer_slug_s":"ark28722-s7030g",
-    "solr_geom":"ENVELOPE(-122.648942, -122.061276, 38.864937, 38.153319)",
-    "solr_year_i":2003
+    ], 
+    "dct_temporal_sm": [
+        "2003"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Polygon", 
+    "layer_id_s": "s7030g", 
+    "layer_modified_dt": "2012-11-28T23:34:50.889Z", 
+    "layer_slug_s": "ark28722-s7030g", 
+    "solr_geom": "ENVELOPE(-122.648942, -122.061276, 38.864937, 38.153319)", 
+    "solr_year_i": 2003
 }

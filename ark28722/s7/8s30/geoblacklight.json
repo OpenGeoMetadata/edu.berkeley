@@ -1,24 +1,29 @@
 {
-    "dc_creator_sm":"Merrick   Company Project Number  50013734",
-    "dc_description_s":"GPS surveying shall establish photo-control points to check the new aerial photography. The location of the photo-control shall be strategically placed throughout the County in order to maintain the desired positional accuracy.  The origin of the photo-control survey; the Network - GPS field surveys for the supplemental photo-control will originate from First-order NGS and/or CALTRANS control stations.\n\nNGS control station monuments are used as a primary source of horizontal survey control.  These primary control monuments are used to locate other surveys.",
-    "dc_format_s":"Shapefile",
-    "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s78s30",
-    "dc_publisher_s":"Santa Rosa (Calif.). County Of Sonoma Gis Central.",
-    "dc_rights_s":"Public",
-    "dc_subject_sm":[
+    "dc_creator_sm": [
+        "Merrick   Company Project Number  50013734"
+    ], 
+    "dc_description_s": "GPS surveying shall establish photo-control points to check the new aerial photography. The location of the photo-control shall be strategically placed throughout the County in order to maintain the desired positional accuracy.  The origin of the photo-control survey; the Network - GPS field surveys for the supplemental photo-control will originate from First-order NGS and/or CALTRANS control stations.\n\nNGS control station monuments are used as a primary source of horizontal survey control.  These primary control monuments are used to locate other surveys.", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s78s30", 
+    "dc_publisher_s": "Santa Rosa (Calif.). County Of Sonoma Gis Central.", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
         "Planning and Cadastral"
-    ],
-    "dc_title_s":"SCGISDB2_BASE_REF_AERIAL_SURVEY_CONTROL",
-    "dct_provenance_s":"Berkeley",
-    "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s78s30/data.zip\"}",
-    "dct_spatial_sm":[
+    ], 
+    "dc_title_s": "SCGISDB2_BASE_REF_AERIAL_SURVEY_CONTROL", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s78s30/data.zip\"}", 
+    "dct_spatial_sm": [
         "Sonoma County (Calif.)"
-    ],
-    "geoblacklight_version":"1.0",
-    "layer_geom_type_s":"Point",
-    "layer_id_s":"s78s30",
-    "layer_modified_dt":"2012-11-28T23:35:11.738Z",
-    "layer_slug_s":"ark28722-s78s30",
-    "solr_geom":"ENVELOPE(-123.528559, -122.40084, 38.841916, 38.141658)",
-    "solr_year_i":2001
+    ], 
+    "dct_temporal_sm": [
+        "2001"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Point", 
+    "layer_id_s": "s78s30", 
+    "layer_modified_dt": "2012-11-28T23:35:11.738Z", 
+    "layer_slug_s": "ark28722-s78s30", 
+    "solr_geom": "ENVELOPE(-123.528559, -122.40084, 38.841916, 38.141658)", 
+    "solr_year_i": 2001
 }

@@ -1,0 +1,28 @@
+{
+    "dc_creator_sm": [
+        "Shasta County Resource Management Dept."
+    ], 
+    "dc_description_s": "This polyline dataset represents all road centerlines in Shasta County, California for 2010. Attributes include road names and address range information.", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7kh4d", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Transportation", 
+        "Roads"
+    ], 
+    "dc_title_s": "Roads, Shasta County, California, 2010", 
+    "dc_type_s": "Dataset", 
+    "dct_issued_dt": "2014-10-13T23:34:35.206Z", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7kh4d/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7kh4d/data.zip\"}", 
+    "dct_spatial_sm": [
+        "Shasta County (Calif.)"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Line", 
+    "layer_id_s": "s7kh4d", 
+    "layer_modified_dt": "2018-03-15T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s7kh4d", 
+    "solr_geom": "ENVELOPE(-123.068619, -121.310165, 41.195538, 40.282479)", 
+    "solr_year_i": 2010
+}

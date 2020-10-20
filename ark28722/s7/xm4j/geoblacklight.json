@@ -1,0 +1,28 @@
+{
+    "dc_creator_sm": [
+        "Geographic Information Systems, Sonoma County (Calif.)., California "
+    ], 
+    "dc_description_s": "The zoning by area dataset represents the detailed countywide distribution, location and extent of land development by base zoning districts, density and parcel specific combining districts (P, TS, Z) as specified in Sonoma County Code Zoning Regulations Chapter 26. Chapter 26 has been adopted to promote and protect the public health, safety, peace, comfort, convenience and general welfare. It is also adopted for the following specified purposes: (a) To provide for the orderly and beneficial land use of the county; (b) To protect the character and social and economic stability of agricultural, residential, commercial, industrial and other communities within the county; (c) To protect the public safety and welfare by regulating the location and uses of all structures and land; (d) To protect and conserve the scenic, recreational and natural resource characteristics of the county; (Ord. No. 2392, 4) (e) To provide for the orderly and timely processing of development projects as anticipated by the California Permit Streamlining Act. Development projects do not include rezoning, plan amendments or other applications accompanied by a request for a rezoning or plan amendment. (Ord. No. 4643, 1993.) Chapter 26 specifies the applicability of base zoning districts to general plan land use categories (designations). Therefore, base zoning districts and the general plan land uses are interdependent. While the general plan land use specifies broader land use development policies, guidelines, and standards, each base zoning district is specific in stating purpose, permitted uses, uses permitted with a use permit and permitted residential density and development criteria. Related Resources: Sonoma County Zoning Regulations http://www.sonoma-county.org/prmd/docs/zoning/index.htm Sonoma County General Plan 2020 Index http://www.sonoma-county.org/prmd/gp2020/adopted/index.htm", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7xm4j", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Planningcadastre", 
+        "Zoning"
+    ], 
+    "dc_title_s": "Zoning, Sonoma County, California, 2012", 
+    "dc_type_s": "Dataset", 
+    "dct_issued_dt": "2012-12-01T23:34:35.206Z", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7xm4j/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7xm4j/data.zip\"}", 
+    "dct_spatial_sm": [
+        "Sonoma County (Calif.)"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Polygon", 
+    "layer_id_s": "s7xm4j", 
+    "layer_modified_dt": "2018-04-03T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s7xm4j", 
+    "solr_geom": "ENVELOPE(-123.534619, -122.349809, 38.85691, 38.103489)", 
+    "solr_year_i": 2012
+}

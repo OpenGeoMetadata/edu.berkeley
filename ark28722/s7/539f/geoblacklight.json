@@ -1,0 +1,28 @@
+{
+    "dc_creator_sm": [
+        "Kern County (Calif.) -- Engineering, Surveying and Permit Services "
+    ], 
+    "dc_description_s": "This point dataset shows all the existing locations for fire stations within Kern County, California for 2014. ", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7539f", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Structure", 
+        "Fire Stations"
+    ], 
+    "dc_title_s": "Fire Stations, Kern County, California, 2014", 
+    "dc_type_s": "Dataset", 
+    "dct_issued_dt": "2014-10-15T23:34:35.206Z", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7539f/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7539f/data.zip\"}", 
+    "dct_spatial_sm": [
+        "Kern County (Calif.)"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Point", 
+    "layer_id_s": "s7539f", 
+    "layer_modified_dt": "2018-02-23T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s7539f", 
+    "solr_geom": "ENVELOPE(-119.692574, -117.647206, 35.778377, 34.815585)", 
+    "solr_year_i": 2014
+}

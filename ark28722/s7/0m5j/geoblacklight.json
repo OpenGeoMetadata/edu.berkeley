@@ -1,0 +1,28 @@
+{
+    "dc_creator_sm": [
+        "San Joaquin County (Calif.). Community Development Department"
+    ], 
+    "dc_description_s": "This dataset represents the waterlines within San Joaquin County, California. Data was mapped and provided by the San Joaquin County, Community Development Department. ", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s70m5j", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Inlandwaters", 
+        "Water-supply"
+    ], 
+    "dc_title_s": "Waterlines, San Joaquin County, California, 2009", 
+    "dc_type_s": "Dataset", 
+    "dct_issued_dt": "2009-01-01T23:34:35.206Z", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s70m5j/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s70m5j/data.zip\"}", 
+    "dct_spatial_sm": [
+        "San Joaquin County (Calif.)"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Line", 
+    "layer_id_s": "s70m5j", 
+    "layer_modified_dt": "2014-11-12T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s70m5j", 
+    "solr_geom": "ENVELOPE(-121.567465, -120.922237, 38.300617, 37.507729)", 
+    "solr_year_i": 2009
+}

@@ -1,26 +1,29 @@
 {
-    "dc_description_s":"Groundwater Basins for Marin County.  Data was downloaded from http://gis.ca.gov/data_index.epl and reprojected from NAD 27 meters.  Attributes not needed for the Countywide Plan were deleted.",
-    "dc_format_s":"Shapefile",
-    "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s73k54",
-    "dc_publisher_s":"San Rafael (Calif.). County Of Marin.",
-    "dc_rights_s":"Public",
-    "dc_subject_sm":[
-        "Hydrology",
-        "Groundwater Basins",
-        "Environment",
+    "dc_description_s": "Groundwater Basins for Marin County.  Data was downloaded from http://gis.ca.gov/data_index.epl and reprojected from NAD 27 meters.  Attributes not needed for the Countywide Plan were deleted.", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s73k54", 
+    "dc_publisher_s": "San Rafael (Calif.). County Of Marin.", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Hydrology", 
+        "Groundwater Basins", 
+        "Environment", 
         "Farming"
-    ],
-    "dc_title_s":"Groundwater",
-    "dct_provenance_s":"Berkeley",
-    "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s73k54/data.zip\"}",
-    "dct_spatial_sm":[
+    ], 
+    "dc_title_s": "Groundwater", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s73k54/data.zip\"}", 
+    "dct_spatial_sm": [
         "Marin County (Calif.)"
-    ],
-    "geoblacklight_version":"1.0",
-    "layer_geom_type_s":"Polygon",
-    "layer_id_s":"s73k54",
-    "layer_modified_dt":"2012-11-28T23:34:56.022Z",
-    "layer_slug_s":"ark28722-s73k54",
-    "solr_geom":"ENVELOPE(-122.988831, -122.476419, 38.328824, 37.90322)",
-    "solr_year_i":2003
+    ], 
+    "dct_temporal_sm": [
+        "2003"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Polygon", 
+    "layer_id_s": "s73k54", 
+    "layer_modified_dt": "2012-11-28T23:34:56.022Z", 
+    "layer_slug_s": "ark28722-s73k54", 
+    "solr_geom": "ENVELOPE(-122.988831, -122.476419, 38.328824, 37.90322)", 
+    "solr_year_i": 2003
 }

@@ -1,0 +1,29 @@
+{
+    "dc_creator_sm": [
+        "Kern County (Calif.) -- Engineering, Surveying and Permit Services"
+    ], 
+    "dc_description_s": "This dataset contains polygons representing the elementary school district boundaries in Kern County, California in 2004.", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7f977", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Boundaries", 
+        "Society", 
+        "Education"
+    ], 
+    "dc_title_s": "Elementary School Districts, Kern County, California, 2004", 
+    "dc_type_s": "Dataset", 
+    "dct_issued_dt": "2014-10-01T23:34:35.206Z", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7f977/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7f977/data.zip\"}", 
+    "dct_spatial_sm": [
+        "Kern County (Calif.)"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Polygon", 
+    "layer_id_s": "s7f977", 
+    "layer_modified_dt": "2018-03-27T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s7f977", 
+    "solr_geom": "ENVELOPE(-120.193392, -117.615622, 35.798442, 34.7886)", 
+    "solr_year_i": 2004
+}

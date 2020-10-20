@@ -1,0 +1,30 @@
+{
+    "dc_creator_sm": [
+        "Mono County (Calif.) -- Information Technology"
+    ], 
+    "dc_description_s": "This polygonal dataset shows the spheres of influence for all incorporated cities within Butte County, California. The layer should not be used as the official sphere of influence boundary.What's a Sphere of Influence? A Sphere of Influence designates an agency's probable future physical boundary and service area. It is territory that a city or special district will annex in the future. It's also the area where the local government will build facilities and deliver services sometime in the future. A sphere of influence is often bigger than a local government's current jurisdiction. http://www.calafco.org/docs/TimetoDrawLine_03.pdf)", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7p401", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Boundaries", 
+        "Planningcadastre", 
+        "Spheres Of Influence", 
+        "Cities and Towns"
+    ], 
+    "dc_title_s": "City Spheres of Influence, Butte County, California, 2014", 
+    "dc_type_s": "Dataset", 
+    "dct_issued_dt": "2014-10-16T23:34:35.206Z", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7p401/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7p401/data.zip\"}", 
+    "dct_spatial_sm": [
+        "Butte County (Calif.)"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Polygon", 
+    "layer_id_s": "s7p401", 
+    "layer_modified_dt": "2018-04-10T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s7p401", 
+    "solr_geom": "ENVELOPE(-121.910859, -121.451932, 39.880902, 39.346007)", 
+    "solr_year_i": 2014
+}

@@ -1,0 +1,33 @@
+{
+    "dc_creator_sm": [
+        "Butte County (Calif.) -- Local Agency Formation Commission (LAFCo)"
+    ], 
+    "dc_description_s": "This polygonal dataset shows the district boundary of the El Medio Fire Suppression District in Butte County, California. Despite overlaps by the City Limits of Oroville, the boundary of the El Medio Fire Suppression District separates the City of Oroville, Butte County, CDF response responsibilities. El Medio Fire Suppression District was created in 1925. Subsequently, the district boundary was increased via annexations; and reduced by one detchment. Annexations: Crabtree, Dixen, Lacey Barnes Tract Annexations. Detachments: Wyandotte Avenue", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7dm58", 
+    "dc_publisher_s": "Butte County (Calif.) -- Geographic Information Systems", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Boundaries", 
+        "Environment", 
+        "Planningcadastre", 
+        "Fire Protection Districts", 
+        "Emergency Management", 
+        "Emergency Preparedness"
+    ], 
+    "dc_title_s": "El Medio Fire Suppression District Annexations and Detachments, Butte County, California, 2004", 
+    "dc_type_s": "Dataset", 
+    "dct_issued_dt": "2004-12-08T23:34:35.206Z", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7dm58/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7dm58/data.zip\"}", 
+    "dct_spatial_sm": [
+        "Butte County (Calif.)"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Polygon", 
+    "layer_id_s": "s7dm58", 
+    "layer_modified_dt": "2018-04-10T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s7dm58", 
+    "solr_geom": "ENVELOPE(-121.554083, -121.526025, 39.502121, 39.46573)", 
+    "solr_year_i": 2004
+}

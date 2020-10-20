@@ -1,0 +1,35 @@
+{
+    "dc_creator_sm": [
+        "Green Info Network", 
+        "Land Trust of Napa County", 
+        "EDAW Inc"
+    ], 
+    "dc_description_s": "This dataset is intended to provide an inventory of lands accessible to the public and lands that are protected by the Land Trust in Napa County, California as of 2011. This layer includes lands that have a conservation easement, are property transfers to the Napa County Land Trust, are in a permanent preserve or other federal, state or other local protected lands.", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7fx0s", 
+    "dc_publisher_s": "Napa County (Calif.) -- Conservation Development and Planning", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Society", 
+        "Planningcadastre", 
+        "Conservation Easements", 
+        "Recreation", 
+        "Parks", 
+        "Land Trusts"
+    ], 
+    "dc_title_s": "Parks, Napa County, California, 2011", 
+    "dc_type_s": "Dataset", 
+    "dct_issued_dt": "2004-06-12T23:34:35.206Z", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7fx0s/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7fx0s/data.zip\"}", 
+    "dct_spatial_sm": [
+        "Napa County (Calif.)"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Polygon", 
+    "layer_id_s": "s7fx0s", 
+    "layer_modified_dt": "2018-03-15T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s7fx0s", 
+    "solr_geom": "ENVELOPE(-122.629383, -122.103281, 38.857106, 38.153763)", 
+    "solr_year_i": 2011
+}

@@ -1,26 +1,31 @@
 {
-    "dc_creator_sm":"UC Berkeley and Regional Water Quality Control Board LIDAR project (Napa River Watershed data)",
-    "dc_description_s":"Water Bodies.",
-    "dc_format_s":"Shapefile",
-    "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7b60m",
-    "dc_publisher_s":"Napa County (Calif.). County Of Napa.",
-    "dc_rights_s":"Public",
-    "dc_subject_sm":[
-        "Inlandwaters",
-        "Lakes",
+    "dc_creator_sm": [
+        "UC Berkeley and Regional Water Quality Control Board LIDAR project (Napa River Watershed data)"
+    ], 
+    "dc_description_s": "Water Bodies.", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7b60m", 
+    "dc_publisher_s": "Napa County (Calif.). County Of Napa.", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Inlandwaters", 
+        "Lakes", 
         "Reservior"
-    ],
-    "dc_title_s":"Water Bodies",
-    "dct_provenance_s":"Berkeley",
-    "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7b60m/data.zip\"}",
-    "dct_spatial_sm":[
+    ], 
+    "dc_title_s": "Water Bodies", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7b60m/data.zip\"}", 
+    "dct_spatial_sm": [
         "Napa County (Calif.)"
-    ],
-    "geoblacklight_version":"1.0",
-    "layer_geom_type_s":"Polygon",
-    "layer_id_s":"s7b60m",
-    "layer_modified_dt":"2012-11-28T23:35:32.636Z",
-    "layer_slug_s":"ark28722-s7b60m",
-    "solr_geom":"ENVELOPE(-122.639296, -122.075145, 38.854969, 38.076397)",
-    "solr_year_i":2010
+    ], 
+    "dct_temporal_sm": [
+        "2010"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Polygon", 
+    "layer_id_s": "s7b60m", 
+    "layer_modified_dt": "2012-11-28T23:35:32.636Z", 
+    "layer_slug_s": "ark28722-s7b60m", 
+    "solr_geom": "ENVELOPE(-122.639296, -122.075145, 38.854969, 38.076397)", 
+    "solr_year_i": 2010
 }

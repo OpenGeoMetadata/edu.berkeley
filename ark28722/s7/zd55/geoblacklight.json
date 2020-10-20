@@ -1,0 +1,27 @@
+{
+    "dc_creator_sm": [
+        "Napa County Geographic Information Systems "
+    ], 
+    "dc_description_s": "Spere of Influence for the American Canyon Fire Protection District.", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7zd55", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Society", 
+        "Fire Protection Districts"
+    ], 
+    "dc_title_s": "Fire Districts, Napa County, California, 2002", 
+    "dc_type_s": "Dataset", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7zd55/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7zd55/data.zip\"}", 
+    "dct_spatial_sm": [
+        "Napa County (Calif.)"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Polygon", 
+    "layer_id_s": "s7zd55", 
+    "layer_modified_dt": "2018-02-23T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s7zd55", 
+    "solr_geom": "ENVELOPE(-122.306221, -122.203616, 38.225718, 38.155034)", 
+    "solr_year_i": 2002
+}

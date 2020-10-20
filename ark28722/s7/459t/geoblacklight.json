@@ -1,27 +1,32 @@
 {
-    "dc_creator_sm":"MTC",
-    "dc_description_s":"Bicycle routes in Sonoma County, California",
-    "dc_format_s":"Shapefile",
-    "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7459t",
-    "dc_publisher_s":"California. Metropolitan Transportation Commission.",
-    "dc_rights_s":"Public",
-    "dc_subject_sm":[
-        "Transportation",
-        "Bikes",
-        "Bike Routes",
+    "dc_creator_sm": [
+        "MTC"
+    ], 
+    "dc_description_s": "Bicycle routes in Sonoma County, California", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7459t", 
+    "dc_publisher_s": "California. Metropolitan Transportation Commission.", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Transportation", 
+        "Bikes", 
+        "Bike Routes", 
         "Bike Networks"
-    ],
-    "dc_title_s":"Bike Routes Sonoma County 2006",
-    "dct_provenance_s":"Berkeley",
-    "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7459t/data.zip\"}",
-    "dct_spatial_sm":[
+    ], 
+    "dc_title_s": "Bike Routes Sonoma County 2006", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7459t/data.zip\"}", 
+    "dct_spatial_sm": [
         "Sonoma County (Calif.)"
-    ],
-    "geoblacklight_version":"1.0",
-    "layer_geom_type_s":"Line",
-    "layer_id_s":"s7459t",
-    "layer_modified_dt":"2012-11-28T23:34:29.543Z",
-    "layer_slug_s":"ark28722-s7459t",
-    "solr_geom":"ENVELOPE(-123.021896, -122.443256, 38.807193, 38.207565)",
-    "solr_year_i":2003
+    ], 
+    "dct_temporal_sm": [
+        "2003"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Line", 
+    "layer_id_s": "s7459t", 
+    "layer_modified_dt": "2012-11-28T23:34:29.543Z", 
+    "layer_slug_s": "ark28722-s7459t", 
+    "solr_geom": "ENVELOPE(-123.021896, -122.443256, 38.807193, 38.207565)", 
+    "solr_year_i": 2003
 }

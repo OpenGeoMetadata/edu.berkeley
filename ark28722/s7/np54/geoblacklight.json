@@ -1,26 +1,31 @@
 {
-    "dc_creator_sm":"County of Napa ITS Department",
-    "dc_description_s":"View of the parcels layer for use with public web applications.  This layer has a subset of the attributes that are available in the Parcels layer.",
-    "dc_format_s":"Shapefile",
-    "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7np54",
-    "dc_publisher_s":"Napa County (Calif.). County Of Napa.",
-    "dc_rights_s":"Public",
-    "dc_subject_sm":[
-        "Parcels",
-        "Boundaries",
+    "dc_creator_sm": [
+        "County of Napa ITS Department"
+    ], 
+    "dc_description_s": "View of the parcels layer for use with public web applications.  This layer has a subset of the attributes that are available in the Parcels layer.", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7np54", 
+    "dc_publisher_s": "Napa County (Calif.). County Of Napa.", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Parcels", 
+        "Boundaries", 
         "Planning and Cadastral"
-    ],
-    "dc_title_s":"Parcels Public",
-    "dct_provenance_s":"Berkeley",
-    "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7np54/data.zip\"}",
-    "dct_spatial_sm":[
+    ], 
+    "dc_title_s": "Parcels Public", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7np54/data.zip\"}", 
+    "dct_spatial_sm": [
         "Napa County (Calif.)"
-    ],
-    "geoblacklight_version":"1.0",
-    "layer_geom_type_s":"Polygon",
-    "layer_id_s":"s7np54",
-    "layer_modified_dt":"2012-11-28T23:35:06.457Z",
-    "layer_slug_s":"ark28722-s7np54",
-    "solr_geom":"ENVELOPE(-122.662302, -122.061226, 38.864947, 38.153245)",
-    "solr_year_i":2008
+    ], 
+    "dct_temporal_sm": [
+        "2008"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Polygon", 
+    "layer_id_s": "s7np54", 
+    "layer_modified_dt": "2012-11-28T23:35:06.457Z", 
+    "layer_slug_s": "ark28722-s7np54", 
+    "solr_geom": "ENVELOPE(-122.662302, -122.061226, 38.864947, 38.153245)", 
+    "solr_year_i": 2008
 }

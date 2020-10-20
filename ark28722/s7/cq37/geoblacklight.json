@@ -1,0 +1,27 @@
+{
+    "dc_creator_sm": [
+        "Department of Information Technology, Solano County, California"
+    ], 
+    "dc_description_s": "Solano County, California boundary.", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7cq37", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Boundaries", 
+        "Boundaries"
+    ], 
+    "dc_title_s": "County Boundary (polygon), Solano County, California, 2015", 
+    "dc_type_s": "Dataset", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7cq37/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7cq37/data.zip\"}", 
+    "dct_spatial_sm": [
+        "Solano County (Calif.)"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Polygon", 
+    "layer_id_s": "s7cq37", 
+    "layer_modified_dt": "2018-02-16T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s7cq37", 
+    "solr_geom": "ENVELOPE(-122.409251, -121.592064, 38.539117, 38.0313)", 
+    "solr_year_i": 2015
+}

@@ -1,0 +1,27 @@
+{
+    "dc_creator_sm": [
+        "City of Oakland"
+    ], 
+    "dc_description_s": "City of Oakland Zoning, including update effective November 3, 2011 (Ordinance 13090). Commercial And Residential Zoning Amendments From: Community And Economic Development Agency Recommendation: Adopt An Ordinance, Recommended By The Planning Commission, To: Update references, reducing redundancy, and clarifying language in various chapters of the Planning Code;Conditionally permit mini- and micro- Telecommunications facilities in Residential areas of the Central Business District;Amend Chapter 17.112 of the Planning Code to allow Crop Growing as a Home Occupation;Adjust the sign regulations in the RU-4 and RU-5 zones to be consistent with other zones on the City's Major Transportation Corridors;Create an interim combining zone (CH) for the core of the Chinatown Commercial area that would broaden the range of allowed ground floor uses; andImprove consistency among chapters and the maps, including making the Zoning Ordinance text consistent with the adopted height map for the area near Valdez, Harrison and 27th Streets.Some minor errors were fixed in April 2012.", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7d387", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Boundaries", 
+        "Zoning"
+    ], 
+    "dc_title_s": "Zoning, Oakland, California, 2012", 
+    "dc_type_s": "Dataset", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7d387/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7d387/data.zip\"}", 
+    "dct_spatial_sm": [
+        "Oakland (Calif.)"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Polygon", 
+    "layer_id_s": "s7d387", 
+    "layer_modified_dt": "2018-04-02T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s7d387", 
+    "solr_geom": "ENVELOPE(-122.357044, -122.11244, 37.888065, 37.630058)", 
+    "solr_year_i": 2012
+}

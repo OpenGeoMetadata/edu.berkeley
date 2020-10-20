@@ -1,0 +1,31 @@
+{
+    "dc_creator_sm": [
+        "Santa Cruz County (Calif.) -- Assessor's Office"
+    ], 
+    "dc_description_s": "This layer contains polygon data for Assessor Parcel boundaries within Santa Cruz County, California. An Assessor Parcel is a unit of land designated by the County Assessor for taxation purposes. The parcel boundary is drawn from legal descriptions which have been officially recorded with the County Recorder. Parcel boundaries are generally accurate within five to ten feet of their true geographic coordinates in the urban areas of Santa Cruz County. In the rural areas, the data may be accurate to only within three hundred feet. This layer is maintained by the Santa Cruz County Assessor's Office. Updates are published approximately quarterly (every 3-4 months).", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7xh5w", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Boundaries", 
+        "Planningcadastre", 
+        "Real Property--maps", 
+        "Real Property--boundaries", 
+        "Assessor Parcel Maps"
+    ], 
+    "dc_title_s": "Assessor Parcels, Santa Cruz County, California, 2014", 
+    "dc_type_s": "Dataset", 
+    "dct_issued_dt": "2014-01-01T23:34:35.206Z", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7xh5w/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7xh5w/data.zip\"}", 
+    "dct_spatial_sm": [
+        "Santa Cruz County (Calif.)"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Polygon", 
+    "layer_id_s": "s7xh5w", 
+    "layer_modified_dt": "2018-06-15T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s7xh5w", 
+    "solr_geom": "ENVELOPE(-122.319581, -121.581315, 37.292758, 36.842141)", 
+    "solr_year_i": 2014
+}

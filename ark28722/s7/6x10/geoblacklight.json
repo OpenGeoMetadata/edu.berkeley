@@ -1,0 +1,28 @@
+{
+    "dc_creator_sm": [
+        "Santa Clara County Planning Office"
+    ], 
+    "dc_description_s": "This is the official Fire Protection Districts GIS layer representing Fire Protection Districts within Santa Clara County, California. This layer is maintained by the Planning Office for the benefit of the Local Agency Formation Commission (LAFCO).", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s76x10", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Boundaries", 
+        "Fire Protection Districts"
+    ], 
+    "dc_title_s": "Fire Protection Districts, Santa Clara County, California, 2015", 
+    "dc_type_s": "Dataset", 
+    "dct_issued_dt": "2015-02-04T23:34:35.206Z", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s76x10/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s76x10/data.zip\"}", 
+    "dct_spatial_sm": [
+        "Santa Clara County (Calif.)"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Polygon", 
+    "layer_id_s": "s76x10", 
+    "layer_modified_dt": "2018-04-02T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s76x10", 
+    "solr_geom": "ENVELOPE(-122.199466, -121.305566, 37.470526, 36.89303)", 
+    "solr_year_i": 2015
+}

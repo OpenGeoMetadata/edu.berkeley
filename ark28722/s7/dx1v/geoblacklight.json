@@ -1,0 +1,29 @@
+{
+    "dc_creator_sm": [
+        "Placer County (Calif.) -- Community Development Resource Agency"
+    ], 
+    "dc_description_s": "This polygonal dataset shows all existing lakes within Placer County as of 2010. Original coverage was compiled from several 1:24000 USGS quadrangles and other Placer County sources.", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7dx1v", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Inlandwaters", 
+        "Lakes", 
+        "Bodies Of Water"
+    ], 
+    "dc_title_s": "Lakes, Placer County, California, 2010", 
+    "dc_type_s": "Dataset", 
+    "dct_issued_dt": "2010-01-01T23:34:35.206Z", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7dx1v/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7dx1v/data.zip\"}", 
+    "dct_spatial_sm": [
+        "Placer County (Calif.)"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Polygon", 
+    "layer_id_s": "s7dx1v", 
+    "layer_modified_dt": "2008-10-20T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s7dx1v", 
+    "solr_geom": "ENVELOPE(-121.327804, -119.921929, 39.339849, 38.678713)", 
+    "solr_year_i": 2010
+}

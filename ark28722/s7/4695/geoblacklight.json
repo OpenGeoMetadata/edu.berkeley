@@ -1,0 +1,28 @@
+{
+    "dc_creator_sm": [
+        "San Mateo County (Calif.)"
+    ], 
+    "dc_description_s": "This polygon dataset shows jurisdictional boundaries for all cities within San Mateo County, California for 2014. ", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s74695", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Boundaries", 
+        "Cities and Towns"
+    ], 
+    "dc_title_s": "City Boundaries, San Mateo County, California, 2014", 
+    "dc_type_s": "Dataset", 
+    "dct_issued_dt": "2014-10-27T23:34:35.206Z", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s74695/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s74695/data.zip\"}", 
+    "dct_spatial_sm": [
+        "San Mateo County (Calif.)"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Polygon", 
+    "layer_id_s": "s74695", 
+    "layer_modified_dt": "2018-04-10T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s74695", 
+    "solr_geom": "ENVELOPE(-122.524748, -122.071995, 37.714433, 37.103114)", 
+    "solr_year_i": 2014
+}

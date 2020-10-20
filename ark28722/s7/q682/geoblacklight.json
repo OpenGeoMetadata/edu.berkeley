@@ -1,0 +1,28 @@
+{
+    "dc_creator_sm": [
+        "Geographic Information Systems, Sonoma County, California "
+    ], 
+    "dc_description_s": "The sphere of influence dataset represents the nine cities, urban (incorporated) municipality sphere of influence (e.g. SOI) boundaries within the County of Sonoma as determined by the Local Agency Formation Commission (LAFCO). See Data Quality - Attribute Accuracy tab for boundary modification history. A \"sphere of influence\" is a physical boundary a local governmental agency is expected to provide services for and is generally set by Sonoma LAFCO with a 20-year time frame. Sphere of influence boundaries are designated in order to help discourage urban sprawl, limit boundary disputes between local agencies, and provides indications regarding future development potential. A district or City's SOI should not to be construed as \"referral\" areas or as bestowing authority and control in the sphere area. LAFCO can amend a SOI if there are sound reasons to do so.", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7q682", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Society", 
+        "Spheres Of Influence"
+    ], 
+    "dc_title_s": "Sphere of Influence (SOI), Sonoma County, California, 2011", 
+    "dc_type_s": "Dataset", 
+    "dct_issued_dt": "2011-12-01T23:34:35.206Z", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7q682/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7q682/data.zip\"}", 
+    "dct_spatial_sm": [
+        "Sonoma County (Calif.)"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Polygon", 
+    "layer_id_s": "s7q682", 
+    "layer_modified_dt": "2018-04-02T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s7q682", 
+    "solr_geom": "ENVELOPE(-123.035684, -122.441109, 38.823072, 38.202463)", 
+    "solr_year_i": 2011
+}

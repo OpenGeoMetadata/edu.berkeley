@@ -1,0 +1,29 @@
+{
+    "dc_creator_sm": [
+        "Yolo County, Public Works Division, Planning Services "
+    ], 
+    "dc_description_s": "These boundaries were derived from \"heads-up\" digitizing based on the Census Boundaries. The best attempt was made to translate the boundary lines to the base map boundary lines of Yolo County. Interpretation was necessary in many places where Census boundary lines did not match and \"real world\" lines. For a copy of the Official GIS layer of these boundaries, please contact the Yolo Coynty Elections Department (530) 666-8133", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7509d", 
+    "dc_publisher_s": "Yolo County (Calif.). Public Works Division ", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Boundaries", 
+        "Spheres Of Influence"
+    ], 
+    "dc_title_s": "Board of Supervisor Districts, Yolo County, California, 2011", 
+    "dc_type_s": "Dataset", 
+    "dct_issued_dt": "2013-02-22T23:34:35.206Z", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7509d/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7509d/data.zip\"}", 
+    "dct_spatial_sm": [
+        "Yolo County (Calif.)"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Polygon", 
+    "layer_id_s": "s7509d", 
+    "layer_modified_dt": "2018-04-10T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s7509d", 
+    "solr_geom": "ENVELOPE(-122.423044, -121.497746, 38.926108, 38.312901)", 
+    "solr_year_i": 2011
+}

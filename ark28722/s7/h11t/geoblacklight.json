@@ -1,0 +1,29 @@
+{
+    "dc_creator_sm": [
+        "Geographic Information Systems, Sonoma County (Calif.)., California  "
+    ], 
+    "dc_description_s": "The board of supervisor dataset represents the five geographical sub regions of Sonoma County's legislative body which governs the largest political/jurisdictional boundary of local government within the State of California. The Board of Supervisors of the County of Sonoma is charged with the responsibility of establishing policy to guide the various functions of the County and, where necessary, to establish procedures by which functions are performed. The Board is composed of five supervisors elected from supervisorial districts for four year terms. As the county legislative body, the responsibilities of the Board of Supervisors are diverse. A major task of the Board of Supervisors is to manage the public money which comes to the county from property tax, sales tax, fees, and federal and state income grants. The Board of Supervisors is committed to providing the highest quality service to the public in a timely manner. To insure that the public is heard on issues of concern, the Board of Supervisors provides a forum for problem solving as it relates to government agencies and processes. To meet that goal, the Board also provides information and appropriate referrals to individuals who can resolve conflicts between individual citizens and the county departments. The Sonoma County Board of Supervisors sits as the governing board of Sonoma County and of various special jurisdictions such as the Sonoma County Water Agency, the Northern Sonoma County Air Pollution Control District, the Agricultural Preservation and Open Space District, County Sanitation Districts, and the Community Development Commission.", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7h11t", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Boundaries", 
+        "Society", 
+        "Supervisorial Districts"
+    ], 
+    "dc_title_s": "Supervisor Districts, Sonoma County, California, 2013", 
+    "dc_type_s": "Dataset", 
+    "dct_issued_dt": "2013-01-01T23:34:35.206Z", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7h11t/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7h11t/data.zip\"}", 
+    "dct_spatial_sm": [
+        "Sonoma County (Calif.)"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Polygon", 
+    "layer_id_s": "s7h11t", 
+    "layer_modified_dt": "2018-04-03T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s7h11t", 
+    "solr_geom": "ENVELOPE(-123.534619, -122.349809, 38.85691, 38.103489)", 
+    "solr_year_i": 2013
+}

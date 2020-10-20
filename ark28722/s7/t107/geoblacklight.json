@@ -1,0 +1,30 @@
+{
+    "dc_creator_sm": [
+        "Mono County (Calif.) -- Information Technology"
+    ], 
+    "dc_description_s": "This polygon dataset Provides tax parcel boundaries for all properties within Mono County, California for 2014 and includes attribute for community, street address, zoning, supervisor, voting precinct, and other environmental factors associated with the parcel for example susceptibility to flooding.", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7t107", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Boundaries", 
+        "Planningcadastre", 
+        "Real Property--boundaries", 
+        "Assessor Parcel Maps"
+    ], 
+    "dc_title_s": "Parcels, Mono County, California, 2014", 
+    "dc_type_s": "Dataset", 
+    "dct_issued_dt": "2014-10-15T23:34:35.206Z", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7t107/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7t107/data.zip\"}", 
+    "dct_spatial_sm": [
+        "Mono County (Calif.)"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Polygon", 
+    "layer_id_s": "s7t107", 
+    "layer_modified_dt": "2018-03-28T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s7t107", 
+    "solr_geom": "ENVELOPE(-119.659774, -117.786694, 38.706128, 37.445458)", 
+    "solr_year_i": 2014
+}

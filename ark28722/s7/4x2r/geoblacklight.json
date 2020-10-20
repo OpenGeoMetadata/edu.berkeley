@@ -1,0 +1,27 @@
+{
+    "dc_creator_sm": [
+        "SFpark and SFMTA"
+    ], 
+    "dc_description_s": "For complete data documentation and methodology, see the On Street Parking Census Data Guide available online: http://sfpark.org/resources-overview/This is a beta version of on-street parking supply data for the City of San Francisco, CA. SFMTA staff and consultants collected on-street parking supply data from 2008 through 2014 via field surveys (97% of streets) and remote data collection (3% of streets). The field \u201cPRKG_SPLY\u201d depicts the number of on-street spaces for both sides of the street for each segment (one count per CNN). Supply counts include metered on-street spaces, non-metered demarcated spaces (parking stalls), and non-metered un-demarcated spaces (unmarked curb length).For non-metered, un-demarcated spaces, a standard of 17 feet per space has been applied, based on the needs of a standard sedan parked between two other vehicles. Along short lengths of curb that can only support one vehicle (such as between driveways), 12 feet is used to count one parking space.In areas with unmarked perpendicular parking, a standard of 8.5 feet per space has been applied (half that of a parallel parked vehicle). If a block was fully parked out, surveyors counted the actual number of cars parked.Supply counts include available parking along unpainted curb as well as grey painted, white, yellow, green, and blue curbs as long as the street is wide enough to allow for both parking and through traffic. Red curb space is not included (bus stops, fire hydrants), nor are areas where parking is otherwise entirely prohibited 24/7. Parking regulations (such as tow-away or time limits, which apply to portions of a day or week) are not considered in the on-street parking census dataset.For metered spaces and non-metered demarcated spaces, the supply count reflects the number of meters and/or parking stalls.PRKG_SPLY code 5555: The street centerline data typically uses a single line segment to represent a street. However, for streets with medians, a street is represented by two parallel line segments, one on either side of the median. Prior to 2012, parking supply counts for both sides of the median were compiled onto one side; in these cases, the code 5555 is entered for the segment on the opposite side of the median. For data collected in 2012 and later, parking supply counts were recorded separately for segments on each side of the median.Additional information and details on the methodology can be found in the On Street Parking Census Data Guide.", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s74x2r", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Transportation", 
+        "On-street Parking"
+    ], 
+    "dc_title_s": "On-street parking, San Francscio, California, 2014", 
+    "dc_type_s": "Dataset", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s74x2r/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s74x2r/data.zip\"}", 
+    "dct_spatial_sm": [
+        "San Francisco (Calif.)"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Line", 
+    "layer_id_s": "s74x2r", 
+    "layer_modified_dt": "2018-03-27T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s74x2r", 
+    "solr_geom": "ENVELOPE(-122.514467, -122.357336, 37.812579, 37.706368)", 
+    "solr_year_i": 2014
+}

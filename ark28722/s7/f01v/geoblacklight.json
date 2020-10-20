@@ -1,25 +1,30 @@
 {
-    "dc_creator_sm":"City of Oakland, California",
-    "dc_description_s":"East Oakland place boundaries as defined by the California Endowment. Boundaries are roll-ups of Census Block Groups from a NAVTEQ 2008 Census Block Group file.",
-    "dc_format_s":"Shapefile",
-    "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7f01v",
-    "dc_publisher_s":"Oakland (Calif.). Healthy City.",
-    "dc_rights_s":"Public",
-    "dc_subject_sm":[
-        "Boundaries",
+    "dc_creator_sm": [
+        "City of Oakland, California"
+    ], 
+    "dc_description_s": "East Oakland place boundaries as defined by the California Endowment. Boundaries are roll-ups of Census Block Groups from a NAVTEQ 2008 Census Block Group file.", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7f01v", 
+    "dc_publisher_s": "Oakland (Calif.). Healthy City.", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Boundaries", 
         "Administrative and Political Divisions"
-    ],
-    "dc_title_s":"Building Healthy Communities Boundary East Oakland 2009",
-    "dct_provenance_s":"Berkeley",
-    "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7f01v/data.zip\"}",
-    "dct_spatial_sm":[
+    ], 
+    "dc_title_s": "Building Healthy Communities Boundary East Oakland 2009", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7f01v/data.zip\"}", 
+    "dct_spatial_sm": [
         "Oakland (Calif.)"
-    ],
-    "geoblacklight_version":"1.0",
-    "layer_geom_type_s":"Polygon",
-    "layer_id_s":"s7f01v",
-    "layer_modified_dt":"2012-11-28T23:34:29.612Z",
-    "layer_slug_s":"ark28722-s7f01v",
-    "solr_geom":"ENVELOPE(-122.224979, -122.14786, 37.78021, 37.723565)",
-    "solr_year_i":2009
+    ], 
+    "dct_temporal_sm": [
+        "2009"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Polygon", 
+    "layer_id_s": "s7f01v", 
+    "layer_modified_dt": "2012-11-28T23:34:29.612Z", 
+    "layer_slug_s": "ark28722-s7f01v", 
+    "solr_geom": "ENVELOPE(-122.224979, -122.14786, 37.78021, 37.723565)", 
+    "solr_year_i": 2009
 }

@@ -1,25 +1,30 @@
 {
-    "dc_creator_sm":"HJW Geospatial, Inc.",
-    "dc_description_s":"Survey Points developed for use in orthophotography.",
-    "dc_format_s":"Shapefile",
-    "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7jk55",
-    "dc_publisher_s":"San Francisco (Calif.). Department Of Telecommunications and Information Services.",
-    "dc_rights_s":"Public",
-    "dc_subject_sm":[
+    "dc_creator_sm": [
+        "HJW Geospatial, Inc."
+    ], 
+    "dc_description_s": "Survey Points developed for use in orthophotography.", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7jk55", 
+    "dc_publisher_s": "San Francisco (Calif.). Department Of Telecommunications and Information Services.", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
         "Planning and Cadastral"
-    ],
-    "dc_title_s":"Global Positioning System (GPS) Control Survey",
-    "dct_provenance_s":"Berkeley",
-    "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7jk55/data.zip\"}",
-    "dct_spatial_sm":[
-        "San Francisco County (Calif.)",
+    ], 
+    "dc_title_s": "Global Positioning System (GPS) Control Survey", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7jk55/data.zip\"}", 
+    "dct_spatial_sm": [
+        "San Francisco County (Calif.)", 
         "San Francisco (Calif.)"
-    ],
-    "geoblacklight_version":"1.0",
-    "layer_geom_type_s":"Point",
-    "layer_id_s":"s7jk55",
-    "layer_modified_dt":"2012-11-28T23:35:06.522Z",
-    "layer_slug_s":"ark28722-s7jk55",
-    "solr_geom":"ENVELOPE(-122.515096, -122.166611, 37.813519, 37.439071)",
-    "solr_year_i":1993
+    ], 
+    "dct_temporal_sm": [
+        "1993"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Point", 
+    "layer_id_s": "s7jk55", 
+    "layer_modified_dt": "2012-11-28T23:35:06.522Z", 
+    "layer_slug_s": "ark28722-s7jk55", 
+    "solr_geom": "ENVELOPE(-122.515096, -122.166611, 37.813519, 37.439071)", 
+    "solr_year_i": 1993
 }

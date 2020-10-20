@@ -1,0 +1,29 @@
+{
+    "dc_creator_sm": [
+        "San Joaquin County, Community Development, Geographic Information Systems"
+    ], 
+    "dc_description_s": "This dataset represents the municipal advisory councils within San Joaquin County, California. Latest data export occurred on July 14th, 2014. Data was mapped and provided by the San Joaquin County, Community Development Department. ", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s79970", 
+    "dc_publisher_s": "San Joaquin County (Calif.). Community Development Department", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Boundaries", 
+        "Municipal Charters--law and Legislation"
+    ], 
+    "dc_title_s": "Municipal Advisory Councils, San Joaquin County, California, 2014", 
+    "dc_type_s": "Dataset", 
+    "dct_issued_dt": "2014-07-14T23:34:35.206Z", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s79970/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s79970/data.zip\"}", 
+    "dct_spatial_sm": [
+        "San Joaquin County (Calif.)"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Polygon", 
+    "layer_id_s": "s79970", 
+    "layer_modified_dt": "2018-02-27T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s79970", 
+    "solr_geom": "ENVELOPE(-121.499451, -121.069512, 38.262275, 37.853809)", 
+    "solr_year_i": 2014
+}

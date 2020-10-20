@@ -1,0 +1,30 @@
+{
+    "dc_creator_sm": [
+        "Placer County"
+    ], 
+    "dc_description_s": "Fire district annexations. Used to track fire district annexations and to create fire district boundary data set.", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7m383", 
+    "dc_publisher_s": "Placer County", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Boundaries", 
+        "Planningcadastre", 
+        "Fire Protection Districts."
+    ], 
+    "dc_title_s": "Fire Districts, Placer County, California, 2014", 
+    "dc_type_s": "Dataset", 
+    "dct_issued_dt": "2014-09-02T23:34:35.206Z", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7m383/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7m383/data.zip\"}", 
+    "dct_spatial_sm": [
+        "Placer County (Calif.)"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Polygon", 
+    "layer_id_s": "s7m383", 
+    "layer_modified_dt": "2014-09-02T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s7m383", 
+    "solr_geom": "ENVELOPE(-121.484622, -120.003028, 39.332207, 38.699176)", 
+    "solr_year_i": 2014
+}

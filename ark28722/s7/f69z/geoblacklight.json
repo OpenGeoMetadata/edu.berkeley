@@ -1,0 +1,30 @@
+{
+    "dc_creator_sm": [
+        "Sacramento County GIS"
+    ], 
+    "dc_description_s": "California State Senator districts 1,5, and 6 in Sacramento County.", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7f69z", 
+    "dc_publisher_s": "Sacramento Area Council of Governments", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Planningcadastre", 
+        "Society", 
+        "California. Legislature. Senate--election Districts."
+    ], 
+    "dc_title_s": "State Senate Districts, Sacramento County, California, 2008", 
+    "dc_type_s": "Dataset", 
+    "dct_issued_dt": "2008-09-26T23:34:35.206Z", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7f69z/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7f69z/data.zip\"}", 
+    "dct_spatial_sm": [
+        "Sacramento County (Calif.)"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Polygon", 
+    "layer_id_s": "s7f69z", 
+    "layer_modified_dt": "2018-04-03T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s7f69z", 
+    "solr_geom": "ENVELOPE(-121.86262, -121.01666, 38.736913, 38.014222)", 
+    "solr_year_i": 2008
+}

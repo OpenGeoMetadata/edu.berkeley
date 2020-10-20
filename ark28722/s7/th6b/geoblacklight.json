@@ -1,0 +1,28 @@
+{
+    "dc_creator_sm": [
+        "Geographic Information Systems, Sonoma County (Calif.)., California "
+    ], 
+    "dc_description_s": "The scenic landscape unit's dataset represents the Open Space and Resource Conservation Scenic Resources Element 2.2 of the Sonoma County General Plan 2020 as adopted on September 23, 2008 by Resolution No. 08-0808. This dataset includes additions to the Scenic Landscape Units as of August 23, 2011 per Resolution #11-0463. As the County urbanizes, the scenic landscape unit element assists in identifying areas that require the maintenance of openness for visual relief from urban densities/development. The scenic landscapes units have little capacity to absorb substantial development without significant visual impact and this element assist in retaining the largely open, scenic character of these landscapes. Therefore, the preservation of these scenic resources is important to the general welfare and quality of life for County residents while maintaining the tourists and agricultural economy within the 15 major scenic landscape units designated. The scenic landscape units represent one of three scenic resources component categories of the Sonoma County General Plan 2020 Open Space and Resource Conservation Element. The other scenic resource categories are Community Separators and Scenic Corridors. The Figure OSRC-1 (http://www.sonoma-county.org/prmd/gp2020/adopted/fig-osrc1.pdf) shows these designated scenic resource areas. The major Scenic Landscape Units have been identified as follows: The Coast Oak Valley Alexander and Dry Creek Valleys Hills East of Windsor Eastside Road River Road Laguna de Santa Rosa Bennett Valley Highway 116 Atascadero Creek Coleman Valley Sonoma Mountains Hills South of Petaluma Sonoma Valley/Mayacamas Mountains South Sonoma Mountains The intent of the plan is that policies, guidelines, and standards be clear and direct so that property owners and citizens may easily understand its provisions and how they apply to parcels of land as well as their cumulative impact on future environmental conditions and quality of life. The broad purpose of the Sonoma County General Plan is to express policies which will guide decisions on future growth, development, and conservation of resources through 2020 in a manner consistent with the goals and quality of life desired by the county's residents. Under State law many actions on private land development, such as specific plans, area plans, zoning, subdivisions, public agency projects and other decisions must be consistent with the general plan. The goals, objectives, and policies set forth in the plan will be applied in a manner to insure their constitutionality. Per Title 7, Division 1 of the Government Code of the State of California. Article 5, Section 65300 et seq, the County of Sonoma is required to adopt a comprehensive general plan to guide its future physical development. Therefore, as required by law, the 2020 Sonoma County General Plan was officially adopted on September 23, 2008. Related Resources: Sonoma County General Plan 2020 Index [includes amendments since adoption] http://www.sonoma-county.org/prmd/gp2020/index.htm Sonoma County General Plan 2020 Open Space and Resource Conservation Scenic Resources Element http://www.sonoma-county.org/prmd/gp2020/adopted/osrce.pdf", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7th6b", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Environment", 
+        "Assessment, Landscape"
+    ], 
+    "dc_title_s": "Scenic Landscape, Sonoma County, California, 2010", 
+    "dc_type_s": "Dataset", 
+    "dct_issued_dt": "2011-05-01T23:34:35.206Z", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7th6b/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7th6b/data.zip\"}", 
+    "dct_spatial_sm": [
+        "Sonoma County (Calif.)"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Polygon", 
+    "layer_id_s": "s7th6b", 
+    "layer_modified_dt": "2018-04-02T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s7th6b", 
+    "solr_geom": "ENVELOPE(-123.518332, -122.362785, 38.856816, 38.103701)", 
+    "solr_year_i": 2010
+}

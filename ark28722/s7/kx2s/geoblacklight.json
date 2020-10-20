@@ -1,0 +1,29 @@
+{
+    "dc_creator_sm": [
+        "Santa Clara County Planning Office"
+    ], 
+    "dc_description_s": "This polygon dataset is the official pheres of Influence GIS layer representing Spheres of Influence (SOI) Boundaries for Cities within Santa Clara County, California in 2015. This layer is maintained by the Planning Office for the benefit of the Santa Clara Local Agency Formation Commission (LAFCO).From http://www.santaclaralafco.org/:A SOI is a planning boundary that applies to special districts and cities. State law defines a SOI as a plan for the probable physical boundaries and service area of a local agency, as determined by LAFCO. In Santa Clara County, this definition is applicable to special districts. However for cities, it is the USA that is an indication of areas that the city will annex or provide services. For cities, the SOI is a long range planning tool to help LAFCO evaluate USA amendments and annexation requests. In addition, the SOI is sometimes an area where a City and the County may have shared interests in preserving non-urban levels of land use.", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7kx2s", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Boundaries", 
+        "Planningcadastre", 
+        "Spheres Of Influence"
+    ], 
+    "dc_title_s": "Spheres of Influence, Santa Clara County, California, 2015", 
+    "dc_type_s": "Dataset", 
+    "dct_issued_dt": "2015-02-04T23:34:35.206Z", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7kx2s/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7kx2s/data.zip\"}", 
+    "dct_spatial_sm": [
+        "Santa Clara County (Calif.)"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Polygon", 
+    "layer_id_s": "s7kx2s", 
+    "layer_modified_dt": "2018-04-03T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s7kx2s", 
+    "solr_geom": "ENVELOPE(-122.202678, -121.464153, 37.484737, 36.917403)", 
+    "solr_year_i": 2015
+}

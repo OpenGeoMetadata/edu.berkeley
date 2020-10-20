@@ -1,0 +1,28 @@
+{
+    "dc_creator_sm": [
+        "San Joaquin County, Community Development, Geographic Information Systems"
+    ], 
+    "dc_description_s": "This dataset represents the water ways within San Joaquin County, California. Data was mapped and provided by the San Joaquin County, Community Development Department. To define the location of areal hydrologic features.", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7vt27", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Inlandwaters", 
+        "Hydrology"
+    ], 
+    "dc_title_s": "Waterways, San Joaquin County,California, 2009", 
+    "dc_type_s": "Dataset", 
+    "dct_issued_dt": "2009-01-01T23:34:35.206Z", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7vt27/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7vt27/data.zip\"}", 
+    "dct_spatial_sm": [
+        "San Joaquin County (Calif.)"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Polygon", 
+    "layer_id_s": "s7vt27", 
+    "layer_modified_dt": "2014-11-12T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s7vt27", 
+    "solr_geom": "ENVELOPE(-121.590069, -120.918951, 38.263154, 37.591689)", 
+    "solr_year_i": 2009
+}

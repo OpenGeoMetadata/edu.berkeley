@@ -1,0 +1,33 @@
+{
+    "dc_creator_sm": [
+        "Federal Emergency Management Agency"
+    ], 
+    "dc_description_s": "This polygonal dataset shows flood zones within Butte County, California. The Flood Zones file was given to Butte County GIS Division from Butte County Public Works. File was originally received from Federal Emergency Management Agency (FEMA), but no formal metadata was included. Data was not available from FEMA website for Butte County on latest attempt in January 2012.Under the FLD_ZONE field, one flood designation was called \"0.2PCT ANNUAL CHANCE FLOOD HAZARD\" Public Works and Development Services stated this flood designation should be called \"X (SHADED)\" and zones named just \"X\" should be renamed to \"X (Unshaded)\". The changes were made to more closely resemble the legend in FEMA's FIRM maps. The original FEMA file given to Public Works can still be found in W:\\GIS\\GOVERNMENT_AGENCIES\\FEDERAL\\FEMA\\FloodMaps_070810\\ called \"s_fld_has_ar.shp\"", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s78x07", 
+    "dc_publisher_s": "Butte County (Calif.) -- Geographic Information Systems", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Boundaries", 
+        "Inlandwaters", 
+        "Emergency Management", 
+        "Emergency Preparedness", 
+        "Floodplain Management", 
+        "Watershed Management"
+    ], 
+    "dc_title_s": "Flood Zones, Butte County, California, 2011", 
+    "dc_type_s": "Dataset", 
+    "dct_issued_dt": "2011-01-06T23:34:35.206Z", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s78x07/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s78x07/data.zip\"}", 
+    "dct_spatial_sm": [
+        "Butte County (Calif.)"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Polygon", 
+    "layer_id_s": "s78x07", 
+    "layer_modified_dt": "2018-04-10T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s78x07", 
+    "solr_geom": "ENVELOPE(-122.069566, -121.069314, 40.153162, 39.292798)", 
+    "solr_year_i": 2011
+}

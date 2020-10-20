@@ -1,0 +1,28 @@
+{
+    "dc_creator_sm": [
+        " Sacramento County (Calif.). Department of Planning and Community Development"
+    ], 
+    "dc_description_s": "This resource provides a view of the General Plan for Sacramento, California as imagined up to 2030. See the General Plan 2030 Document here: http://www.cityofsacramento.org/Community-Development/Planning/Long-Range/General-Plan", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7vh58", 
+    "dc_publisher_s": "Sacramento County (Calif.) -- Department of Technology", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Planningcadastre", 
+        "Land Use"
+    ], 
+    "dc_title_s": "General Plan 2030, Sacramento County, California, 2012", 
+    "dc_type_s": "Dataset", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7vh58/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7vh58/data.zip\"}", 
+    "dct_spatial_sm": [
+        "Sacramento County (Calif.)"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Polygon", 
+    "layer_id_s": "s7vh58", 
+    "layer_modified_dt": "2018-02-23T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s7vh58", 
+    "solr_geom": "ENVELOPE(-121.86323, -121.01666, 38.736913, 38.014222)", 
+    "solr_year_i": 2012
+}

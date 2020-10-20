@@ -1,0 +1,30 @@
+{
+    "dc_creator_sm": [
+        "County of Napa ITS Department"
+    ], 
+    "dc_description_s": "This polygonal dataset shows zoning designations of land use within the unincorporated areas of Napa County, California for 2002. The unincorporated area of the county of Napa is divided into zoning districts, each of which is designated and identified by letter abbreviation. Table data was joined and resulting coverages created and edited in joint effort by Napa County Planning Dept and Napa County GIS staff. Napa County's policy for zoning is that zoning boundaries are parcel specific except where such run along designated roads. In that case the lines should extend to the center of such rights of way. Subsequently the coverage was edited to bring zoning lines that were adjacent to designated roads to the centerline of such. Layer is found in planning database under boundary feature dataset. Napa County CDPD provided all data and the parcel database for this coverage", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7zm3g", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Planningcadastre", 
+        "Boundaries", 
+        "Zoning", 
+        "Cities and Towns"
+    ], 
+    "dc_title_s": "Zoning, Napa County, California, 2002", 
+    "dc_type_s": "Dataset", 
+    "dct_issued_dt": "2002-08-06T23:34:35.206Z", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7zm3g/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7zm3g/data.zip\"}", 
+    "dct_spatial_sm": [
+        "Napa County (Calif.)"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Polygon", 
+    "layer_id_s": "s7zm3g", 
+    "layer_modified_dt": "2018-04-03T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s7zm3g", 
+    "solr_geom": "ENVELOPE(-122.649217, -122.061226, 38.864947, 38.153318)", 
+    "solr_year_i": 2002
+}

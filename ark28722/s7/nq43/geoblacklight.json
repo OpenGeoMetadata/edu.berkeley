@@ -1,0 +1,30 @@
+{
+    "dc_creator_sm": [
+        "Shasta County (Calif.)"
+    ], 
+    "dc_description_s": "This polygon dataset represents Shasta County, California Supervisorial District boundaries approved by the Shasta County Board of Supervisors on September 27, 2011. Boundaries file created from existing district boundaries and adjusted using 2010 Census data with input from the Shasta County Redistricting Committee and the Board.", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7nq43", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Boundaries", 
+        "Society", 
+        "Supervisors", 
+        "Election Districts"
+    ], 
+    "dc_title_s": "Supervisor Districts, Shasta County, California, 2011", 
+    "dc_type_s": "Dataset", 
+    "dct_issued_dt": "2014-01-01T23:34:35.206Z", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7nq43/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7nq43/data.zip\"}", 
+    "dct_spatial_sm": [
+        "Shasta County (Calif.)"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Polygon", 
+    "layer_id_s": "s7nq43", 
+    "layer_modified_dt": "2018-03-28T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s7nq43", 
+    "solr_geom": "ENVELOPE(-123.069703, -121.307009, 41.195737, 40.273045)", 
+    "solr_year_i": 2011
+}

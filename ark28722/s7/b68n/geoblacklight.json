@@ -1,0 +1,30 @@
+{
+    "dc_creator_sm": [
+        "Marin County Community Development Agency"
+    ], 
+    "dc_description_s": "Bikeways were defined by the \"Marin County Bicycle and Pedestrian Master Plan\" (January 2000) and \"Marin County Unincorporated Area Bicycle and Pedestrian Master Plan\" (June 2001) by Alta Transportation Consulting. Data was both digitized and extracted from existing road data. Attribute BIKECLASS is defined as: 1 = Existing Bike Paths (Class 1) 2 = Existing Bike Lanes/Shoulders (Class 2) 3 = Existing Bike Routes (Class 3) Attribute BIKEPROP is defined as: 1 = Proposed Bike Paths (Class 1) 2 = Proposed Bike Lanes/Shoulders (Class 2) 3 = Proposed Bike Routes (Class 3)", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7b68n", 
+    "dc_publisher_s": "County of Marin", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Transportation", 
+        "Transportation", 
+        "Bikeways Existing Proposed"
+    ], 
+    "dc_title_s": "Bikeways, Marin County, California, 2014", 
+    "dc_type_s": "Dataset", 
+    "dct_issued_dt": "2007-11-06T23:34:35.206Z", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7b68n/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7b68n/data.zip\"}", 
+    "dct_spatial_sm": [
+        "Marin County (Calif.)"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Line", 
+    "layer_id_s": "s7b68n", 
+    "layer_modified_dt": "2017-12-19T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s7b68n", 
+    "solr_geom": "ENVELOPE(-122.839783, -122.406402, 38.194766, 37.802318)", 
+    "solr_year_i": 2014
+}

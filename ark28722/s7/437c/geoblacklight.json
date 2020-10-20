@@ -1,0 +1,27 @@
+{
+    "dc_creator_sm": [
+        "Department of Conservation & Development, Contra Costa County"
+    ], 
+    "dc_description_s": "This dataset represents the fire stations within Contra Costa, California. Latest data revision occurred in 2011; Data was mapped and provided by the DCD GIS/Graphics Group within the Department of Conservation &amp; Development. ", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7437c", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Society", 
+        "Firestations"
+    ], 
+    "dc_title_s": "Fire Stations, Contra Costa County, California, 2011", 
+    "dc_type_s": "Dataset", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7437c/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7437c/data.zip\"}", 
+    "dct_spatial_sm": [
+        "Contra Costa County (Calif.)"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Point", 
+    "layer_id_s": "s7437c", 
+    "layer_modified_dt": "2018-02-23T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s7437c", 
+    "solr_geom": "ENVELOPE(-122.388667, -121.599447, 38.06334, 37.724847)", 
+    "solr_year_i": 2011
+}

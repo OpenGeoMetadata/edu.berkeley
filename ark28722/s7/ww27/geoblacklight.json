@@ -1,24 +1,29 @@
 {
-    "dc_creator_sm":"Golden Gate Transit",
-    "dc_description_s":"Park and Ride data shows Golden Gate Transit Park   Ride lots.  Data was digitized from the Winter 2003-2004 \"Golden Gate Bus   Ferry Transit Guide.\"",
-    "dc_format_s":"Shapefile",
-    "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7ww27",
-    "dc_publisher_s":"San Rafael (Calif.). County Of Marin.",
-    "dc_rights_s":"Public",
-    "dc_subject_sm":[
+    "dc_creator_sm": [
+        "Golden Gate Transit"
+    ], 
+    "dc_description_s": "Park and Ride data shows Golden Gate Transit Park   Ride lots.  Data was digitized from the Winter 2003-2004 \"Golden Gate Bus   Ferry Transit Guide.\"", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7ww27", 
+    "dc_publisher_s": "San Rafael (Calif.). County Of Marin.", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
         "Transportation"
-    ],
-    "dc_title_s":"Park and Ride Lots",
-    "dct_provenance_s":"Berkeley",
-    "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7ww27/data.zip\"}",
-    "dct_spatial_sm":[
+    ], 
+    "dc_title_s": "Park and Ride Lots", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7ww27/data.zip\"}", 
+    "dct_spatial_sm": [
         "Marin County (Calif.)"
-    ],
-    "geoblacklight_version":"1.0",
-    "layer_geom_type_s":"Point",
-    "layer_id_s":"s7ww27",
-    "layer_modified_dt":"2012-11-28T23:35:06.471Z",
-    "layer_slug_s":"ark28722-s7ww27",
-    "solr_geom":"ENVELOPE(-122.56142, -122.493713, 38.119814, 37.851778)",
-    "solr_year_i":2007
+    ], 
+    "dct_temporal_sm": [
+        "2007"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Point", 
+    "layer_id_s": "s7ww27", 
+    "layer_modified_dt": "2012-11-28T23:35:06.471Z", 
+    "layer_slug_s": "ark28722-s7ww27", 
+    "solr_geom": "ENVELOPE(-122.56142, -122.493713, 38.119814, 37.851778)", 
+    "solr_year_i": 2007
 }

@@ -1,0 +1,28 @@
+{
+    "dc_creator_sm": [
+        "Amador County (Calif.)"
+    ], 
+    "dc_description_s": "This dataset represents the city limits for the five incorporated cities (Amador City, Jackson, Plymouth, Sutter Creek, and Ione) in Amador county, California. These boundaries were originally derived by Stantec Consulting in Sacramento, CA, by compiling information acquired from each incorporated city's planning department circa August 2005. Boundaries were updated in February 2008 via realignment with a higher-accuracy parcel data set developed for the County by Vestra Resources in late 2007.", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7nd6r", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Boundaries", 
+        "Administrative and Political Divisions."
+    ], 
+    "dc_title_s": "City Limits, Amador County, California, 2008", 
+    "dc_type_s": "Dataset", 
+    "dct_issued_dt": "2008-02-01T23:34:35.206Z", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7nd6r/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7nd6r/data.zip\"}", 
+    "dct_spatial_sm": [
+        "Amador County (Calif.)"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Polygon", 
+    "layer_id_s": "s7nd6r", 
+    "layer_modified_dt": "2018-02-16T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s7nd6r", 
+    "solr_geom": "ENVELOPE(-120.965198, -120.747513, 38.487414, 38.329796)", 
+    "solr_year_i": 2008
+}

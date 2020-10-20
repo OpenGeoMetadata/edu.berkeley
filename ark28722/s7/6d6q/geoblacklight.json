@@ -1,0 +1,28 @@
+{
+    "dc_creator_sm": [
+        "Sacramento County GIS"
+    ], 
+    "dc_description_s": "This shapefile shows parks in Sacramento County. ", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s76d6q", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Planningcadastre", 
+        "Society", 
+        "Parks."
+    ], 
+    "dc_title_s": "Parks, Sacramento County, California, 2012", 
+    "dc_type_s": "Dataset", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s76d6q/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s76d6q/data.zip\"}", 
+    "dct_spatial_sm": [
+        "Sacramento County (Calif.)"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Polygon", 
+    "layer_id_s": "s76d6q", 
+    "layer_modified_dt": "2018-04-02T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s76d6q", 
+    "solr_geom": "ENVELOPE(-121.789984, -121.041605, 38.731057, 38.048085)", 
+    "solr_year_i": 2012
+}

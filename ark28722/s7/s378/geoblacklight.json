@@ -1,0 +1,29 @@
+{
+    "dc_creator_sm": [
+        "Alameda County Registrar of Voters "
+    ], 
+    "dc_description_s": "The dataset is a draft of the city council districts within the boundaries of Alameda County. Dataset was created on December 7, 2011 by the Registrar of Voters Agency in Alameda, County, Caliifornia. ", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7s378", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Boundaries", 
+        "Society", 
+        "City Councils", 
+        "Legislative Bodies"
+    ], 
+    "dc_title_s": "City Council Districts, Alameda County, California, 2011", 
+    "dc_type_s": "Dataset", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7s378/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7s378/data.zip\"}", 
+    "dct_spatial_sm": [
+        "Alameda County (Calif.)"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Polygon", 
+    "layer_id_s": "s7s378", 
+    "layer_modified_dt": "2018-02-16T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s7s378", 
+    "solr_geom": "ENVELOPE(-122.349013, -122.11319, 37.908862, 37.664823)", 
+    "solr_year_i": 2011
+}

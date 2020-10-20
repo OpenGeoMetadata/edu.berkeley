@@ -1,0 +1,31 @@
+{
+    "dc_creator_sm": [
+        "Humboldt County Community Development Services"
+    ], 
+    "dc_description_s": "This GIS dataset is the result of ongoing efforts to produce an accurate Roadway Centerline GIS layer for Humboldt County. Multiple source datasets were merged and edited to create this master roads layer. This centerline data consists of all public and some private roads in Humboldt County. Location geometry is based on 2005 Airphotos - USDA NAIP County Mosaic. Address ranges, City and Zip attributes have been checked and corrected using various sources including parcel site addresses. Roadway Functional Class is based on Humboldt County Travel Demand Forecasting Model.", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7rh5b", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Transportation", 
+        "Roads", 
+        "Highways", 
+        "Roadways", 
+        "Thoroughfares"
+    ], 
+    "dc_title_s": "Highways and Roads, Humboldt County, California, 2013", 
+    "dc_type_s": "Dataset", 
+    "dct_issued_dt": "2013-04-17T23:34:35.206Z", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7rh5b/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7rh5b/data.zip\"}", 
+    "dct_spatial_sm": [
+        "Humboldt County (Calif.)"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Line", 
+    "layer_id_s": "s7rh5b", 
+    "layer_modified_dt": "2018-04-02T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s7rh5b", 
+    "solr_geom": "ENVELOPE(-124.442766, -123.41367, 41.48041, 39.97409)", 
+    "solr_year_i": 2013
+}

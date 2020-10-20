@@ -1,0 +1,29 @@
+{
+    "dc_creator_sm": [
+        "Santa Clara Valley Water District (Calif.)"
+    ], 
+    "dc_description_s": "This polyline dataset identifies all existing creeks and canals within Santa Clara County, California for 2004. Layer created by Santa Clara Valley Water District based on the 2001 countywide orthophotos.", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7zh4t", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Inlandwaters", 
+        "Rivers", 
+        "Canals"
+    ], 
+    "dc_title_s": "Creeks, Santa Clara County, California, 2004", 
+    "dc_type_s": "Dataset", 
+    "dct_issued_dt": "2004-12-01T23:34:35.206Z", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7zh4t/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7zh4t/data.zip\"}", 
+    "dct_spatial_sm": [
+        "Santa Clara County (Calif.)"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Line", 
+    "layer_id_s": "s7zh4t", 
+    "layer_modified_dt": "2018-02-16T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s7zh4t", 
+    "solr_geom": "ENVELOPE(-122.241836, -121.214859, 37.487514, 36.843286)", 
+    "solr_year_i": 2004
+}

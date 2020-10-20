@@ -1,0 +1,29 @@
+{
+    "dc_creator_sm": [
+        "Yolo County, Public Works Division, Planning Services "
+    ], 
+    "dc_description_s": "This dataset represents the street centerline data within Yolo County, including actual and exhaustive street ranges, zip codes and cities for both sides of each street segment. Constructed in conjunction with the parcel basemap. Centerlines are typically at the comuputer center of the parcel right-of-way lines. Latest data export occurred on September 10th, 2014. Data was mapped and provided by the Yolo County, Public Works Division. ", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7ch5x", 
+    "dc_publisher_s": "Yolo County (Calif.). Public Works Division ", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Transportation", 
+        "Street Addresses"
+    ], 
+    "dc_title_s": "Road Centerlines, Yolo County, California, 2014", 
+    "dc_type_s": "Dataset", 
+    "dct_issued_dt": "2014-09-10T23:34:35.206Z", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7ch5x/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7ch5x/data.zip\"}", 
+    "dct_spatial_sm": [
+        "Yolo County (Calif.)"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Line", 
+    "layer_id_s": "s7ch5x", 
+    "layer_modified_dt": "2018-04-10T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s7ch5x", 
+    "solr_geom": "ENVELOPE(-122.391512, -121.497497, 38.925961, 38.312915)", 
+    "solr_year_i": 2014
+}

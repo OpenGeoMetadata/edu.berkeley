@@ -1,0 +1,29 @@
+{
+    "dc_creator_sm": [
+        "Geographic Information Systems, Sonoma County (Calif.)., California"
+    ], 
+    "dc_description_s": "The General Plan Land Use by Area dataset represents the broader countywide distribution, location and extent of land development by land use categories (designation) and density as specified in the Sonoma County General Plan 2020 as adopted on September 23, 2008 by Resolution No. 08-0808. The intent of the plan is that policies, guidelines, and standards be clear and direct so that property owners and citizens may easily understand its provisions and how they apply to parcels of land as well as their cumulative impact on future environmental conditions and quality of life. The broad purpose of the Sonoma County General Plan is to express policies which will guide decisions on future growth, development, and conservation of resources through 2020 in a manner consistent with the goals and quality of life desired by the county's residents. Under State law many actions on private land development, such as specific plans, area plans, zoning, subdivisions, public agency projects and other decisions must be consistent with the general plan. The goals, objectives, and policies set forth in the plan will be applied in a manner to insure their constitutionality. Per Title 7, Division 1 of the Government Code of the State of California. Article 5, Section 65300 et seq, the County of Sonoma is required to adopt a comprehensive general plan to guide its future physical development. Therefore, as required by law, the 2020 Sonoma County General Plan was officially adopted on September 23, 2008. Related Resources: Sonoma County General Plan 2020 Index [includes amendments since adoption] http://www.sonoma-county.org/prmd/gp2020/index.htm Sonoma County Zoning Regulations http://www.sonoma-county.org/prmd/docs/zoning/index.htm Chapter 26 specifies the applicability of base zoning districts to general plan land use categories (designations). Therefore, base zoning districts and the general plan land uses are interdependent. While the general plan land use specifies broader land use development policies, guidelines, and standards, each base zoning district is specific in stating purpose, permitted uses, uses permitted with a use permit and permitted residential density and development criteria.", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7k094", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Boundaries", 
+        "Land Utilization", 
+        "Land Use"
+    ], 
+    "dc_title_s": "Land Use Area, Sonoma County, California, 2012", 
+    "dc_type_s": "Dataset", 
+    "dct_issued_dt": "2012-10-01T23:34:35.206Z", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7k094/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7k094/data.zip\"}", 
+    "dct_spatial_sm": [
+        "Sonoma County (Calif.)"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Polygon", 
+    "layer_id_s": "s7k094", 
+    "layer_modified_dt": "2018-04-02T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s7k094", 
+    "solr_geom": "ENVELOPE(-123.534619, -122.349809, 38.85691, 38.103489)", 
+    "solr_year_i": 2012
+}

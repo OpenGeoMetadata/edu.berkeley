@@ -1,24 +1,29 @@
 {
-    "dc_creator_sm":"California Department of Forestry and Fire Protection",
-    "dc_description_s":"California regions developed by the Inter-agency Natural Areas Coordinating Committee (INACC) were digitized from a 1:1,200,000 California Department of Fish and Game paper map. The 2004 update utilizes the 1:24,000-scale county boundaries, coastline and state boundary from the  CMCC Framework data layer CNTY24K97_1. The North and South Sierra bioregions have also been collapsed to form one region,Sierra.",
-    "dc_format_s":"Shapefile",
-    "dc_identifier_s":"http://spatial.lib.berkeley.edu/viewpublic/ark28722-s7301r",
-    "dc_publisher_s":"California. California Department Of Forestry and Fire Protection.",
-    "dc_rights_s":"Public",
-    "dc_subject_sm":[
+    "dc_creator_sm": [
+        "California Department of Forestry and Fire Protection"
+    ], 
+    "dc_description_s": "California regions developed by the Inter-agency Natural Areas Coordinating Committee (INACC) were digitized from a 1:1,200,000 California Department of Fish and Game paper map. The 2004 update utilizes the 1:24,000-scale county boundaries, coastline and state boundary from the  CMCC Framework data layer CNTY24K97_1. The North and South Sierra bioregions have also been collapsed to form one region,Sierra.", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7301r", 
+    "dc_publisher_s": "California. California Department Of Forestry and Fire Protection.", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
         "Biota"
-    ],
-    "dc_title_s":"Bioregions (INACC Regions)",
-    "dct_provenance_s":"Berkeley",
-    "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7301r/data.zip\"}",
-    "dct_spatial_sm":[
+    ], 
+    "dc_title_s": "Bioregions (INACC Regions)", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7301r/data.zip\"}", 
+    "dct_spatial_sm": [
         "California"
-    ],
-    "geoblacklight_version":"1.0",
-    "layer_geom_type_s":"Polygon",
-    "layer_id_s":"s7301r",
-    "layer_modified_dt":"2012-11-28T23:34:56.137Z",
-    "layer_slug_s":"ark28722-s7301r",
-    "solr_geom":"ENVELOPE(-124.511649, -113.497863, 42.068568, 32.423674)",
-    "solr_year_i":2004
+    ], 
+    "dct_temporal_sm": [
+        "2004"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Polygon", 
+    "layer_id_s": "s7301r", 
+    "layer_modified_dt": "2012-11-28T23:34:56.137Z", 
+    "layer_slug_s": "ark28722-s7301r", 
+    "solr_geom": "ENVELOPE(-124.511649, -113.497863, 42.068568, 32.423674)", 
+    "solr_year_i": 2004
 }

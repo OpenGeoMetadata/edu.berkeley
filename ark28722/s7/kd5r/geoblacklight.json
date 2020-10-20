@@ -1,0 +1,28 @@
+{
+    "dc_creator_sm": [
+        "Geographical Information Systems "
+    ], 
+    "dc_description_s": "The urban growth dataset represents the nine cities, urban (incorporated) municipality urban growth (a.k.a. UGB) boundaries within the County of Sonoma. See Data Quality - Attribute Accuracy tab for boundary modification history. As defined by LAFCO (May 2003): An Urban Growth Boundary is a voter-enacted boundary for those City's which reside within the County of Sonoma. The boundary depicts the maximum growth over a specific period of time (typically 20 year time frame) as desired by the voters (residents) within the City's and acts as a control measure by the people. The jurisdiction of the boundary resides with the City's and thus, any modifications and/or amendments must be voted on by the registered voters within the City limits. Therefore, LAFCO has no jurisdiction as to the establishment of the urban growth boundaries beyond that of the City's Sphere of Influence (a.k.a. SOI).", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7kd5r", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Boundaries", 
+        "Growth, Urban"
+    ], 
+    "dc_title_s": "City Urban Growth, Sonoma County, California, 2012", 
+    "dc_type_s": "Dataset", 
+    "dct_issued_dt": "2012-12-01T23:34:35.206Z", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7kd5r/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7kd5r/data.zip\"}", 
+    "dct_spatial_sm": [
+        "Sonoma County (Calif.)"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Polygon", 
+    "layer_id_s": "s7kd5r", 
+    "layer_modified_dt": "2018-02-16T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s7kd5r", 
+    "solr_geom": "ENVELOPE(-123.031146, -122.441109, 38.835891, 38.202505)", 
+    "solr_year_i": 2012
+}

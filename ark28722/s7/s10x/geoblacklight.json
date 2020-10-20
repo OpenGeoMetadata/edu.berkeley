@@ -1,0 +1,36 @@
+{
+    "dc_creator_sm": [
+        "California Department of Forestry and Fire Protection (CDF) (using data from BOR and DOC FMMP)", 
+        "Department of Conservation (DOC) Farmland Mapping and Monitoring Program (FMMP)"
+    ], 
+    "dc_description_s": "In late 1996, the Dept of Conservation (DOC) surveyed state and federal agencies about the county boundary coverage they used. As a result, DOC adopted the 1:24, 000 scale Bureau of Reclamation dataset (USGS source) for their Farmland Mapping and Monitoring Program (FMMP) but with several major and minor modifications. Detailed documentation of these changes is provided by FMMP and included as part of the data dictionary.", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7s10x", 
+    "dc_publisher_s": "Shasta County (Calif.)", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Boundaries", 
+        "Administrative and Political Divisions"
+    ], 
+    "dc_title_s": "Counties, Northern California, 1997", 
+    "dc_type_s": "Dataset", 
+    "dct_issued_dt": "2014-10-13T23:34:35.206Z", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7s10x/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7s10x/data.zip\"}", 
+    "dct_spatial_sm": [
+        "Shasta County (Calif.)", 
+        "Siskiyou County (Calif.)", 
+        "Modoc County (Calif.)", 
+        "Lassen County (Calif.)", 
+        "Trinity County (Calif.)", 
+        "Tehama County (Calif.)", 
+        "Plumas County (Calif.)"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Polygon", 
+    "layer_id_s": "s7s10x", 
+    "layer_modified_dt": "2018-04-06T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s7s10x", 
+    "solr_geom": "ENVELOPE(-123.724115, -119.89697, 42.03413, 39.57466)", 
+    "solr_year_i": 1997
+}

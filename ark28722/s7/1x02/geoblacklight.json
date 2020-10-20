@@ -1,0 +1,30 @@
+{
+    "dc_creator_sm": [
+        "San Joaquin County, Community Development, Geographic Information Systems"
+    ], 
+    "dc_description_s": "This dataset represents a noise impact study within San Joaquin County, California. Latest data export occurred on July 14th, 2014. Data was mapped and provided by the San Joaquin County, Community Development Department. ", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s71x02", 
+    "dc_publisher_s": "San Joaquin County (Calif.). Community Development Department", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Transportation", 
+        "Transportation Noise", 
+        "Traffic Noise"
+    ], 
+    "dc_title_s": "Noise Impact Study_65dB, San Joaquin County, California, 2014", 
+    "dc_type_s": "Dataset", 
+    "dct_issued_dt": "2014-07-14T23:34:35.206Z", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s71x02/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s71x02/data.zip\"}", 
+    "dct_spatial_sm": [
+        "San Joaquin County (Calif.)"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Polygon", 
+    "layer_id_s": "s71x02", 
+    "layer_modified_dt": "2018-03-01T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s71x02", 
+    "solr_geom": "ENVELOPE(-121.58266, -120.921466, 38.275208, 37.587858)", 
+    "solr_year_i": 2014
+}

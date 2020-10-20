@@ -1,0 +1,30 @@
+{
+    "dc_creator_sm": [
+        "Geographic Infromation Systems, Sonoma County ( Calif.)., California "
+    ], 
+    "dc_description_s": "The planning area dataset represents the nine geographical sub regions of Sonoma County's General Plan. The General Plan consists of Land Use Elements which provides the distribution, location and extent of uses of land for housing, business, industry, open space, agriculture, natural resources, recreation and enjoyment of scenic beauty, education, public buildings and grounds, solid and liquid waste disposal facilities, and other uses. Each Land Use Element has four major sections one of which includes policies applicable for each of the 9 geographical planning areas/sub regions. Therefore, the 9 planning areas/sub regions provide the basis for geographically discreet-specific application of land use policies. Note: Specific land use policies and land use maps are representative for each of the 9 planning areas/subregions. The maps show applicable land use categories and maximum permitted density for each parcel. Further, the maps illustrate the residential density as dwellings per acre in urban residential areas and acres per dwelling in rural areas. The 9 planning areas are as follows: Area 1 - Sonoma Coast/Gualala Basin Area 2 - Cloverdale/N.E. County Area 3 - Healdsburg and Environs Area 4 - Russian River Area Area 5 - Santa Rosa and Environs Area 6 - Sebastopol and Environs Area 7 - Rohnert Park-Cotati and Environs Area 8 - Petaluma and Environs Area 9 - Sonoma Valley", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7x105", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Boundaries", 
+        "Planningcadastre", 
+        "Regional Planning,", 
+        "Land Use, Urban--planning"
+    ], 
+    "dc_title_s": "Planning Areas, Sonoma County, California, 2012", 
+    "dc_type_s": "Dataset", 
+    "dct_issued_dt": "2012-12-01T23:34:35.206Z", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7x105/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7x105/data.zip\"}", 
+    "dct_spatial_sm": [
+        "Sonoma County (Calif.)"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Polygon", 
+    "layer_id_s": "s7x105", 
+    "layer_modified_dt": "2018-04-02T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s7x105", 
+    "solr_geom": "ENVELOPE(-123.534619, -122.349809, 38.85691, 38.103489)", 
+    "solr_year_i": 2012
+}

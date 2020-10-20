@@ -1,0 +1,31 @@
+{
+    "dc_creator_sm": [
+        "Butte County (Calif.) -- Geographic Information Systems"
+    ], 
+    "dc_description_s": "This polygonal dataset shows all lakes, large rivers, and small water bodies within Butte County, California as shown on USGS 1:24000 maps and updates from aerial photography. NOTE: Other shapefiles are created from this base file. If you are reading metadata from the following shapefiles, only a portion of this metadata will pertain to those files since they are sub sets of this base file. 1) Lakes.shp only shows those water bodies with a proper name and are not designated as a river. 2) River_poly.shp only shows those polygons representing river features.", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7rx0k", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Inlandwaters", 
+        "Hydrology", 
+        "Rivers", 
+        "Lakes", 
+        "Bodies Of Water"
+    ], 
+    "dc_title_s": "Water Bodies, Butte County, California, 2009", 
+    "dc_type_s": "Dataset", 
+    "dct_issued_dt": "2009-04-15T23:34:35.206Z", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7rx0k/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7rx0k/data.zip\"}", 
+    "dct_spatial_sm": [
+        "Butte County (Calif.)"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Polygon", 
+    "layer_id_s": "s7rx0k", 
+    "layer_modified_dt": "2018-04-10T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s7rx0k", 
+    "solr_geom": "ENVELOPE(-122.052873, -121.089081, 40.083557, 39.420124)", 
+    "solr_year_i": 2009
+}
