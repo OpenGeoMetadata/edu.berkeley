@@ -1,0 +1,37 @@
+{
+    "dc_creator_sm": [
+        "Powell, Susan", 
+        "Navarro, Fernando"
+    ], 
+    "dc_description_s": "This line dataset represents roads in Mongolia in 1978. Each road segment includes an attribute describing whether it is an \"all-weather hard or loose surface road\" or a \"fair-weather road, track, or trail.\" The dataset was developed as part of the Mongolian 20th-century Historical GIS Database project. It is designed to integrate and align well with other datasets created as part of the project. It can be used for creating small to medium size maps of historical Mongolia and for analysis, as appropriate to the resolution. This data is only as accurate as the source maps upon which it is based. As such, the UC Berkeley Library does not guarantee the accuracy of the data. Researchers should use their own judgement about appropriate uses for this data. Users should please acknowledge and cite the \"Mongolian 20th-century Historical GIS Database project\" in any derivative works. The source map for this dataset is: U.S. Central Intelligence Agency. 'Mongolia [map]'. Scale 1:2,500,000. Washington, D.C.: Central Intelligence Agency, 1978.\"", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "http://spatial.lib.berkeley.edu/viewpublic/berkeley-s73d75", 
+    "dc_publisher_s": "UC Berkeley Library", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Transportation", 
+        "Roadways", 
+        "Highways", 
+        "Trails", 
+        "Tracks", 
+        "Infrastructure"
+    ], 
+    "dc_title_s": "Roads, Mongolia, 1978", 
+    "dc_type_s": "Dataset", 
+    "dct_isPartOf_sm": [
+        "Mongolian 20th-century Historical GIS Database"
+    ], 
+    "dct_issued_dt": "2022-12-21T23:34:35.206Z", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/public/berkeley-s73d75/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s73d75/data.zip\"}", 
+    "dct_spatial_sm": [
+        "Mongolia"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Line", 
+    "layer_id_s": "s73d75", 
+    "layer_modified_dt": "2022-12-23T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s73d75", 
+    "solr_geom": "ENVELOPE(89.028789, 120.943383, 51.7494, 41.213381)", 
+    "solr_year_i": 1978
+}

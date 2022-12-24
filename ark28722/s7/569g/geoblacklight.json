@@ -1,0 +1,35 @@
+{
+    "dc_creator_sm": [
+        "Powell, Susan", 
+        "Navarro, Fernando"
+    ], 
+    "dc_description_s": "This line dataset represents roadways in Mongolia in 1959. Each road segment contains attribute information about the type of roadway, as identified on the source map in Mongolian, and translated into English: improved, paved, station, and other roads. The dataset was developed as part of the Mongolian 20th-century Historical GIS Database project. It is designed to integrate and align well with other datasets created as part of the project. It can be used for creating small to medium size maps of historical Mongolia and for analysis, as appropriate to the resolution. This data is only as accurate as the source maps upon which it is based. As such, the UC Berkeley Library does not guarantee the accuracy of the data. Researchers should use their own judgement about appropriate uses for this data. Users should please acknowledge and cite the \"Mongolian 20th-century Historical GIS Database project\" in any derivative works. The source map for this dataset is: \u0411\u0430\u0434\u0430\u043c\u0436\u0430\u0432, \u0414., \u0411\u04af\u0433\u0434 \u041d\u0430\u0439\u0440\u0430\u043c\u0434\u0430\u0445 \u041c\u043e\u043d\u0433\u043e\u043b \u0410\u0440\u0434 \u0423\u043b\u0441 [Mongolian People's Republic][map], scale 1:1,500,000 ([Ulaanbaatar: \u0411\u041d\u041c\u0410\u0423-\u044b\u043d \u0428\u0438\u043d\u0436\u043b\u044d\u0445 \u0423\u0445\u0430\u0430\u043d\u044b \u0425\u04af\u0440\u044d\u044d\u043b\u044d\u043d [Institute of Science of the People's Republic of Mongolia], 1959). The map is in the collection of the Mongolian National Library.", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "http://spatial.lib.berkeley.edu/viewpublic/berkeley-s7569g", 
+    "dc_publisher_s": "UC Berkeley Library", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Transportation", 
+        "Roads", 
+        "Highways", 
+        "Infrastructure"
+    ], 
+    "dc_title_s": "Roads, Mongolia, 1959", 
+    "dc_type_s": "Dataset", 
+    "dct_isPartOf_sm": [
+        "Mongolian 20th-century Historical GIS Database"
+    ], 
+    "dct_issued_dt": "2022-12-23T23:34:35.206Z", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7569g/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7569g/data.zip\"}", 
+    "dct_spatial_sm": [
+        "Mongolia"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Line", 
+    "layer_id_s": "s7569g", 
+    "layer_modified_dt": "2022-12-23T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s7569g", 
+    "solr_geom": "ENVELOPE(88.894227, 118.813474, 51.758798, 40.549328)", 
+    "solr_year_i": 1959
+}

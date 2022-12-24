@@ -1,0 +1,35 @@
+{
+    "dc_creator_sm": [
+        "Powell, Susan", 
+        "Navarro, Fernando"
+    ], 
+    "dc_description_s": "This line dataset represents the location of telegraph lines in Mongolia in 1942, within the area referred to in the source map as Outer Mongolia. All of the telegraph lines run along roads. The dataset was developed as part of the Mongolian 20th-century Historical GIS Database project. It is designed to integrate and align well with other datasets created as part of the project. It can be used for creating small to medium size maps of historical Mongolia and for analysis, as appropriate to the resolution. This data is only as accurate as the source maps upon which it is based. As such, the UC Berkeley Library does not guarantee the accuracy of the data. Researchers should use their own judgement about appropriate uses for this data. Users should please acknowledge and cite the \"Mongolian 20th-century Historical GIS Database project\" in any derivative works. The source map for this dataset is: American Museum of Natural History, 'Mongolia and Adjacent Regions [map, on 2 sheets]', scale 1:2,000,000, provisional edition (Washington, DC: U.S. Army Map Service, 1942).\"", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "http://spatial.lib.berkeley.edu/viewpublic/berkeley-s7r39q", 
+    "dc_publisher_s": "UC Berkeley Library", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Utilitiescommunication", 
+        "Telegraphs", 
+        "Telecommunications", 
+        "Infrastructure"
+    ], 
+    "dc_title_s": "Telegraph Lines, Mongolia, 1942", 
+    "dc_type_s": "Dataset", 
+    "dct_isPartOf_sm": [
+        "Mongolian 20th-century Historical GIS Database"
+    ], 
+    "dct_issued_dt": "2022-12-21T23:34:35.206Z", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7r39q/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7r39q/data.zip\"}", 
+    "dct_spatial_sm": [
+        "Mongolia"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Line", 
+    "layer_id_s": "s7r39q", 
+    "layer_modified_dt": "2022-12-23T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s7r39q", 
+    "solr_geom": "ENVELOPE(99.564064, 114.024657, 51.68606, 43.798099)", 
+    "solr_year_i": 1942
+}

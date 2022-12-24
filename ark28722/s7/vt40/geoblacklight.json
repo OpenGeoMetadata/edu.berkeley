@@ -1,0 +1,34 @@
+{
+    "dc_creator_sm": [
+        "Powell, Susan", 
+        "Navarro, Fernando"
+    ], 
+    "dc_description_s": "This line dataset represents roads and trails in Mongolia in 1942, within the area referred to in the source map as Outer Mongolia. The dataset contains attribute information about the type of roadway, as identified on the source map: main roads, trails, and roads with telegraph lines running along them. The dataset was developed as part of the Mongolian 20th-century Historical GIS Database project. It is designed to integrate and align well with other datasets created as part of the project. It can be used for creating small to medium size maps of historical Mongolia and for analysis, as appropriate to the resolution. This data is only as accurate as the source maps upon which it is based. As such, the UC Berkeley Library does not guarantee the accuracy of the data. Researchers should use their own judgement about appropriate uses for this data. Users should please acknowledge and cite the \"Mongolian 20th-century Historical GIS Database project\" in any derivative works. The source map for this dataset is: American Museum of Natural History, 'Mongolia and Adjacent Regions [map, on 2 sheets]', scale 1:2,000,000, provisional edition (Washington, DC: U.S. Army Map Service, 1942).\"", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "http://spatial.lib.berkeley.edu/viewpublic/berkeley-s7vt40", 
+    "dc_publisher_s": "UC Berkeley Library", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Transportation", 
+        "Roads", 
+        "Trails"
+    ], 
+    "dc_title_s": "Roads and Trails, Mongolia, 1942", 
+    "dc_type_s": "Dataset", 
+    "dct_isPartOf_sm": [
+        "Mongolian 20th-century Historical GIS Database"
+    ], 
+    "dct_issued_dt": "2022-12-21T23:34:35.206Z", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7vt40/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7vt40/data.zip\"}", 
+    "dct_spatial_sm": [
+        "Mongolia"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Line", 
+    "layer_id_s": "s7vt40", 
+    "layer_modified_dt": "2022-12-23T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s7vt40", 
+    "solr_geom": "ENVELOPE(84.894551, 120.313594, 51.781361, 40.142738)", 
+    "solr_year_i": 1942
+}

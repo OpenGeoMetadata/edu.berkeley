@@ -1,0 +1,43 @@
+{
+    "dc_creator_sm": [
+        "Powell, Susan", 
+        "Navarro, Fernando"
+    ], 
+    "dc_description_s": "This point dataset represents the locations of specific nature protection measures in place in Mongolia in 1991. The source map legend describes the data using the German \"Naturschutzmassnahmen.\" The types of nature protection measures included are: Nature pollution monitoring laboratory (Kontrollstelle f\u00fcr die Frfassung der Umweltveltverschmutzung), Refining unit (Purification system) (Klaranlage), Fire control air unit (Brandschutz und Brandbek\u00e4mpfung aus der lift), Soil protecting forest strip (Erosions-Schutzhecke), Protective forest belt (Pelztierfarm), Afforestation area (Baumschule), Natural museum (Naturkundemuseum), and Experimental fruit and berry station (Obstplantage). The attribute information for each point includes the type of nature protection measure in both English and German, as listed on the source map. The dataset was developed as part of the Mongolian 20th-century Historical GIS Database project. It is designed to integrate and align well with other datasets created as part of the project. It can be used for creating small to medium size maps of historical Mongolia and for analysis, as appropriate to the resolution. This data is only as accurate as the source maps upon which it is based. As such, the UC Berkeley Library does not guarantee the accuracy of the data. Researchers should use their own judgement about appropriate uses for this data. Users should please acknowledge and cite the \"Mongolian 20th-century Historical GIS Database project\" in any derivative works. The source map for this dataset is: \u0423\u043b\u0441\u044b\u043d \u0433\u0435\u043e\u0434\u0435\u0437\u0438, \u0437\u0443\u0440\u0430\u0433 \u0437\u04af\u0439\u043d \u0433\u0430\u0437\u0430\u0440 [State Board for Geodesy and Cartography, Mongolia], 'Map on Mongolian Nature Protection (Naturschutzkarte der MVR) [map]', scale 1:2,500,000 (Ulaanbaatar: State Board for Geodesy and Cartography, 1991).\"", 
+    "dc_format_s": "Shapefile", 
+    "dc_identifier_s": "http://spatial.lib.berkeley.edu/viewpublic/berkeley-s79x29", 
+    "dc_publisher_s": "UC Berkeley Library", 
+    "dc_rights_s": "Public", 
+    "dc_subject_sm": [
+        "Farming", 
+        "Biota", 
+        "Environment", 
+        "Society", 
+        "Nature Protection Measures", 
+        "Conservation", 
+        "Nature", 
+        "Pollution Monitoring", 
+        "Fire Control", 
+        "Forestry", 
+        "Museums", 
+        "Agriculture"
+    ], 
+    "dc_title_s": "Nature Protection Measures, Mongolia, 1991", 
+    "dc_type_s": "Dataset", 
+    "dct_isPartOf_sm": [
+        "Mongolian 20th-century Historical GIS Database"
+    ], 
+    "dct_issued_dt": "2022-12-22T23:34:35.206Z", 
+    "dct_provenance_s": "Berkeley", 
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/public/berkeley-s79x29/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s79x29/data.zip\"}", 
+    "dct_spatial_sm": [
+        "Mongolia"
+    ], 
+    "geoblacklight_version": "1.0", 
+    "layer_geom_type_s": "Point", 
+    "layer_id_s": "s79x29", 
+    "layer_modified_dt": "2022-12-23T23:34:35.206Z", 
+    "layer_slug_s": "berkeley-s79x29", 
+    "solr_geom": "ENVELOPE(91.204816, 119.18779, 50.639434, 42.1596)", 
+    "solr_year_i": 1991
+}
