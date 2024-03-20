@@ -1,0 +1,45 @@
+{
+  "dct_creator_sm": [
+    "MarinMap"
+  ],
+  "dct_description_sm": [
+    "Area contracted to the City of Novato, California for fire services in Marin County, California"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7w30j"
+  ],
+  "dct_publisher_sm": [
+    "San Rafael (Calif.). County Of Marin."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Boundaries",
+    "Administrative and Political Divisions"
+  ],
+  "dct_title_s": "Fire Service Contract Marin County 2007",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7w30j/data.zip\"}",
+  "dct_spatial_sm": [
+    "Marin County (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7w30j",
+  "gbl_mdModified_dt": "2012-11-28T23:34:50.826Z",
+  "id": "ark28722-s7w30j",
+  "locn_geometry": "ENVELOPE(-122.532888, -122.482864, 38.071962, 38.0436)",
+  "dcat_bbox": "ENVELOPE(-122.532888, -122.482864, 38.071962, 38.0436)",
+  "gbl_indexYear_im": [
+    2011
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

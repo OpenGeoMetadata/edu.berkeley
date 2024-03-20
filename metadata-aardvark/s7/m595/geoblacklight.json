@@ -1,0 +1,55 @@
+{
+  "dct_creator_sm": [
+    "MTC"
+  ],
+  "dct_description_sm": [
+    "State of California Public Use Microdata Areas (PUMA) without county codes"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7m595"
+  ],
+  "dct_publisher_sm": [
+    "California. Metropolitan Transportation Commission."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "dct_title_s": "California PUMA Boundaries without County Codes 2003",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7m595/data.zip\"}",
+  "dct_spatial_sm": [
+    "San Francisco Bay (Calif.)",
+    "San Francisco Bay Area (Calif.)",
+    "Alameda County (Calif.)",
+    "Contra Costa County (Calif.)",
+    "Marin County (Calif.)",
+    "Napa County (Calif.)",
+    "San Francisco County (Calif.)",
+    "San Francisco (Calif.)",
+    "San Mateo County (Calif.)",
+    "Santa Clara County (Calif.)",
+    "Solano County (Calif.)",
+    "Sonoma County (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "2003"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7m595",
+  "gbl_mdModified_dt": "2012-11-28T23:34:29.698Z",
+  "id": "ark28722-s7m595",
+  "locn_geometry": "ENVELOPE(-124.45085, -113.192323, 42.034188, 32.371366)",
+  "dcat_bbox": "ENVELOPE(-124.45085, -113.192323, 42.034188, 32.371366)",
+  "gbl_indexYear_im": [
+    2003
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

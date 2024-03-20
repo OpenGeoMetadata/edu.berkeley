@@ -1,0 +1,43 @@
+{
+  "dct_creator_sm": [
+    "Butte County (Calif.) -- Geographic Information Systems"
+  ],
+  "dct_description_sm": [
+    "This polygonal dataset Identifies tax parcel boundaries in Butte County, California. The layer is designed as a Tax Parcel product. This information is intended for cartographic use, general spatial analysis and as a spatial index to Land related information. It is not intended for site specific analysis. The taxparcl feature class is a polygon feature class representing the individual parcels for Butte County which was derived from assessor map pages in digital and hardcopy formats. All new parcels are entered from assessor CAD pages registered to orthorectified imagery."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7567q"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Boundaries",
+    "Planningcadastre",
+    "Real Property--maps",
+    "Real Property--boundaries",
+    "Assessor Parcel Maps"
+  ],
+  "dct_title_s": "Parcels, Butte County, California, 2016",
+  "dct_issued_s": "2016-01-21",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7567q/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7567q/data.zip\"}",
+  "dct_spatial_sm": [
+    "Butte County (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7567q",
+  "gbl_mdModified_dt": "2018-04-10T23:34:35.206Z",
+  "id": "berkeley-s7567q",
+  "locn_geometry": "ENVELOPE(-122.069504, -121.069681, 40.153292, 39.291199)",
+  "dcat_bbox": "ENVELOPE(-122.069504, -121.069681, 40.153292, 39.291199)",
+  "gbl_indexYear_im": [
+    2016
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

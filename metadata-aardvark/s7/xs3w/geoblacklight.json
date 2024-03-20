@@ -1,0 +1,45 @@
+{
+  "dct_creator_sm": [
+    "Community Development Agency, County of Marin, California"
+  ],
+  "dct_description_sm": [
+    "A sphere of influence is a plan adopted by LAFCO for the probable physical boundaries and service areas of a city or special district.  City Sphere of Influence is a topologically correct polygon representation of sphere of influence boundaries of the incorporated area of Marin County."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7xs3w"
+  ],
+  "dct_publisher_sm": [
+    "San Rafael (Calif.). County Of Marin Community Development Agency."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Boundaries",
+    "Administrative and Political Divisions"
+  ],
+  "dct_title_s": "City Sphere of Influence",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7xs3w/data.zip\"}",
+  "dct_spatial_sm": [
+    "Marin County (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "2004"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7xs3w",
+  "gbl_mdModified_dt": "2012-11-28T23:35:27.254Z",
+  "id": "ark28722-s7xs3w",
+  "locn_geometry": "ENVELOPE(-122.63574, -122.383595, 38.151514, 37.838629)",
+  "dcat_bbox": "ENVELOPE(-122.63574, -122.383595, 38.151514, 37.838629)",
+  "gbl_indexYear_im": [
+    2004
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

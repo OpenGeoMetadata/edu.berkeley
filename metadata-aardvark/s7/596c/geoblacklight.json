@@ -1,0 +1,41 @@
+{
+  "dct_creator_sm": [
+    "Alameda County Registrar of Voters              "
+  ],
+  "dct_description_sm": [
+    "East Bay Municipal Utility District with ward boundaries, within the extent of Alameda County; boundaries have been updated to show 2011-2012 redistricting changes"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7596c"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Boundaries",
+    "Utilitiescommunication",
+    "Public Utility Districts"
+  ],
+  "dct_title_s": "Utility District Wards, Alameda County, California, 2011",
+  "dct_issued_s": "2014-01-01",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7596c/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7596c/data.zip\"}",
+  "dct_spatial_sm": [
+    "Alameda County (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7596c",
+  "gbl_mdModified_dt": "2015-02-09T23:34:35.206Z",
+  "id": "berkeley-s7596c",
+  "locn_geometry": "ENVELOPE(-122.349013, -122.009948, 37.910233, 37.65528)",
+  "dcat_bbox": "ENVELOPE(-122.349013, -122.009948, 37.910233, 37.65528)",
+  "gbl_indexYear_im": [
+    2011
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

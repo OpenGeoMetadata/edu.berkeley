@@ -1,0 +1,45 @@
+{
+  "dct_creator_sm": [
+    "CDF, USGS, Sonoma Ecology Center: Compiled by County of Sonoma ISD GIS Central"
+  ],
+  "dct_description_sm": [
+    "Compiled by Sonoma County GIS group.  Polyline layer only.  The base line work is compiled from the CDF FRAP (California Department of Forestry Fire and Resource Assessment Program) Russian River and Gualala River Watersheds (River Basins) data sets which include; 1:24000 Forest Service Cartographic Feature Files and 1:24000 USGS (United States Geological Survey) DLG-3 files, Sonoma Creek Watershed data provided by Sonoma Ecology Center, watersheds that include part of Sonoma County not included in the above data are derived from USGS DLG-3 files.   The original USGS DLG-3 files used in this data set were edited and new line work added.  The original USGS DLG-3 files used for this data set were edge matched and edited for connectivity.  The stream line work has also been centerlined through water bodies using artificial connectors.  The data was then compared to USGS 7.5 minute quads and edited to reflect the USGS classification of perennial and intermittent streams.  Only streams included on the USGS 7.5 minute quads where retained in this layer.  USGS stream symbol number 405 was used to determine intermittent streams.  7.5 minute quads with this symbol number on it show perennial streams as a solid blue line.  Some USGS 7.5 minute quads show blue line streams on them with a solid blue line, in these cases the blue line with a thickness of .008\" was classified as a perennial stream while the lines with a thickness of .004\" were classified as a intermittent stream.  Most fields from the data sets used to compile this layer where removed, and network not retained."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7ss3n"
+  ],
+  "dct_publisher_sm": [
+    "Santa Rosa (Calif.). County Of Sonoma Gis Central."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Hydrology",
+    "Streams"
+  ],
+  "dct_title_s": "SCGISDB2_BASE_HYD_USGSSTRM",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7ss3n/data.zip\"}",
+  "dct_spatial_sm": [
+    "Sonoma County (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "2003"
+  ],
+  "gbl_resourceType_sm": [
+    "Line data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7ss3n",
+  "gbl_mdModified_dt": "2012-11-28T23:34:56.113Z",
+  "id": "ark28722-s7ss3n",
+  "locn_geometry": "ENVELOPE(-123.535801, -122.349272, 38.871451, 38.100443)",
+  "dcat_bbox": "ENVELOPE(-123.535801, -122.349272, 38.871451, 38.100443)",
+  "gbl_indexYear_im": [
+    2003
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

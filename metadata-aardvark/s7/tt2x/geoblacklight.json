@@ -1,0 +1,40 @@
+{
+  "dct_creator_sm": [
+    "Department of Conservation & Development, Contra Costa County"
+  ],
+  "dct_description_sm": [
+    "This dataset represents the Creeks' Drainages within Contra Costa, California. Latest data revision occurred in August 2005; Data was mapped and provided by the DCD GIS/Graphics Group within the Department of Conservation &amp; Development. "
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7tt2x"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Inlandwaters",
+    "Hydrogeology",
+    "Drainages (Watersheds)"
+  ],
+  "dct_title_s": "Creeks Drainages, Contra Costa County, California, 2005",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7tt2x/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7tt2x/data.zip\"}",
+  "dct_spatial_sm": [
+    "Contra Costa County (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Line data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7tt2x",
+  "gbl_mdModified_dt": "2018-02-16T23:34:35.206Z",
+  "id": "berkeley-s7tt2x",
+  "locn_geometry": "ENVELOPE(-122.40149, -121.597676, 38.063808, 37.713174)",
+  "dcat_bbox": "ENVELOPE(-122.40149, -121.597676, 38.063808, 37.713174)",
+  "gbl_indexYear_im": [
+    2005
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

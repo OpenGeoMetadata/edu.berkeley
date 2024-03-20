@@ -1,0 +1,39 @@
+{
+  "dct_creator_sm": [
+    "Alameda County Registrar of Voters "
+  ],
+  "dct_description_sm": [
+    "Community College Districts, within the extent of Alameda County; boundaries have been updated to show 2011-2012 redistricting changes"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7xq1f"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Society",
+    "Community Colleges"
+  ],
+  "dct_title_s": "Community Colleges, Alameda County, California, 2011",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7xq1f/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7xq1f/data.zip\"}",
+  "dct_spatial_sm": [
+    "Alameda County (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7xq1f",
+  "gbl_mdModified_dt": "2018-02-16T23:34:35.206Z",
+  "id": "berkeley-s7xq1f",
+  "locn_geometry": "ENVELOPE(-122.349013, -121.468933, 37.915926, 37.448458)",
+  "dcat_bbox": "ENVELOPE(-122.349013, -121.468933, 37.915926, 37.448458)",
+  "gbl_indexYear_im": [
+    2011
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

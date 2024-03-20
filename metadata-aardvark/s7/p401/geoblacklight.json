@@ -1,0 +1,42 @@
+{
+  "dct_creator_sm": [
+    "Mono County (Calif.) -- Information Technology"
+  ],
+  "dct_description_sm": [
+    "This polygonal dataset shows the spheres of influence for all incorporated cities within Butte County, California. The layer should not be used as the official sphere of influence boundary.What's a Sphere of Influence? A Sphere of Influence designates an agency's probable future physical boundary and service area. It is territory that a city or special district will annex in the future. It's also the area where the local government will build facilities and deliver services sometime in the future. A sphere of influence is often bigger than a local government's current jurisdiction. http://www.calafco.org/docs/TimetoDrawLine_03.pdf)"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7p401"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Boundaries",
+    "Planningcadastre",
+    "Spheres Of Influence",
+    "Cities and Towns"
+  ],
+  "dct_title_s": "City Spheres of Influence, Butte County, California, 2014",
+  "dct_issued_s": "2014-10-16",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7p401/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7p401/data.zip\"}",
+  "dct_spatial_sm": [
+    "Butte County (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7p401",
+  "gbl_mdModified_dt": "2018-04-10T23:34:35.206Z",
+  "id": "berkeley-s7p401",
+  "locn_geometry": "ENVELOPE(-121.910859, -121.451932, 39.880902, 39.346007)",
+  "dcat_bbox": "ENVELOPE(-121.910859, -121.451932, 39.880902, 39.346007)",
+  "gbl_indexYear_im": [
+    2014
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

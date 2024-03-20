@@ -1,0 +1,46 @@
+{
+  "dct_creator_sm": [
+    "Towill Incorporated"
+  ],
+  "dct_description_sm": [
+    "Elevation contours corresponding to digital orthophotographs rectified to ground control at accuracies of 200 and 400 scale covering entire Marin County California.  AutoCAd drawing files of five foot contours corresponding to 240 200-scale panels and ten foot contours corresponding to 151 400-scale panels.  Drawings can be joined at seams.  Produced by Towill Incorporated, a photogrammetry company."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s77g6q"
+  ],
+  "dct_publisher_sm": [
+    "San Francisco (Calif.). Towill Incorporated."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Topography",
+    "Contours",
+    "Elevation"
+  ],
+  "dct_title_s": "Index Contours, 200 scale",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s77g6q/data.zip\"}",
+  "dct_spatial_sm": [
+    "Marin County (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "1999"
+  ],
+  "gbl_resourceType_sm": [
+    "Line data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s77g6q",
+  "gbl_mdModified_dt": "2012-11-28T23:34:29.657Z",
+  "id": "ark28722-s77g6q",
+  "locn_geometry": "ENVELOPE(-122.97482, -122.418016, 38.273795, 37.815991)",
+  "dcat_bbox": "ENVELOPE(-122.97482, -122.418016, 38.273795, 37.815991)",
+  "gbl_indexYear_im": [
+    1999
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

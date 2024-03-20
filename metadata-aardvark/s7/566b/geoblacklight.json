@@ -1,0 +1,40 @@
+{
+  "dct_creator_sm": [
+    "Department of Conservation & Development, Contra Costa County"
+  ],
+  "dct_description_sm": [
+    "This dataset represents the 50ft contour map within Contra Costa, California. Latest data revision occurred in May 2000 ; Data was mapped and provided by the DCD GIS/Graphics Group within the Department of Conservation and Development. "
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7566b"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Elevation",
+    "Elevations (Altitudes)",
+    "Contour Lines (Cartography)"
+  ],
+  "dct_title_s": "50ft Contours, Contra Costa County, California, 2000",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7566b/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7566b/data.zip\"}",
+  "dct_spatial_sm": [
+    "Contra Costa County (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Line data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7566b",
+  "gbl_mdModified_dt": "2018-06-15T23:34:35.206Z",
+  "id": "berkeley-s7566b",
+  "locn_geometry": "ENVELOPE(-122.431689, -121.531297, 38.101217, 37.710709)",
+  "dcat_bbox": "ENVELOPE(-122.431689, -121.531297, 38.101217, 37.710709)",
+  "gbl_indexYear_im": [
+    2000
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

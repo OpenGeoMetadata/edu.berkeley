@@ -1,0 +1,41 @@
+{
+  "dct_creator_sm": [
+    "City of San Francisco- Economic and Workforce Development "
+  ],
+  "dct_description_sm": [
+    "The California State Enterprise Zone (EZ) Hiring Tax Credit is a state income tax credit for employers who hire job seekers from targeted groups. Employers can claim up to $31,605 in tax credits over a five-year period when they hire qualified employees. Employees must perform at least 50% of their work within the boundaries of the Zone. Employers must have an EZ Voucher to claim the credit. Only businesses located in San Francisco's Enterprise Zone are eligible to participate. Last update: 26 May 2009. For more information speak to: Natosha Y. Safo Enterprise Zone Manager Office of Economic and Workforce Development City Hall 1 Dr. Carlton B. Goodlett Place, Room 448 San Francisco, CA 94102 Email: natosha.safo@sfgov.org Ph: 415-554-6425 Fax: 415-554-6018 Website: http://www.oewd.org/Enterprise-Zone.aspx"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7st0v"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Planningcadastre",
+    "Economy",
+    "Enterprise Zones"
+  ],
+  "dct_title_s": "Enterprise Zones, San Francisco, California, 2009",
+  "dct_issued_s": "2015-01-01",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7st0v/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7st0v/data.zip\"}",
+  "dct_spatial_sm": [
+    "San Francisco (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7st0v",
+  "gbl_mdModified_dt": "2018-04-02T23:34:35.206Z",
+  "id": "berkeley-s7st0v",
+  "locn_geometry": "ENVELOPE(-122.443872, -122.366819, 37.812388, 37.71411)",
+  "dcat_bbox": "ENVELOPE(-122.443872, -122.366819, 37.812388, 37.71411)",
+  "gbl_indexYear_im": [
+    2009
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

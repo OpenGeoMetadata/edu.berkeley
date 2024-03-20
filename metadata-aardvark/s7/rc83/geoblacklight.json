@@ -1,0 +1,47 @@
+{
+  "dct_creator_sm": [
+    "EDAW Inc"
+  ],
+  "dct_description_sm": [
+    "Locations of golf courses and tennis clubs in Napa Valley."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7rc83"
+  ],
+  "dct_publisher_sm": [
+    "Napa County (Calif.). County Of Napa."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Society",
+    "Golf",
+    "Tennis",
+    "Recreation"
+  ],
+  "dct_title_s": "recreation_sp",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7rc83/data.zip\"}",
+  "dct_spatial_sm": [
+    "Napa County (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "gbl_resourceType_sm": [
+    "Point data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7rc83",
+  "gbl_mdModified_dt": "2012-11-28T23:35:11.715Z",
+  "id": "ark28722-s7rc83",
+  "locn_geometry": "ENVELOPE(-122.585491, -122.235914, 38.656497, 38.21431)",
+  "dcat_bbox": "ENVELOPE(-122.585491, -122.235914, 38.656497, 38.21431)",
+  "gbl_indexYear_im": [
+    2010
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

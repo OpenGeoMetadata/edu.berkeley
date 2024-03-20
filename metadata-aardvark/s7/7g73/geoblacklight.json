@@ -1,0 +1,52 @@
+{
+  "dct_creator_sm": [
+    "Vestra Resources Inc."
+  ],
+  "dct_description_sm": [
+    "Digital index to filed maps used by the County of Napa. Maps such as Records of Survey and Sub-division maps are included.\nAll of the filed maps were scanned by the Napa County Recorder's Office. A center point for each map was determined by examining the scanned map and visually locating it using roads, parcels and other GIS layers as references. A radius was then assigned to each point that approximates the extent of the map. Finally, a circle was created based on the center point and radius."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s77g73"
+  ],
+  "dct_publisher_sm": [
+    "Napa County (Calif.). County Of Napa."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Planningcadastre",
+    "Planning",
+    "Records Of Survey",
+    "Map Index"
+  ],
+  "dct_title_s": "Index of Filed Maps",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s77g73/data.zip\"}",
+  "dct_spatial_sm": [
+    "Napa County (Calif.)",
+    "American Canyon (Calif.)",
+    "Napa (Calif.)",
+    "St Helena (Calif.)",
+    "Yountville (Calif.)",
+    "Calistoga (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s77g73",
+  "gbl_mdModified_dt": "2012-11-28T23:35:16.837Z",
+  "id": "ark28722-s77g73",
+  "locn_geometry": "ENVELOPE(-122.652803, -122.083975, 38.864241, 38.116742)",
+  "dcat_bbox": "ENVELOPE(-122.652803, -122.083975, 38.864241, 38.116742)",
+  "gbl_indexYear_im": [
+    2010
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "dct_creator_sm": [
+    "City of Oakland "
+  ],
+  "dct_description_sm": [
+    "The layer is primarily geographic data consisting of the boundaries of the Community Development Districts. Other than that, the only data fields are the text name and district number for each district. These are used as target areas for the expenditure of Federal Community Development Block Grant (CDBG) funds, and are based on HUD determinations of areas that qualify as low and moderate income neighborhoods."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s73m43"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Boundaries",
+    "Block Grants"
+  ],
+  "dct_title_s": "Community Development Block Grants, Oakland, California, 2008",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s73m43/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s73m43/data.zip\"}",
+  "dct_spatial_sm": [
+    "Oakland (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s73m43",
+  "gbl_mdModified_dt": "2018-02-16T23:34:35.206Z",
+  "id": "berkeley-s73m43",
+  "locn_geometry": "ENVELOPE(-122.342641, -122.148203, 37.854313, 37.722273)",
+  "dcat_bbox": "ENVELOPE(-122.342641, -122.148203, 37.854313, 37.722273)",
+  "gbl_indexYear_im": [
+    2008
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

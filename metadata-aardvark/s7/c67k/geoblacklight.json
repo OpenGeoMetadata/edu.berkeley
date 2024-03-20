@@ -1,0 +1,40 @@
+{
+  "dct_creator_sm": [
+    "Napa County Geographic Information Systems "
+  ],
+  "dct_description_sm": [
+    "This layer is compoised of polygons depicting the Supervisorial Disricts a provided by the Napa County elections department "
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7c67k"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Boundaries",
+    "Society",
+    "Administrative and Political Divisions"
+  ],
+  "dct_title_s": "Supervisorial Districts, Napa County, California, 2012",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7c67k/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7c67k/data.zip\"}",
+  "dct_spatial_sm": [
+    "Napa County (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7c67k",
+  "gbl_mdModified_dt": "2018-04-03T23:34:35.206Z",
+  "id": "berkeley-s7c67k",
+  "locn_geometry": "ENVELOPE(-122.648829, -122.06123, 38.86511, 38.153286)",
+  "dcat_bbox": "ENVELOPE(-122.648829, -122.06123, 38.86511, 38.153286)",
+  "gbl_indexYear_im": [
+    2012
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

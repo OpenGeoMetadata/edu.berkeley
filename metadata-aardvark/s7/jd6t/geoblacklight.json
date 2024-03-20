@@ -1,0 +1,43 @@
+{
+  "dct_creator_sm": [
+    "Butte County (Calif.) -- Local Agency Formation Commission (LAFCo)"
+  ],
+  "dct_description_sm": [
+    "The Butte County boundary polygona layer serves to graphically represent the jurisdictional boundary of Butte County, California. The boundary is an approximate location of the county line and was derived from the Butte County Associations of Governments parcel base. This file is intended for the uses of graphic representation and general data analysis. In no way should the data be used for high precision analysis or as the formal county boundary."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7jd6t"
+  ],
+  "dct_publisher_sm": [
+    "Butte County (Calif.) -- Geographic Information Systems"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Boundaries",
+    "Administrative and Political Divisions"
+  ],
+  "dct_title_s": "County Boundary, Butte County, California, 2013",
+  "dct_issued_s": "2013-06-04",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7jd6t/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7jd6t/data.zip\"}",
+  "dct_spatial_sm": [
+    "Butte County (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7jd6t",
+  "gbl_mdModified_dt": "2018-04-10T23:34:35.206Z",
+  "id": "berkeley-s7jd6t",
+  "locn_geometry": "ENVELOPE(-122.069504, -121.069681, 40.153292, 39.291199)",
+  "dcat_bbox": "ENVELOPE(-122.069504, -121.069681, 40.153292, 39.291199)",
+  "gbl_indexYear_im": [
+    2013
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

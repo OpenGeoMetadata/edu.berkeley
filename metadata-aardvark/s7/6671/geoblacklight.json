@@ -1,0 +1,41 @@
+{
+  "dct_creator_sm": [
+    "Humboldt County Community Development Services"
+  ],
+  "dct_description_sm": [
+    "This polygonal dataset shows community planning boundaries for Humboldt County, California as set out in the General Plan. "
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s76671"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Boundaries",
+    "Planningcadastre",
+    "Community Development, City Planning, Urban Policy"
+  ],
+  "dct_title_s": "Community Planning Areas, Humboldt County, California, 2004",
+  "dct_issued_s": "2004-01-01",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s76671/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s76671/data.zip\"}",
+  "dct_spatial_sm": [
+    "Humboldt County (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s76671",
+  "gbl_mdModified_dt": "2018-02-16T23:34:35.206Z",
+  "id": "berkeley-s76671",
+  "locn_geometry": "ENVELOPE(-124.229387, -123.478811, 41.353999, 40.021858)",
+  "dcat_bbox": "ENVELOPE(-124.229387, -123.478811, 41.353999, 40.021858)",
+  "gbl_indexYear_im": [
+    2004
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

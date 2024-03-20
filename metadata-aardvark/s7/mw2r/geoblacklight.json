@@ -1,0 +1,46 @@
+{
+  "dct_creator_sm": [
+    "City of Berkeley centerline version 10.80"
+  ],
+  "dct_description_sm": [
+    "Centerline 10.8 version for expanded area use, CAD applications, and framework for networking"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7mw2r"
+  ],
+  "dct_publisher_sm": [
+    "Berkeley (Calif.). City Of Berkeley."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Transportation",
+    "Roads"
+  ],
+  "dct_title_s": "streets",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7mw2r/data.zip\"}",
+  "dct_spatial_sm": [
+    "Berkeley (Calif.)",
+    "Alameda County (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "gbl_resourceType_sm": [
+    "Line data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7mw2r",
+  "gbl_mdModified_dt": "2012-11-28T23:35:27.403Z",
+  "id": "ark28722-s7mw2r",
+  "locn_geometry": "ENVELOPE(-122.328309, -122.205766, 37.945666, 37.832172)",
+  "dcat_bbox": "ENVELOPE(-122.328309, -122.205766, 37.945666, 37.832172)",
+  "gbl_indexYear_im": [
+    2009
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

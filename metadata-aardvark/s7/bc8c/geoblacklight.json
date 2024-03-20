@@ -1,0 +1,46 @@
+{
+  "dct_creator_sm": [
+    "U.S. Geological Survey"
+  ],
+  "dct_description_sm": [
+    "Library locations were mapped for the Napa County Baseline Data report.  Many of the locations were selected from the U.S. Geological Survey's Geographic Names Information System (GNIS) datafiles, 1997. Other points were mapped from address information."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7bc8c"
+  ],
+  "dct_publisher_sm": [
+    "Napa County (Calif.). County Of Napa."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Libraries",
+    "Society",
+    "Structure"
+  ],
+  "dct_title_s": "Libraries",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7bc8c/data.zip\"}",
+  "dct_spatial_sm": [
+    "Napa County (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "1981"
+  ],
+  "gbl_resourceType_sm": [
+    "Point data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7bc8c",
+  "gbl_mdModified_dt": "2012-11-28T23:34:56.173Z",
+  "id": "ark28722-s7bc8c",
+  "locn_geometry": "ENVELOPE(-122.579919, -122.253645, 38.577263, 38.168133)",
+  "dcat_bbox": "ENVELOPE(-122.579919, -122.253645, 38.577263, 38.168133)",
+  "gbl_indexYear_im": [
+    1981
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

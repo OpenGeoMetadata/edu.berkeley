@@ -1,0 +1,46 @@
+{
+  "dct_creator_sm": [
+    "Towill Incorporated"
+  ],
+  "dct_description_sm": [
+    "Elevation contours corresponding to digital orthophotographs rectified to ground control corresponding to 400 scale mapping (1 inch = 400 feet) covering western portions of Marin County.  Ten-foot interior contours.  Use in conjunction with C400IDX index fifty-foot contours."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7z305"
+  ],
+  "dct_publisher_sm": [
+    "San Francisco (Calif.). Towill Incorporated."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Topography",
+    "Contours",
+    "Elevation"
+  ],
+  "dct_title_s": "Interior contours, 400 scale",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7z305/data.zip\"}",
+  "dct_spatial_sm": [
+    "Marin County (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "1999"
+  ],
+  "gbl_resourceType_sm": [
+    "Line data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7z305",
+  "gbl_mdModified_dt": "2012-11-28T23:34:40.336Z",
+  "id": "ark28722-s7z305",
+  "locn_geometry": "ENVELOPE(-123.035157, -122.472209, 38.327799, 37.805822)",
+  "dcat_bbox": "ENVELOPE(-123.035157, -122.472209, 38.327799, 37.805822)",
+  "gbl_indexYear_im": [
+    1999
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

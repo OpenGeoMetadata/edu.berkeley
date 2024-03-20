@@ -1,0 +1,54 @@
+{
+  "dct_creator_sm": [
+    "Vestra Resources Inc. Redding CA"
+  ],
+  "dct_description_sm": [
+    "This layer is composed of polygons showing the Supervisorial Districts in Napa County as provided by the Napa County Elections Department"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7qg7f"
+  ],
+  "dct_publisher_sm": [
+    "Napa County (Calif.). County Of Napa."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Boundaries",
+    "Elections",
+    "Voting",
+    "Government",
+    "Politics",
+    "Supervisor Districts"
+  ],
+  "dct_title_s": "Supervisorial Districts in Napa County",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7qg7f/data.zip\"}",
+  "dct_spatial_sm": [
+    "Napa County (Calif.)",
+    "American Canyon (Calif.)",
+    "Napa (Calif.)",
+    "St Helena (Calif.)",
+    "Yountville (Calif.)",
+    "Calistoga (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7qg7f",
+  "gbl_mdModified_dt": "2012-11-28T23:35:27.412Z",
+  "id": "ark28722-s7qg7f",
+  "locn_geometry": "ENVELOPE(-122.646813, -122.061372, 38.864289, 38.154937)",
+  "dcat_bbox": "ENVELOPE(-122.646813, -122.061372, 38.864289, 38.154937)",
+  "gbl_indexYear_im": [
+    2010
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

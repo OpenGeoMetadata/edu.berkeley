@@ -1,0 +1,41 @@
+{
+  "dct_creator_sm": [
+    "Alameda County Registrar of Voters "
+  ],
+  "dct_description_sm": [
+    "Alameda County Hospitals within zone boundaries"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s78h4m"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Health",
+    "Boundaries",
+    "Hospitals",
+    "Health Facilities"
+  ],
+  "dct_title_s": "Hospital, Alameda County, California, 2007",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s78h4m/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s78h4m/data.zip\"}",
+  "dct_spatial_sm": [
+    "Alameda County (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s78h4m",
+  "gbl_mdModified_dt": "2018-02-23T23:34:35.206Z",
+  "id": "berkeley-s78h4m",
+  "locn_geometry": "ENVELOPE(-122.340092, -121.739752, 37.822197, 37.448561)",
+  "dcat_bbox": "ENVELOPE(-122.340092, -121.739752, 37.822197, 37.448561)",
+  "gbl_indexYear_im": [
+    2007
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

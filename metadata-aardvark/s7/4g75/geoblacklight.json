@@ -1,0 +1,47 @@
+{
+  "dct_creator_sm": [
+    "HUD"
+  ],
+  "dct_description_sm": [
+    "San Francisco has a Round I Enterprise Community (EC) that has, in part, been designated as a Renewal Community (RC), thus San Francisco lost its EC status when it received an RC designation on January 1, 2002. The San Francisco RC Course of Action includes five of the six required goals and actions, which will be outlined briefly below.\nThe City of San Francisco has and continues to invest substantial resources into local workforce development and welfare-to-work systems to better ensure community renewal and to support the self-sufficiency of individuals and families.\nThe City of San Francisco has a crime reduction strategy that is a multi-layered approach addressing: general crime prevention education; programs targeting at-risk youth (prevention); diversion programs; programs targeting incarcerated individuals to reduce recidivism; and post-incarceration programs to reduce recidivism. Reducing Tax Burdens: Businesses in the Renewal Community may be eligible for one or more of the following tax credits: New Jobs Hiring Tax Credit; Summer Youth Employment Tax Credit; SanFrancisco Enterprise Zone Hiring Tax Credit; and the San Francisco Garment Manufacturer’s Tax Credit.\nReducing Government Requirements San Francisco already has in place a series of programs that are aimed at streamlining the permit application process and for improving customer services for residents such the Central Permit Bureau and the One Stop City Payment Center, respectively. Involving Community Partners\nThe City of San Francisco works in close coordination with a variety of private sector organizations and community groups to provide a variety of economic development activities. Job training and placement is conducted through the Job Network, which includes such organizations as the San Francisco Small Business Network, (SBN), the Jewish Vocational Services (JVC), and the San Francisco Department of Human Services (DHS). Technical assistance to micro-enterprises and small businesses is carried out through organizations such as the Mission Economic Development Association (MEDA), the Renaissance Entrepreneurship Center and Small Business Development Center."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s74g75"
+  ],
+  "dct_publisher_sm": [
+    "San Francisco (Calif.). Department Of Telecommunications and Information Services."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Federal Renewal Areas",
+    "Society",
+    "Planning and Cadastral"
+  ],
+  "dct_title_s": "Federal Renewal Community",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s74g75/data.zip\"}",
+  "dct_spatial_sm": [
+    "San Francisco County (Calif.)",
+    "San Francisco (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "2004"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s74g75",
+  "gbl_mdModified_dt": "2012-11-28T23:34:29.568Z",
+  "id": "ark28722-s74g75",
+  "locn_geometry": "ENVELOPE(-122.423262, -122.395548, 37.797726, 37.763289)",
+  "dcat_bbox": "ENVELOPE(-122.423262, -122.395548, 37.797726, 37.763289)",
+  "gbl_indexYear_im": [
+    2004
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "dct_creator_sm": [
+    "Merrick   Company"
+  ],
+  "dct_description_sm": [
+    "Air Flight Services, Inc. captured the photography with a Wild RC 30 precision mapping camera and simultaneously collected Airborne GPS and IMU data for each exposure."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7531d"
+  ],
+  "dct_publisher_sm": [
+    "Santa Rosa (Calif.). County Of Sonoma Gis Central."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Imagery and Base Maps",
+    "Aerial Photos"
+  ],
+  "dct_title_s": "SCGISDB2_BASE_REF_AIRPHOTO_CENTERS",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7531d/data.zip\"}",
+  "dct_spatial_sm": [
+    "Sonoma County (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "2001"
+  ],
+  "gbl_resourceType_sm": [
+    "Point data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7531d",
+  "gbl_mdModified_dt": "2012-11-28T23:35:11.745Z",
+  "id": "ark28722-s7531d",
+  "locn_geometry": "ENVELOPE(-123.544601, -122.345195, 38.884721, 38.088347)",
+  "dcat_bbox": "ENVELOPE(-123.544601, -122.345195, 38.884721, 38.088347)",
+  "gbl_indexYear_im": [
+    2001
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "dct_creator_sm": [
+    "Santa Clara County Planning Office"
+  ],
+  "dct_description_sm": [
+    "This is the official city limits GIS layer representing City Limit Boundaries for Cities within Santa Clara County. This layer is maintained by the Planning Office for the benefit of the Local Agency Formation Comission (LAFCO).This polygon dataset shows the extents of all cities that are currently contained within Santa Clara County, California for 2015."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7dx0g"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Boundaries",
+    "Cities and Towns",
+    "Administrative and Political Divisions"
+  ],
+  "dct_title_s": "City Boundaries, Santa Clara County, California, 2015",
+  "dct_issued_s": "2015-02-04",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7dx0g/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7dx0g/data.zip\"}",
+  "dct_spatial_sm": [
+    "Santa Clara County (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7dx0g",
+  "gbl_mdModified_dt": "2018-02-16T23:34:35.206Z",
+  "id": "berkeley-s7dx0g",
+  "locn_geometry": "ENVELOPE(-122.202678, -121.51881, 37.47895, 36.972352)",
+  "dcat_bbox": "ENVELOPE(-122.202678, -121.51881, 37.47895, 36.972352)",
+  "gbl_indexYear_im": [
+    2015
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "dct_creator_sm": [
+    "Amador County (Calif.)"
+  ],
+  "dct_description_sm": [
+    "Amador County Assessor Parcel Data"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s73q2c"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Planningcadastre",
+    "Parcel Maps",
+    "Amador (Calif.)"
+  ],
+  "dct_title_s": "Parcels, Amador County, California, 2008",
+  "dct_issued_s": "2008-02-01",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s73q2c/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s73q2c/data.zip\"}",
+  "dct_spatial_sm": [
+    "Amador County (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s73q2c",
+  "gbl_mdModified_dt": "2018-04-02T23:34:35.206Z",
+  "id": "berkeley-s73q2c",
+  "locn_geometry": "ENVELOPE(-121.031401, -120.067127, 38.720879, 38.206083)",
+  "dcat_bbox": "ENVELOPE(-121.031401, -120.067127, 38.720879, 38.206083)",
+  "gbl_indexYear_im": [
+    2008
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

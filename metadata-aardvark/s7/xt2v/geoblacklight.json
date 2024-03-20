@@ -1,0 +1,45 @@
+{
+  "dct_creator_sm": [
+    "Mono County (Calif.) -- Information Technology"
+  ],
+  "dct_description_sm": [
+    "This polyline dataset indicates all existing street centerlines within Mono County, California for 2014."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7xt2v"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Transportation",
+    "Streets",
+    "Centerlines",
+    "Roads",
+    "Highways",
+    "Roadways",
+    "Thoroughfares"
+  ],
+  "dct_title_s": "Street Centerlines, Mono County, California, 2014",
+  "dct_issued_s": "2014-10-15",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7xt2v/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7xt2v/data.zip\"}",
+  "dct_spatial_sm": [
+    "Mono County (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Line data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7xt2v",
+  "gbl_mdModified_dt": "2018-02-16T23:34:35.206Z",
+  "id": "berkeley-s7xt2v",
+  "locn_geometry": "ENVELOPE(-119.705674, -97.38086, 38.689585, 29.903757)",
+  "dcat_bbox": "ENVELOPE(-119.705674, -97.38086, 38.689585, 29.903757)",
+  "gbl_indexYear_im": [
+    2014
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

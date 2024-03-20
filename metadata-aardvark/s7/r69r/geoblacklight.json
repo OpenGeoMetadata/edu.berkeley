@@ -1,0 +1,45 @@
+{
+  "dct_creator_sm": [
+    "Mono County (Calif.) -- Information Technology"
+  ],
+  "dct_description_sm": [
+    "This polygon dataset shows the boundaries for all public utility districts within Mono County, California in 2011. More about Mono County Special Districts at http://www.monocounty.ca.gov/page/special-districts-and-service-areas"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7r69r"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Boundaries",
+    "Planningcadastre",
+    "Utilitiescommunication",
+    "Public Utilities",
+    "Cities and Towns",
+    "Spheres Of Influence",
+    "Special Districts"
+  ],
+  "dct_title_s": "Public Utility Districts, Mono County, California, 2011",
+  "dct_issued_s": "2011-05-04",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7r69r/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7r69r/data.zip\"}",
+  "dct_spatial_sm": [
+    "Mono County (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7r69r",
+  "gbl_mdModified_dt": "2005-09-20T23:34:35.206Z",
+  "id": "berkeley-s7r69r",
+  "locn_geometry": "ENVELOPE(-119.248345, -118.602263, 38.300808, 37.498991)",
+  "dcat_bbox": "ENVELOPE(-119.248345, -118.602263, 38.300808, 37.498991)",
+  "gbl_indexYear_im": [
+    2011
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

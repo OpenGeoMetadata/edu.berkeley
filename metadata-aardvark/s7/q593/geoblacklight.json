@@ -1,0 +1,45 @@
+{
+  "dct_creator_sm": [
+    "County of Marin"
+  ],
+  "dct_description_sm": [
+    "The Situs Address Point feature class is a point representation of addresses in Marin County.  For the most part, situs addresses are placed on building footprints.  The situs address may be different from the mailing address in cases of rental property or where mail is delivered to a post office box.  Situs addresses have also been given to some parcels that do not yet have structures built.  They have been assigned to some pump stations and water tanks that required addresses for location."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7q593"
+  ],
+  "dct_publisher_sm": [
+    "San Rafael (Calif.). County Of Marin Community Development Agency."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Location",
+    "Addresses"
+  ],
+  "dct_title_s": "Situs Address Point",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7q593/data.zip\"}",
+  "dct_spatial_sm": [
+    "Marin County (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
+  "gbl_resourceType_sm": [
+    "Point data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7q593",
+  "gbl_mdModified_dt": "2012-11-28T23:35:22.169Z",
+  "id": "ark28722-s7q593",
+  "locn_geometry": "ENVELOPE(-123.034341, -122.440461, 38.325658, 37.817197)",
+  "dcat_bbox": "ENVELOPE(-123.034341, -122.440461, 38.325658, 37.817197)",
+  "gbl_indexYear_im": [
+    2006
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

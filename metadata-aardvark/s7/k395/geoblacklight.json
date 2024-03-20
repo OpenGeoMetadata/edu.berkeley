@@ -1,0 +1,43 @@
+{
+  "dct_creator_sm": [
+    "County of Sonoma, Permit and Resource Management Department [PRMD] - Engineering, Drainage Review"
+  ],
+  "dct_description_sm": [
+    "The flood prone dataset represents a geographical area known as the Permit and Resource Management Department (PRMD) Flood Prone Ordinance 4467. Flood Prone Ordinance 4467 addresses concerns regarding the impact of grading on existing or future drainage patterns. Therefore, the ordinance identifies development policies grading and drainage within this designated, sensitive area. Area boundaries described as follows in Chapter 7 Building Regulations (Article II, Sec. 7-13) at http://municipalcodes.lexisnexis.com/cgi-bin/hilite.pl/codes/sonomaco/_DATA/TITLE07/Article_II__Rules_and_Regulati.html FLOOD-PRONE URBAN AREA shall include the following areas to the extent such areas are within the unincorporated portion of the County of Sonoma: (a) That area within the boundaries defined on the north by River Road; on the west by the easterly boundary of the Laguna de Santa Rosa to its intersection with Highway 12 and continuing with the easterly limit of the City of Sebastopol to Highway 116; on the south by Highway 116 to its intersection with Old Redwood Highway then south to East Cotati Avenue and east to its intersection with Petaluma Hill Road; and on the east by Petaluma Hill Road, north to Highway 12 then west to Highway 101 and north to River Road. Laguna de Santa Rosa shall be the Laguna de Santa Rosa and tributaries thereto, as shown, on the National Flood Insurance Program Flood Insurance Rate Map dated April 2, 1991 and which are within designated Zone AE and, which have a base flood elevation of 75 feet."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7k395"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Inlandwaters",
+    "Flood Prone Boundary",
+    "Flood Prone Urban Area",
+    "Flood Prone Area",
+    "Flood Prevention"
+  ],
+  "dct_title_s": "Flood Prone Urban Area, Sonoma County, California, 2010",
+  "dct_issued_s": "2010-04-01",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7k395/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7k395/data.zip\"}",
+  "dct_spatial_sm": [
+    "Sonoma County (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7k395",
+  "gbl_mdModified_dt": "2018-02-23T23:34:35.206Z",
+  "id": "berkeley-s7k395",
+  "locn_geometry": "ENVELOPE(-122.836916, -122.666646, 38.497235, 38.325713)",
+  "dcat_bbox": "ENVELOPE(-122.836916, -122.666646, 38.497235, 38.325713)",
+  "gbl_indexYear_im": [
+    2010
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

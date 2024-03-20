@@ -1,0 +1,43 @@
+{
+  "dct_creator_sm": [
+    "Sacramento County GIS"
+  ],
+  "dct_description_sm": [
+    "This is an outline of unincorporated places in Sacramento. "
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s75d6d"
+  ],
+  "dct_publisher_sm": [
+    "Sacramento Area Council of Governments"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Planningcadastre",
+    "Census Designated Places"
+  ],
+  "dct_title_s": "Unincorporated Areas, Sacramento County, California, 2011",
+  "dct_issued_s": "2011-06-22",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s75d6d/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s75d6d/data.zip\"}",
+  "dct_spatial_sm": [
+    "Sacramento County (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s75d6d",
+  "gbl_mdModified_dt": "2018-04-02T23:34:35.206Z",
+  "id": "berkeley-s75d6d",
+  "locn_geometry": "ENVELOPE(-121.86323, -121.01666, 38.736913, 38.014222)",
+  "dcat_bbox": "ENVELOPE(-121.86323, -121.01666, 38.736913, 38.014222)",
+  "gbl_indexYear_im": [
+    2011
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

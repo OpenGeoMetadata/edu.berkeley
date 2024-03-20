@@ -1,0 +1,40 @@
+{
+  "dct_creator_sm": [
+    "Geographic Information Systems, Sonoma County, California "
+  ],
+  "dct_description_sm": [
+    "The sphere of influence dataset represents the nine cities, urban (incorporated) municipality sphere of influence (e.g. SOI) boundaries within the County of Sonoma as determined by the Local Agency Formation Commission (LAFCO). See Data Quality - Attribute Accuracy tab for boundary modification history. A \"sphere of influence\" is a physical boundary a local governmental agency is expected to provide services for and is generally set by Sonoma LAFCO with a 20-year time frame. Sphere of influence boundaries are designated in order to help discourage urban sprawl, limit boundary disputes between local agencies, and provides indications regarding future development potential. A district or City's SOI should not to be construed as \"referral\" areas or as bestowing authority and control in the sphere area. LAFCO can amend a SOI if there are sound reasons to do so."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7q682"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Society",
+    "Spheres Of Influence"
+  ],
+  "dct_title_s": "Sphere of Influence (SOI), Sonoma County, California, 2011",
+  "dct_issued_s": "2011-12-01",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7q682/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7q682/data.zip\"}",
+  "dct_spatial_sm": [
+    "Sonoma County (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7q682",
+  "gbl_mdModified_dt": "2018-04-02T23:34:35.206Z",
+  "id": "berkeley-s7q682",
+  "locn_geometry": "ENVELOPE(-123.035684, -122.441109, 38.823072, 38.202463)",
+  "dcat_bbox": "ENVELOPE(-123.035684, -122.441109, 38.823072, 38.202463)",
+  "gbl_indexYear_im": [
+    2011
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "dct_creator_sm": [
+    "Napa County (Calif.)"
+  ],
+  "dct_description_sm": [
+    "This polygon dataset shows all structure footprints within Napa County. This data is not complete and should be used with caution. There are areas of the county that have not been included. This data contains both addressable and non-addressable structures. The latter includes garages, farm structures, outbuildings and landscape features."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s75h39"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Structure",
+    "Buildings",
+    "Structure"
+  ],
+  "dct_title_s": "Buildings, Napa County, California, 2014",
+  "dct_issued_s": "2014-04-10",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s75h39/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s75h39/data.zip\"}",
+  "dct_spatial_sm": [
+    "Napa County (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s75h39",
+  "gbl_mdModified_dt": "2017-12-19T23:34:35.206Z",
+  "id": "berkeley-s75h39",
+  "locn_geometry": "ENVELOPE(-122.648618, -122.074989, 38.851485, 38.151788)",
+  "dcat_bbox": "ENVELOPE(-122.648618, -122.074989, 38.851485, 38.151788)",
+  "gbl_indexYear_im": [
+    2014
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

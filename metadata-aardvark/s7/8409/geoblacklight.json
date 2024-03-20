@@ -1,0 +1,47 @@
+{
+  "dct_creator_sm": [
+    "Powell, Susan",
+    "Navarro, Fernando"
+  ],
+  "dct_description_sm": [
+    "This line dataset represents the national boundary line of Mongolia in 1942, referred to in the source map as Outer Mongolia. The dataset was developed as part of the Mongolian 20th-century Historical GIS Database project. It is designed to integrate and align well with other datasets created as part of the project. It can be used for creating small to medium size maps of historical Mongolia and for analysis, as appropriate to the resolution. This data is only as accurate as the source maps upon which it is based. As such, the UC Berkeley Library does not guarantee the accuracy of the data. Researchers should use their own judgement about appropriate uses for this data. Users should please acknowledge and cite the \"Mongolian 20th-century Historical GIS Database project\" in any derivative works. The source map for this dataset is: American Museum of Natural History, 'Mongolia and Adjacent Regions [map, on 2 sheets]', scale 1:2,000,000, provisional edition (Washington, DC: U.S. Army Map Service, 1942).\""
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "http://spatial.lib.berkeley.edu/viewpublic/berkeley-s78409"
+  ],
+  "dct_publisher_sm": [
+    "UC Berkeley Library"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Boundaries",
+    "Borders"
+  ],
+  "dct_title_s": "National Boundary, Mongolia, 1942",
+  "dct_isPartOf_sm": [
+    "berkeley-s7vx1w"
+  ],
+  "dct_issued_s": "2022-12-21",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/public/berkeley-s78409/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s78409/data.zip\"}",
+  "dct_spatial_sm": [
+    "Mongolia"
+  ],
+  "gbl_resourceType_sm": [
+    "Line data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s78409",
+  "gbl_mdModified_dt": "2022-12-21T23:34:35.206Z",
+  "id": "berkeley-s78409",
+  "locn_geometry": "ENVELOPE(84.734117, 121.020765, 51.874215, 39.713544)",
+  "dcat_bbox": "ENVELOPE(84.734117, 121.020765, 51.874215, 39.713544)",
+  "gbl_indexYear_im": [
+    1942
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

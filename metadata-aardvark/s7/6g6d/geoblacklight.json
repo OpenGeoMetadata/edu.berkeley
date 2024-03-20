@@ -1,0 +1,44 @@
+{
+  "dct_creator_sm": [
+    "County of Napa ITS Department"
+  ],
+  "dct_description_sm": [
+    "Major named water bodies within Napa County."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s76g6d"
+  ],
+  "dct_publisher_sm": [
+    "Napa County (Calif.). County Of Napa."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Hydrology"
+  ],
+  "dct_title_s": "Major Water Bodies",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s76g6d/data.zip\"}",
+  "dct_spatial_sm": [
+    "Napa County (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "2005"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s76g6d",
+  "gbl_mdModified_dt": "2012-11-28T23:35:32.629Z",
+  "id": "ark28722-s76g6d",
+  "locn_geometry": "ENVELOPE(-122.641568, -122.074848, 38.85562, 38.074924)",
+  "dcat_bbox": "ENVELOPE(-122.641568, -122.074848, 38.85562, 38.074924)",
+  "gbl_indexYear_im": [
+    2005
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

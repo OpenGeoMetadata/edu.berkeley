@@ -1,0 +1,44 @@
+{
+  "dct_creator_sm": [
+    "Sean Wilson, Geologist"
+  ],
+  "dct_description_sm": [
+    "Expansive Soils are defined as Maximum Measured Shrink-Swell Potential and were grouped by consultant Sean Wilson, geologist.  Data originates from the NRCS Soils data known within the County of Marin GIS database as Soils.  NRCS soils were downloaded from ftp://ftp.tfw.nrcs.usda.gov/pub/ssurgo/online98/data/ca041/ .\nThis data set is a digital soil survey and generally is the most\ndetailed level of soil geographic data developed by the National\nCooperative Soil Survey. The information was prepared by digitizing\nmaps, by compiling information onto a planimetric correct base\nand digitizing, or by revising digitized maps using remotely\nsensed and other information.\n\nThis data set consists of georeferenced digital map data and\ncomputerized attribute data. The map data are in a soil survey area\nextent format and include a detailed, field verified inventory\nof soils and miscellaneous areas that normally occur in a repeatable\npattern on the landscape and that can be cartographically shown at\nthe scale mapped. A special soil features layer (point and line\nfeatures) is optional. This layer displays the location of features\ntoo small to delineate at the mapping scale, but they are large\nenough and contrasting enough to significantly influence use and\nmanagement. The soil map units are linked to attributes in the\nNational Soil Information System relational database, which gives\nthe proportionate extent of the component soils and their properties."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s72g65"
+  ],
+  "dct_publisher_sm": [
+    "Fort Worth (tex.). U.s. Department Of Agriculture, Natural Resources Conservation Service."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Soils"
+  ],
+  "dct_title_s": "Soil Expansive",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s72g65/data.zip\"}",
+  "dct_spatial_sm": [
+    "Marin County (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s72g65",
+  "gbl_mdModified_dt": "2012-11-28T23:35:27.217Z",
+  "id": "ark28722-s72g65",
+  "locn_geometry": "ENVELOPE(-123.035461, -122.346275, 38.331077, 37.805996)",
+  "dcat_bbox": "ENVELOPE(-123.035461, -122.346275, 38.331077, 37.805996)",
+  "gbl_indexYear_im": [
+    2011
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

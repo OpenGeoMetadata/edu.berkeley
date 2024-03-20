@@ -1,0 +1,39 @@
+{
+  "dct_creator_sm": [
+    "San Francisco-Department of Public Works "
+  ],
+  "dct_description_sm": [
+    "Water bodies in San Francisco. Derived from city features drawings from DPW. Modified by DTIS to show type of water body and name."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7jq2d"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Inlandwaters",
+    "Waterbodies"
+  ],
+  "dct_title_s": "Waterbodies, San Francisco, 2014",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7jq2d/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7jq2d/data.zip\"}",
+  "dct_spatial_sm": [
+    "San Francisco (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7jq2d",
+  "gbl_mdModified_dt": "2018-03-15T23:34:35.206Z",
+  "id": "berkeley-s7jq2d",
+  "locn_geometry": "ENVELOPE(-122.504644, -122.410079, 37.804701, 37.709645)",
+  "dcat_bbox": "ENVELOPE(-122.504644, -122.410079, 37.804701, 37.709645)",
+  "gbl_indexYear_im": [
+    2014
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

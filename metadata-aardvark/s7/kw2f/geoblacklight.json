@@ -1,0 +1,48 @@
+{
+  "dct_creator_sm": [
+    "GreenInfo.org"
+  ],
+  "dct_description_sm": [
+    "The California Protected Areas Database (CPAD) contains data on lands owned in fee by governments or non-profits that are protected for open space purposes.  Data includes all such areas in California, from small urban parks to large national parks and forests, mostly aligned to assessor parcel boundaries. Data is collected by Holdings (parcels) which are aggregated to Units (commonly named areas), and related to an Agencies table."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7kw2f"
+  ],
+  "dct_publisher_sm": [
+    "Oakland (Calif.). Greeninfo.org"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Protected Areas",
+    "Open Space",
+    "Parks",
+    "Conservation Lands",
+    "Public Lands"
+  ],
+  "dct_title_s": "CPAD16_Units",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7kw2f/data.zip\"}",
+  "dct_spatial_sm": [
+    "California"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7kw2f",
+  "gbl_mdModified_dt": "2012-11-28T23:34:45.549Z",
+  "id": "ark28722-s7kw2f",
+  "locn_geometry": "ENVELOPE(-124.517995, -113.498897, 42.065981, 32.423757)",
+  "dcat_bbox": "ENVELOPE(-124.517995, -113.498897, 42.065981, 32.423757)",
+  "gbl_indexYear_im": [
+    2011
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

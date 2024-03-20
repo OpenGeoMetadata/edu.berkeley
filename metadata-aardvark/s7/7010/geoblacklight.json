@@ -1,0 +1,45 @@
+{
+  "dct_creator_sm": [
+    "Solano County GIS"
+  ],
+  "dct_description_sm": [
+    "The 'Solano County City Spheres of Influence' layer is an updated version of a layer (city_spheres_of_influence.shp) originally created and maintained by Resource Management. LAFCO is responsible to approving sphere of influence requests by incorporated areas within the county. The changes to this layer include the city limits boundary changes that were approved by LAFCO to date."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s77010"
+  ],
+  "dct_publisher_sm": [
+    "Fairfield (Calif.). Solano County Department Of Information Technology - Gis Services."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Boundaries",
+    "Administrative and Political Divisions"
+  ],
+  "dct_title_s": "citysoi",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s77010/data.zip\"}",
+  "dct_spatial_sm": [
+    "Solano County (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "2008"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s77010",
+  "gbl_mdModified_dt": "2012-11-28T23:34:34.888Z",
+  "id": "ark28722-s77010",
+  "locn_geometry": "ENVELOPE(-122.346076, -121.673913, 38.493691, 38.031504)",
+  "dcat_bbox": "ENVELOPE(-122.346076, -121.673913, 38.493691, 38.031504)",
+  "gbl_indexYear_im": [
+    2008
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

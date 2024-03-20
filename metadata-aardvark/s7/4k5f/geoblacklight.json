@@ -1,0 +1,44 @@
+{
+  "dct_creator_sm": [
+    "Golden Gate Transit District"
+  ],
+  "dct_description_sm": [
+    "Golden Gate Ferry routes were digitized from the \"Winter 2003-2004 Golden Gate Bus   Ferry Transit Guide.\""
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s74k5f"
+  ],
+  "dct_publisher_sm": [
+    "San Rafael (Calif.). County Of Marin."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Transportation"
+  ],
+  "dct_title_s": "Ferry Route",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s74k5f/data.zip\"}",
+  "dct_spatial_sm": [
+    "Marin County (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "2007"
+  ],
+  "gbl_resourceType_sm": [
+    "Line data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s74k5f",
+  "gbl_mdModified_dt": "2012-11-28T23:34:50.778Z",
+  "id": "ark28722-s74k5f",
+  "locn_geometry": "ENVELOPE(-122.505568, -122.397645, 37.944467, 37.806259)",
+  "dcat_bbox": "ENVELOPE(-122.505568, -122.397645, 37.944467, 37.806259)",
+  "gbl_indexYear_im": [
+    2007
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

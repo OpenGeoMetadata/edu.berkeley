@@ -1,0 +1,47 @@
+{
+  "dct_creator_sm": [
+    "Solano County Department of Information Technology - GIS Services"
+  ],
+  "dct_description_sm": [
+    "California State Assembly Districts within Solano County, California."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7m896"
+  ],
+  "dct_publisher_sm": [
+    "Fairfield (Calif.). Solano County Department Of Information Technology - Gis Services."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Elections",
+    "Registrar Of Voters",
+    "Rov Districts",
+    "Boundaries"
+  ],
+  "dct_title_s": "assemblydistricts",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7m896/data.zip\"}",
+  "dct_spatial_sm": [
+    "Solano County (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "2007"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7m896",
+  "gbl_mdModified_dt": "2012-11-28T23:34:19.185Z",
+  "id": "ark28722-s7m896",
+  "locn_geometry": "ENVELOPE(-122.409424, -121.591604, 38.539187, 38.03111)",
+  "dcat_bbox": "ENVELOPE(-122.409424, -121.591604, 38.539187, 38.03111)",
+  "gbl_indexYear_im": [
+    2007
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

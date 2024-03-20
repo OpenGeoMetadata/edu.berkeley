@@ -1,0 +1,40 @@
+{
+  "dct_creator_sm": [
+    "Department of Information Technology, Solano County, California"
+  ],
+  "dct_description_sm": [
+    "5 ft. interval elevation contours derived from the Solano County, CA 2008 Digital Elevation Model"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s73x3t"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Elevation",
+    "Elevations (Altitudes)"
+  ],
+  "dct_title_s": "Elevation Map (5ft contours), Solano County, California, 2008",
+  "dct_issued_s": "2015-02-23",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s73x3t/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s73x3t/data.zip\"}",
+  "dct_spatial_sm": [
+    "Solano County (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Line data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s73x3t",
+  "gbl_mdModified_dt": "2018-03-27T23:34:35.206Z",
+  "id": "berkeley-s73x3t",
+  "locn_geometry": "ENVELOPE(-122.406904, -121.590648, 38.53964, 38.032365)",
+  "dcat_bbox": "ENVELOPE(-122.406904, -121.590648, 38.53964, 38.032365)",
+  "gbl_indexYear_im": [
+    2008
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

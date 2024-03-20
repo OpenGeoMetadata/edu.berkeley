@@ -1,0 +1,48 @@
+{
+  "dct_creator_sm": [
+    "Teale Data Center"
+  ],
+  "dct_description_sm": [
+    "California Watershed Map: Version 2.2.  This layer is composed of polygons at depict the boundary of the various watershed areas in Napa County."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7m01d"
+  ],
+  "dct_publisher_sm": [
+    "Napa County (Calif.). County Of Napa."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Inlandwaters",
+    "Hydrology",
+    "Rivers",
+    "Basins",
+    "Watershed Boundary"
+  ],
+  "dct_title_s": "CalWater 2.2 Watersheds",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7m01d/data.zip\"}",
+  "dct_spatial_sm": [
+    "Napa County (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7m01d",
+  "gbl_mdModified_dt": "2012-11-28T23:34:29.749Z",
+  "id": "ark28722-s7m01d",
+  "locn_geometry": "ENVELOPE(-122.74838, -121.973249, 38.938321, 37.952118)",
+  "dcat_bbox": "ENVELOPE(-122.74838, -121.973249, 38.938321, 37.952118)",
+  "gbl_indexYear_im": [
+    2010
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

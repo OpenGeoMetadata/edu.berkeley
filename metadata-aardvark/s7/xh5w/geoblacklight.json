@@ -1,0 +1,43 @@
+{
+  "dct_creator_sm": [
+    "Santa Cruz County (Calif.) -- Assessor's Office"
+  ],
+  "dct_description_sm": [
+    "This layer contains polygon data for Assessor Parcel boundaries within Santa Cruz County, California. An Assessor Parcel is a unit of land designated by the County Assessor for taxation purposes. The parcel boundary is drawn from legal descriptions which have been officially recorded with the County Recorder. Parcel boundaries are generally accurate within five to ten feet of their true geographic coordinates in the urban areas of Santa Cruz County. In the rural areas, the data may be accurate to only within three hundred feet. This layer is maintained by the Santa Cruz County Assessor's Office. Updates are published approximately quarterly (every 3-4 months)."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7xh5w"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Boundaries",
+    "Planningcadastre",
+    "Real Property--maps",
+    "Real Property--boundaries",
+    "Assessor Parcel Maps"
+  ],
+  "dct_title_s": "Assessor Parcels, Santa Cruz County, California, 2014",
+  "dct_issued_s": "2014-01-01",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7xh5w/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7xh5w/data.zip\"}",
+  "dct_spatial_sm": [
+    "Santa Cruz County (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7xh5w",
+  "gbl_mdModified_dt": "2018-06-15T23:34:35.206Z",
+  "id": "berkeley-s7xh5w",
+  "locn_geometry": "ENVELOPE(-122.319581, -121.581315, 37.292758, 36.842141)",
+  "dcat_bbox": "ENVELOPE(-122.319581, -121.581315, 37.292758, 36.842141)",
+  "gbl_indexYear_im": [
+    2014
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

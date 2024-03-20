@@ -1,0 +1,43 @@
+{
+  "dct_creator_sm": [
+    "Kern County (Calif.) -- Engineering, Surveying and Permit Services "
+  ],
+  "dct_description_sm": [
+    "This polygonal dataset shows the boundaries of 5 Supervisor Districts within Kern County, California for 2011."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s78h50"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Boundaries",
+    "Society",
+    "Supervisors (Local Government)",
+    "Election Districts",
+    "Administrative and Political Divisions"
+  ],
+  "dct_title_s": "Supervisoral Districts, Kern County, California, 2011",
+  "dct_issued_s": "2011-01-01",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s78h50/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s78h50/data.zip\"}",
+  "dct_spatial_sm": [
+    "Kern County (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s78h50",
+  "gbl_mdModified_dt": "2018-03-28T23:34:35.206Z",
+  "id": "berkeley-s78h50",
+  "locn_geometry": "ENVELOPE(-120.198674, -117.615785, 35.808878, 34.772396)",
+  "dcat_bbox": "ENVELOPE(-120.198674, -117.615785, 35.808878, 34.772396)",
+  "gbl_indexYear_im": [
+    2011
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

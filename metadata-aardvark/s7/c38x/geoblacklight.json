@@ -1,0 +1,39 @@
+{
+  "dct_creator_sm": [
+    "City and County of San Francisco- Technology "
+  ],
+  "dct_description_sm": [
+    "Assembly Districts within the extent of San Francisco; boundaries have been updated as of 2013. "
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7c38x"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Planningcadastre",
+    "Election Districts"
+  ],
+  "dct_title_s": "California State Assembly Districts, San Francisco, California, 2013",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7c38x/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7c38x/data.zip\"}",
+  "dct_spatial_sm": [
+    "San Francisco (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7c38x",
+  "gbl_mdModified_dt": "2018-02-16T23:34:35.206Z",
+  "id": "berkeley-s7c38x",
+  "locn_geometry": "ENVELOPE(-122.516315, -122.326138, 37.833119, 37.705822)",
+  "dcat_bbox": "ENVELOPE(-122.516315, -122.326138, 37.833119, 37.705822)",
+  "gbl_indexYear_im": [
+    2013
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

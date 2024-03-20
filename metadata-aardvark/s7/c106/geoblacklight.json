@@ -1,0 +1,40 @@
+{
+  "dct_creator_sm": [
+    "Geographic Information Systems, Sonoma County (Calif.)., California "
+  ],
+  "dct_description_sm": [
+    "The redevelopment plan dataset represents the three designated project areas governed by the Sonoma County Community Development Commission. Redevelopment agencies exercise governmental functions and powers under the provisions of the Community Redevelopment Law (CRL), Health and Safety Code Sections 33000 et seq. of the State Constitution. Enacted shortly after the end of World War II, refined over the decades and tested in the courts, the CRL has provided a means by which cities and counties can address deteriorating physical, economic and social conditions in urbanized areas at the local level. It has become a primary tool for rehabilitation of housing stock, revitalization of business environments, creation of jobs, and for gaining the participation and investment of the property owners, business owners and residents of designated project areas. Through redevelopment, a project area will receive focused attention and financial investment to reverse deterioration trends in areas where the private sector is less inclined to invest without government assistance. A redevelopment agency must establish a designated project area before it can undertake any of the activities allowed under the CRL. Sonoma County established its Community Redevelopment Agency in 1984 and, later the same year, completed the process of designating its first two project areas; the Roseland and The Springs (Sonoma Valley) project areas. The County's newest project area on the lower Russian River was approved in July of 2000. The redevelopment plans and goals are as follows: Roseland Redevelopment Plan The boundary polygon represents the Roseland Redevelopment Plan adopted by Resolution # 84-2347 on November 27th, 1984. The primary objective of the Roseland Plan has been to improve the area's infrastructure, primarily Sebastopol Road. The Project's focus is now being turned to affordable housing and mixed-use development opportunities. - - - - Russian River Redevelopment Plan The boundary polygon represents the Russian River Redevelopment Plan adopted by Resolution # 5249 on July 18th, 2000. The Russian River Redevelopment Plan states twenty-three Specific Goals and Objectives that include: restoration and expansion of the Project Area as a desirable visitor and tourist destination; revitalization, as appropriate, of the Project Area's businesses and business districts; enhancement and protection of the physical environment and sensitive habitat areas; preservation and enhancement of architecturally and historically interesting buildings and neighborhoods; improvement of substandard housing conditions; improvement of streets to ensure safe motor vehicle, bicycle and pedestrian movements; upgrading and improvement of utility services to reduce power outages; assistance in the repair, expansion or development of sewer facilities; and assistance to public safety entities in the provision of capital facilities and equipment to serve the Project Area and environs. - - - - The Springs (Sonoma Valley) Redevelopment Plan The boundary represents the The Springs (Sonoma Valley) Redevelopment Plan adopted by Resolution # 84-3379 on November 27th, 1984. The Springs (Sonoma Valley) Redevelopment Plan has three primary Goals: 1. Create for the Sonoma Highway commercial district an efficient, attractive and identifiable commercial neighborhood in which existing and new commercial establishments and professional offices can capture a share of the growing market demand for goods and services in the area. 2. Alleviate deterioration in residential neighborhoods in order to stabilize and enhance the quality of the Project Area neighborhoods. 3. Maximize the natural environmental potential of the Project Area in order to create an attractive and efficient community for all persons working and living in the area. Related Resources: Sonoma County Community Development Commission, (CDC) Redevelopment Agency [Project Areas] http://www.sonoma-county.org/cdc/rdmain.htm"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7c106"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Boundaries",
+    "City Planning and Redevelopment Law--california"
+  ],
+  "dct_title_s": "Redevelopment Plans, Sonoma County, California, 2010",
+  "dct_issued_s": "2010-12-01",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7c106/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7c106/data.zip\"}",
+  "dct_spatial_sm": [
+    "Sonoma County (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7c106",
+  "gbl_mdModified_dt": "2018-04-02T23:34:35.206Z",
+  "id": "berkeley-s7c106",
+  "locn_geometry": "ENVELOPE(-123.046752, -122.474526, 38.534053, 38.296805)",
+  "dcat_bbox": "ENVELOPE(-123.046752, -122.474526, 38.534053, 38.296805)",
+  "gbl_indexYear_im": [
+    2010
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

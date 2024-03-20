@@ -1,0 +1,46 @@
+{
+  "dct_creator_sm": [
+    "U.S. Geological Survey"
+  ],
+  "dct_description_sm": [
+    "Locations of houses of worship in Napa County for the Napa County Baseline Data Report.  Many of the locations were selected from the U.S. Geological Survey's Geographic Names Information System (GNIS) datafiles, 1997.  The GNIS is an automated inventory of the names and locations of physical and cultural geographic features located throughout the United States.  Additional locations were added from other sources including internet searches   local yellowpages."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s76s3c"
+  ],
+  "dct_publisher_sm": [
+    "Napa County (Calif.). County Of Napa."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Location",
+    "Church",
+    "Worship"
+  ],
+  "dct_title_s": "Locations of houses of worship in Napa County",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s76s3c/data.zip\"}",
+  "dct_spatial_sm": [
+    "Napa County (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
+  "gbl_resourceType_sm": [
+    "Point data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s76s3c",
+  "gbl_mdModified_dt": "2012-11-28T23:34:34.811Z",
+  "id": "ark28722-s76s3c",
+  "locn_geometry": "ENVELOPE(-122.585789, -122.19418, 38.588833, 38.165052)",
+  "dcat_bbox": "ENVELOPE(-122.585789, -122.19418, 38.588833, 38.165052)",
+  "gbl_indexYear_im": [
+    2006
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

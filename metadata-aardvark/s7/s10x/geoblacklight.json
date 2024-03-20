@@ -1,0 +1,50 @@
+{
+  "dct_creator_sm": [
+    "California Department of Forestry and Fire Protection (CDF) (using data from BOR and DOC FMMP)",
+    "Department of Conservation (DOC) Farmland Mapping and Monitoring Program (FMMP)"
+  ],
+  "dct_description_sm": [
+    "In late 1996, the Dept of Conservation (DOC) surveyed state and federal agencies about the county boundary coverage they used. As a result, DOC adopted the 1:24, 000 scale Bureau of Reclamation dataset (USGS source) for their Farmland Mapping and Monitoring Program (FMMP) but with several major and minor modifications. Detailed documentation of these changes is provided by FMMP and included as part of the data dictionary."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7s10x"
+  ],
+  "dct_publisher_sm": [
+    "Shasta County (Calif.)"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Boundaries",
+    "Administrative and Political Divisions"
+  ],
+  "dct_title_s": "Counties, Northern California, 1997",
+  "dct_issued_s": "2014-10-13",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7s10x/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7s10x/data.zip\"}",
+  "dct_spatial_sm": [
+    "Shasta County (Calif.)",
+    "Siskiyou County (Calif.)",
+    "Modoc County (Calif.)",
+    "Lassen County (Calif.)",
+    "Trinity County (Calif.)",
+    "Tehama County (Calif.)",
+    "Plumas County (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7s10x",
+  "gbl_mdModified_dt": "2018-04-06T23:34:35.206Z",
+  "id": "berkeley-s7s10x",
+  "locn_geometry": "ENVELOPE(-123.724115, -119.89697, 42.03413, 39.57466)",
+  "dcat_bbox": "ENVELOPE(-123.724115, -119.89697, 42.03413, 39.57466)",
+  "gbl_indexYear_im": [
+    1997
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

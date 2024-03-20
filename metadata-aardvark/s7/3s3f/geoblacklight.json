@@ -1,0 +1,46 @@
+{
+  "dct_creator_sm": [
+    "MarinMap"
+  ],
+  "dct_description_sm": [
+    "Elevation contours (5 meters) of areas of Marin County, California"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s73s3f"
+  ],
+  "dct_publisher_sm": [
+    "San Rafael (Calif.). County Of Marin."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Elevation",
+    "Topography",
+    "Contours"
+  ],
+  "dct_title_s": "Elevation contours 5 meters Marin County 2004",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s73s3f/data.zip\"}",
+  "dct_spatial_sm": [
+    "Marin County (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "gbl_resourceType_sm": [
+    "Line data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s73s3f",
+  "gbl_mdModified_dt": "2012-11-28T23:34:29.665Z",
+  "id": "ark28722-s73s3f",
+  "locn_geometry": "ENVELOPE(-122.975003, -122.418091, 38.264314, 37.824089)",
+  "dcat_bbox": "ENVELOPE(-122.975003, -122.418091, 38.264314, 37.824089)",
+  "gbl_indexYear_im": [
+    2009
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "dct_creator_sm": [
+    "Powell, Susan",
+    "Navarro, Fernando"
+  ],
+  "dct_description_sm": [
+    "This polygon dataset represents national parks in Mongolia in 1991. The names of the parks are included in the attribute information. National parks are listed as a type of \"state protected nature zones\" (\"Staatlich Geschütztes Natur-Objekt\") on the source map legend. The source map legend also describes the data using the German \"Naturschutzgebeit.\" The dataset was developed as part of the Mongolian 20th-century Historical GIS Database project. It is designed to integrate and align well with other datasets created as part of the project. It can be used for creating small to medium size maps of historical Mongolia and for analysis, as appropriate to the resolution. This data is only as accurate as the source maps upon which it is based. As such, the UC Berkeley Library does not guarantee the accuracy of the data. Researchers should use their own judgement about appropriate uses for this data. Users should please acknowledge and cite the \"Mongolian 20th-century Historical GIS Database project\" in any derivative works. The source map for this dataset is: Улсын геодези, зураг зүйн газар [State Board for Geodesy and Cartography, Mongolia], 'Map on Mongolian Nature Protection (Naturschutzkarte der MVR) [map]', scale 1:2,500,000 (Ulaanbaatar: State Board for Geodesy and Cartography, 1991).\""
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "http://spatial.lib.berkeley.edu/viewpublic/berkeley-s7kd8w"
+  ],
+  "dct_publisher_sm": [
+    "UC Berkeley Library"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Environment",
+    "State Protected Nature Zones",
+    "Conservation",
+    "Nature",
+    "National Parks"
+  ],
+  "dct_title_s": "National Parks, Mongolia, 1991",
+  "dct_isPartOf_sm": [
+    "berkeley-s7vx1w"
+  ],
+  "dct_issued_s": "2022-12-22",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7kd8w/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7kd8w/data.zip\"}",
+  "dct_spatial_sm": [
+    "Mongolia"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7kd8w",
+  "gbl_mdModified_dt": "2022-12-23T23:34:35.206Z",
+  "id": "berkeley-s7kd8w",
+  "locn_geometry": "ENVELOPE(90.763663, 116.801094, 49.076105, 42.463248)",
+  "dcat_bbox": "ENVELOPE(90.763663, 116.801094, 49.076105, 42.463248)",
+  "gbl_indexYear_im": [
+    1991
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

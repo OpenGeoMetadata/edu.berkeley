@@ -1,0 +1,40 @@
+{
+  "dct_creator_sm": [
+    "Marin Map "
+  ],
+  "dct_description_sm": [
+    "City is a topologically correct polygon representation of city boundaries as documented by Marin Local Agency Formation Commission (LAFCo) and tax rate area codes assigned to Assessor parcels by Marin County Assessor. Coverage includes the entire jurisdiction of Marin County, California."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s71m33"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Boundaries",
+    "Boundary Lines",
+    "Political Boundaries"
+  ],
+  "dct_title_s": "City Boundaries, Marin County, California, 2014",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s71m33/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s71m33/data.zip\"}",
+  "dct_spatial_sm": [
+    "Marin County (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s71m33",
+  "gbl_mdModified_dt": "2018-02-16T23:34:35.206Z",
+  "id": "berkeley-s71m33",
+  "locn_geometry": "ENVELOPE(-122.624872, -122.418458, 38.15095, 37.838823)",
+  "dcat_bbox": "ENVELOPE(-122.624872, -122.418458, 38.15095, 37.838823)",
+  "gbl_indexYear_im": [
+    2014
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

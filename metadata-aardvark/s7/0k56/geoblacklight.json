@@ -1,0 +1,42 @@
+{
+  "dct_description_sm": [
+    "features created from a working shape file, watershed_all based, by dissolving features based on the field watershed_min.   The features from watershed_all have been manually digitized by Marin CDA from a sources such as a pre 1990's 42x64 watershed map of the Marin and 1997 -  5' or 10' digital contours."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s70k56"
+  ],
+  "dct_publisher_sm": [
+    "San Rafael (Calif.). County Of Marin."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Watershed",
+    "Inlandwaters"
+  ],
+  "dct_title_s": "Watershed (Major)",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s70k56/data.zip\"}",
+  "dct_spatial_sm": [
+    "Marin County (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s70k56",
+  "gbl_mdModified_dt": "2012-11-28T23:35:32.577Z",
+  "id": "ark28722-s70k56",
+  "locn_geometry": "ENVELOPE(-123.036191, -122.436638, 38.329444, 37.805713)",
+  "dcat_bbox": "ENVELOPE(-123.036191, -122.436638, 38.329444, 37.805713)",
+  "gbl_indexYear_im": [
+    2011
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

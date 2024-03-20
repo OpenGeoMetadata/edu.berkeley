@@ -1,0 +1,46 @@
+{
+  "dct_creator_sm": [
+    "Elections"
+  ],
+  "dct_description_sm": [
+    "Polling Places as of June 15, 2004.  Derived from SQLServer DB, GISPUB.Elections.WebSitePollLookupGIS."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7zs36"
+  ],
+  "dct_publisher_sm": [
+    "San Francisco (Calif.). Department Of Telecommunications and Information Services."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Elections",
+    "Polling Places"
+  ],
+  "dct_title_s": "Polling Places - Elections",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7zs36/data.zip\"}",
+  "dct_spatial_sm": [
+    "San Francisco County (Calif.)",
+    "San Francisco (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "2004"
+  ],
+  "gbl_resourceType_sm": [
+    "Point data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7zs36",
+  "gbl_mdModified_dt": "2012-11-28T23:34:45.687Z",
+  "id": "ark28722-s7zs36",
+  "locn_geometry": "ENVELOPE(-122.510231, -122.366841, 37.824901, 37.707735)",
+  "dcat_bbox": "ENVELOPE(-122.510231, -122.366841, 37.824901, 37.707735)",
+  "gbl_indexYear_im": [
+    2004
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

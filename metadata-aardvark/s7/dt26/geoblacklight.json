@@ -1,0 +1,42 @@
+{
+  "dct_creator_sm": [
+    "Geographic Information Systems, Sonoma County (Calif.)., California "
+  ],
+  "dct_description_sm": [
+    "The urban service area (USA) dataset represents the designated limit to the urban development of unincorporated communities per Sonoma County's General Plan 2020 as adopted on September 23, 2008 by Resolution No. 08-0808. Currently, there are 21 unincorporated urban service communities within Sonoma County. The communities are limited to urban development through urban services which is the full range of public services and infrastructures including sewer, water, police and fire protection, roads, transit, etc. Per General Plan Land Use 2020 adoption on 09/23/2008 by the Board of Supervisors, USA's were updated to reflect changes in service areas, spheres of influence and city urban growth boundaries (Reso. No. 08-0808). The 21 urban service areas are as follows: Airport Bodega Bay Cloverdale Cotati Forestville Geyserville Graton Guerneville Healdsburg Larkfield Monte Rio Occidental Penngrove Petaluma Rohnert Park Santa Rosa Sea Ranch Sebastopol Sonoma Sonoma Valley Windsor To note, according to 2012 California Environmental Quality Act (CEQA) Guidelines Chapter 2.5 Definitions addresses \"Urbanized Area\" and defines \"urban growth boundary\" as a provision of a locally adopted general plan that allows urban uses one side of the boundary and prohibits urban uses on the other side."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7dt26"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Boundaries",
+    "Environment",
+    "General Plan",
+    "Urban Service Area"
+  ],
+  "dct_title_s": "Urban Service Areas, Sonoma County, California, 2012",
+  "dct_issued_s": "2012-12-01",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7dt26/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7dt26/data.zip\"}",
+  "dct_spatial_sm": [
+    "Sonoma County (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7dt26",
+  "gbl_mdModified_dt": "2018-04-03T23:34:35.206Z",
+  "id": "berkeley-s7dt26",
+  "locn_geometry": "ENVELOPE(-123.528873, -122.42885, 38.835664, 38.197069)",
+  "dcat_bbox": "ENVELOPE(-123.528873, -122.42885, 38.835664, 38.197069)",
+  "gbl_indexYear_im": [
+    2012
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

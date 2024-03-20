@@ -1,0 +1,46 @@
+{
+  "dct_creator_sm": [
+    "Towill Incorporated"
+  ],
+  "dct_description_sm": [
+    "Elevation contours corresponding to digital orthophotographs rectified to ground control corresponding to 200 scale mapping (1 inch = 200 feet) covering Marin County city-centered corridor and selected developed areas of West Marin.  Five-foot contours interior to the Index contours (50 foot). Use in conjunction with C200IDX Index fifty-foot contours."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7t88p"
+  ],
+  "dct_publisher_sm": [
+    "San Francisco (Calif.). Towill Incorporated."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Topography",
+    "Contours",
+    "Elevation"
+  ],
+  "dct_title_s": "Interior contours, 200 scale",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7t88p/data.zip\"}",
+  "dct_spatial_sm": [
+    "Marin County (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "1999"
+  ],
+  "gbl_resourceType_sm": [
+    "Line data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7t88p",
+  "gbl_mdModified_dt": "2012-11-28T23:34:40.348Z",
+  "id": "ark28722-s7t88p",
+  "locn_geometry": "ENVELOPE(-122.975003, -122.417387, 38.273805, 37.815267)",
+  "dcat_bbox": "ENVELOPE(-122.975003, -122.417387, 38.273805, 37.815267)",
+  "gbl_indexYear_im": [
+    1999
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

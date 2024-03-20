@@ -1,0 +1,41 @@
+{
+  "dct_creator_sm": [
+    "Alameda County Registrar of Voters "
+  ],
+  "dct_description_sm": [
+    "U.S. Congressional Districts with district boundaries, within the extent of Alameda County; districts have been updated to show 2011 redistricting changesNOTE: The new district boundaries are to be used in 2012 for the purpose of determining boundaries for voters voting in the 2012 primary and general elections. Individuals elected to these offices in November 2012 will represent the newly configured districts when they are sworn into office in January 2013."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7911z"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Boundaries",
+    "Legislative Districts",
+    "United States. Congress--election Districts"
+  ],
+  "dct_title_s": "US Congressional Districts, Alameda County, California, 2011",
+  "dct_issued_s": "2012-01-01",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7911z/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7911z/data.zip\"}",
+  "dct_spatial_sm": [
+    "Alameda County (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7911z",
+  "gbl_mdModified_dt": "2018-03-28T23:34:35.206Z",
+  "id": "berkeley-s7911z",
+  "locn_geometry": "ENVELOPE(-122.349013, -121.468933, 37.915926, 37.448458)",
+  "dcat_bbox": "ENVELOPE(-122.349013, -121.468933, 37.915926, 37.448458)",
+  "gbl_indexYear_im": [
+    2011
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

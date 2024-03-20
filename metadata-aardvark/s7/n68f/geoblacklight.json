@@ -1,0 +1,44 @@
+{
+  "dct_creator_sm": [
+    "San Benito County (Calif.) -- Information Technology"
+  ],
+  "dct_description_sm": [
+    "This polyline dataset shows centerlines for all existing roadways within San Benito County, California in 2016."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7n68f"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Transportation",
+    "Centerlines",
+    "Streets",
+    "Roads",
+    "Highways",
+    "Roadways",
+    "Thoroughfares"
+  ],
+  "dct_title_s": "Street Centerlines, San Benito County, California, 2016",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7n68f/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7n68f/data.zip\"}",
+  "dct_spatial_sm": [
+    "San Benito County (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Line data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7n68f",
+  "gbl_mdModified_dt": "2018-04-10T23:34:35.206Z",
+  "id": "berkeley-s7n68f",
+  "locn_geometry": "ENVELOPE(-121.647244, -120.616364, 36.991453, 36.171639)",
+  "dcat_bbox": "ENVELOPE(-121.647244, -120.616364, 36.991453, 36.171639)",
+  "gbl_indexYear_im": [
+    2016
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

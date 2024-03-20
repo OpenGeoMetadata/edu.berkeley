@@ -1,0 +1,40 @@
+{
+  "dct_creator_sm": [
+    "Stanislaus County (Calif.)"
+  ],
+  "dct_description_sm": [
+    "This polyline dataset represents existing road centerlines in Stanislaus County, California for 2014."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7v10j"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Transportation",
+    "Roads"
+  ],
+  "dct_title_s": "Roads, Stanislaus County, California, 2014",
+  "dct_issued_s": "2014-10-22",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7v10j/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7v10j/data.zip\"}",
+  "dct_spatial_sm": [
+    "Stanislaus County (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Line data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7v10j",
+  "gbl_mdModified_dt": "2018-03-15T23:34:35.206Z",
+  "id": "berkeley-s7v10j",
+  "locn_geometry": "ENVELOPE(-121.465803, -120.392476, 38.012283, 37.20635)",
+  "dcat_bbox": "ENVELOPE(-121.465803, -120.392476, 38.012283, 37.20635)",
+  "gbl_indexYear_im": [
+    2014
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

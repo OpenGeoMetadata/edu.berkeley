@@ -1,0 +1,42 @@
+{
+  "dct_creator_sm": [
+    "Placer County (Calif.) -- Community Development Resource Agency"
+  ],
+  "dct_description_sm": [
+    "This polyline dataset shows all natural stream names and locations within Placer County, California as of 2010. Original coverage was compiled from USGS 1:24000 quadrangles and other Placer County sources."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7968b"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Inlandwaters",
+    "Rivers",
+    "Bodies Of Water",
+    "Hydrology"
+  ],
+  "dct_title_s": "Streams, Placer County, California, 2010",
+  "dct_issued_s": "2010-01-01",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7968b/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7968b/data.zip\"}",
+  "dct_spatial_sm": [
+    "Placer County (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Line data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7968b",
+  "gbl_mdModified_dt": "2018-03-15T23:34:35.206Z",
+  "id": "berkeley-s7968b",
+  "locn_geometry": "ENVELOPE(-121.627087, -119.944857, 39.453958, 38.643041)",
+  "dcat_bbox": "ENVELOPE(-121.627087, -119.944857, 39.453958, 38.643041)",
+  "gbl_indexYear_im": [
+    2010
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

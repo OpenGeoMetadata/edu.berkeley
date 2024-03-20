@@ -1,0 +1,45 @@
+{
+  "dct_creator_sm": [
+    "City of Oakland, California"
+  ],
+  "dct_description_sm": [
+    "Redevelopment areas in Oakland, California"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7x016"
+  ],
+  "dct_publisher_sm": [
+    "Oakland (Calif.)"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Boundaries",
+    "Administrative and Political Divisions"
+  ],
+  "dct_title_s": "Redevelopment Areas Oakland California 2011",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7x016/data.zip\"}",
+  "dct_spatial_sm": [
+    "Oakland (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7x016",
+  "gbl_mdModified_dt": "2012-11-28T23:35:01.396Z",
+  "id": "ark28722-s7x016",
+  "locn_geometry": "ENVELOPE(-122.343704, -122.137352, 37.852625, 37.721179)",
+  "dcat_bbox": "ENVELOPE(-122.343704, -122.137352, 37.852625, 37.721179)",
+  "gbl_indexYear_im": [
+    2010
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "dct_creator_sm": [
+    "Alameda County Registrar of Voters "
+  ],
+  "dct_description_sm": [
+    "Sanitation Districts with the extent of Alameda County; boundaries have been updated to show 2011-2012 redistriciting changes"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7g97j"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Boundaries",
+    "Utilitiescommunication",
+    "Sanitation Systems"
+  ],
+  "dct_title_s": "Sanitation Districts, Alameda County, California, 2011",
+  "dct_issued_s": "2007-08-01",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7g97j/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7g97j/data.zip\"}",
+  "dct_spatial_sm": [
+    "Alameda County (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7g97j",
+  "gbl_mdModified_dt": "2018-03-27T23:34:35.206Z",
+  "id": "berkeley-s7g97j",
+  "locn_geometry": "ENVELOPE(-122.193567, -121.87263, 37.741048, 37.451754)",
+  "dcat_bbox": "ENVELOPE(-122.193567, -121.87263, 37.741048, 37.451754)",
+  "gbl_indexYear_im": [
+    2011
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

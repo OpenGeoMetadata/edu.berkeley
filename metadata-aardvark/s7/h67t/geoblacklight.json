@@ -1,0 +1,44 @@
+{
+  "dct_creator_sm": [
+    "Kern County (Calif.) -- Planning and Community Development"
+  ],
+  "dct_description_sm": [
+    "This polygonal dataset shows the geographic boundaries of land uses designated by the General Plan in Santa Clara County, California in 2009.The general plan is a composite of many policies, programs and intended actions to govern the future physical development of the five million acres of unincorporated Kern County. This feature layer is updated periodically throughout each year. For Land Use Descriptions, please see the Land Use, Open Space, and Conservation Element of the Kern County General Plan document located at http://pcd.kerndsa.com/planning/planning-documents/general-plans. Last update: March, 2013 "
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7h67t"
+  ],
+  "dct_publisher_sm": [
+    "Kern County (Calif.) -- Engineering, Surveying and Permit Services "
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Planningcadastre",
+    "Land Use",
+    "Planning"
+  ],
+  "dct_title_s": "General Plan Land Use Designations, Kern County, California, 2009",
+  "dct_issued_s": "2013-03-01",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7h67t/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7h67t/data.zip\"}",
+  "dct_spatial_sm": [
+    "Kern County (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7h67t",
+  "gbl_mdModified_dt": "2018-02-23T23:34:35.206Z",
+  "id": "berkeley-s7h67t",
+  "locn_geometry": "ENVELOPE(-120.198674, -117.615784, 35.808877, 34.772396)",
+  "dcat_bbox": "ENVELOPE(-120.198674, -117.615784, 35.808877, 34.772396)",
+  "gbl_indexYear_im": [
+    2009
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

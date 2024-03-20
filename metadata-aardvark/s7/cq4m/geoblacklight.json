@@ -1,0 +1,41 @@
+{
+  "dct_creator_sm": [
+    "San Benito County (Calif.) -- Information Technology"
+  ],
+  "dct_description_sm": [
+    "This polygon dataset shows all existing lakes and reservoirs within San Benito County, California as of 2016. Hydrology representing major hydrologic features digitized from 1:24,000-scale USGS topographic maps. This is selected hydrologic features, not all hydrologic features found on the USGS topographic maps. This data is used for illustrative and modeling purposes to meet the needs of the U.S. Bureau of Reclamation. This database is not intended to be used as a land survey or representation of land for conveyance or tax purposes. The database is available to all users that may require this information."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7cq4m"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Inlandwaters",
+    "Lakes",
+    "Bodies Of Water",
+    "Reservoirs"
+  ],
+  "dct_title_s": "Lakes & Reservoirs, San Benito County, California, 2016",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7cq4m/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7cq4m/data.zip\"}",
+  "dct_spatial_sm": [
+    "San Benito County (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7cq4m",
+  "gbl_mdModified_dt": "2018-04-10T23:34:35.206Z",
+  "id": "berkeley-s7cq4m",
+  "locn_geometry": "ENVELOPE(-121.604243, -120.792096, 36.996798, 36.295312)",
+  "dcat_bbox": "ENVELOPE(-121.604243, -120.792096, 36.996798, 36.295312)",
+  "gbl_indexYear_im": [
+    2016
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

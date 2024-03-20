@@ -1,0 +1,44 @@
+{
+  "dct_creator_sm": [
+    "Solano County Department of Information Technology - GIS Services"
+  ],
+  "dct_description_sm": [
+    "This point layer contains the locations and names of 'populated places' within the County of Solano. The source data for this layer is Teale Data Center's California specific extraction of the U.S. Geological Survey's Geographic Names Information System (GNIS) datafiles. These features are compiled mainly from USGS map products, such as the 7.5' 1:24,000 quads. Modifications were made to the source data to suit the intended purpose of the layer."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7gg6w"
+  ],
+  "dct_publisher_sm": [
+    "Fairfield (Calif.). Solano County Department Of Information Technology - Gis Services."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Planning and Cadastral"
+  ],
+  "dct_title_s": "Cities - Solano County City Locations",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7gg6w/data.zip\"}",
+  "dct_spatial_sm": [
+    "Solano County (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "2007"
+  ],
+  "gbl_resourceType_sm": [
+    "Point data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7gg6w",
+  "gbl_mdModified_dt": "2012-11-28T23:34:34.846Z",
+  "id": "ark28722-s7gg6w",
+  "locn_geometry": "ENVELOPE(-122.295559, -121.619598, 38.531567, 38.048851)",
+  "dcat_bbox": "ENVELOPE(-122.295559, -121.619598, 38.531567, 38.048851)",
+  "gbl_indexYear_im": [
+    2007
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

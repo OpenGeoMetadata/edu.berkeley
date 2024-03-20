@@ -1,0 +1,51 @@
+{
+  "dct_creator_sm": [
+    "Lynsey Wickman: County of Napa Conservation, Development   Planning Department"
+  ],
+  "dct_description_sm": [
+    "Airport Land Use Commission Zones around Parrett Field and Angwin Airport."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7160t"
+  ],
+  "dct_publisher_sm": [
+    "Napa County (Calif.). County Of Napa."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Planningcadastre",
+    "Boundaries",
+    "Land Use",
+    "Planning",
+    "Zoning"
+  ],
+  "dct_title_s": "Angwin Airport Compatibility Zone",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7160t/data.zip\"}",
+  "dct_spatial_sm": [
+    "Napa County (Calif.)",
+    "Angwin (Calif.)",
+    "Parrett Field (Calif.)",
+    "Angwin Airport (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7160t",
+  "gbl_mdModified_dt": "2012-11-28T23:34:19.075Z",
+  "id": "ark28722-s7160t",
+  "locn_geometry": "ENVELOPE(-122.444035, -122.417165, 38.593433, 38.556439)",
+  "dcat_bbox": "ENVELOPE(-122.444035, -122.417165, 38.593433, 38.556439)",
+  "gbl_indexYear_im": [
+    2010
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

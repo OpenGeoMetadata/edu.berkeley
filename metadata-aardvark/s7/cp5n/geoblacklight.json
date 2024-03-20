@@ -1,0 +1,57 @@
+{
+  "dct_creator_sm": [
+    "San Mateo County"
+  ],
+  "dct_description_sm": [
+    "Pacific Ocean coast from Monterey Bay to Gualala Point, including San Francisco Bay"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7cp5n"
+  ],
+  "dct_publisher_sm": [
+    "San Mateo County (Calif.). County Of San Mateo."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Ocean",
+    "Estuaries"
+  ],
+  "dct_title_s": "Pacific Ocean and San Francisco Bay California",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7cp5n/data.zip\"}",
+  "dct_spatial_sm": [
+    "San Francisco Bay (Calif.)",
+    "San Francisco Bay Area (Calif.)",
+    "Alameda County (Calif.)",
+    "Contra Costa County (Calif.)",
+    "Marin County (Calif.)",
+    "Napa County (Calif.)",
+    "San Francisco County (Calif.)",
+    "San Francisco (Calif.)",
+    "San Mateo County (Calif.)",
+    "Santa Clara County (Calif.)",
+    "Solano County (Calif.)",
+    "Sonoma County (Calif.)",
+    "Pacific Ocean"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7cp5n",
+  "gbl_mdModified_dt": "2012-11-28T23:34:55.969Z",
+  "id": "ark28722-s7cp5n",
+  "locn_geometry": "ENVELOPE(-122.623776, -122.010267, 37.754184, 37.015712)",
+  "dcat_bbox": "ENVELOPE(-122.623776, -122.010267, 37.754184, 37.015712)",
+  "gbl_indexYear_im": [
+    2011
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

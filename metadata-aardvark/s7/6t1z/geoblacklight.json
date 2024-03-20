@@ -1,0 +1,44 @@
+{
+  "dct_creator_sm": [
+    "San Benito County (Calif.) -- Information Technology"
+  ],
+  "dct_description_sm": [
+    "This polygon dataset showsthe boundaries of all existing parks and recreational spaces within San Benito County, California as of 2016. Attributes include pertinent information about governing agencies and jurisdictions. "
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s76t1z"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Boundaries",
+    "Environment",
+    "Health",
+    "Parks",
+    "Recreation Areas",
+    "Open Spaces"
+  ],
+  "dct_title_s": "Parks, San Benito County, California, 2016",
+  "dct_issued_s": "2016-03-31",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s76t1z/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s76t1z/data.zip\"}",
+  "dct_spatial_sm": [
+    "San Benito County (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s76t1z",
+  "gbl_mdModified_dt": "2018-03-26T23:34:35.206Z",
+  "id": "berkeley-s76t1z",
+  "locn_geometry": "ENVELOPE(-121.540028, -120.596588, 36.885689, 36.291005)",
+  "dcat_bbox": "ENVELOPE(-121.540028, -120.596588, 36.885689, 36.291005)",
+  "gbl_indexYear_im": [
+    2016
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

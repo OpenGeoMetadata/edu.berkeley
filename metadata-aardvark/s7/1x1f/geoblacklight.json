@@ -1,0 +1,39 @@
+{
+  "dct_creator_sm": [
+    "Department of Information Technology, City of Berkeley "
+  ],
+  "dct_description_sm": [
+    "This dataset, developed by the Department of Information Technology, is used to identify the street grid of Berkeley, California. "
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s71x1f"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Transportation",
+    "Streets"
+  ],
+  "dct_title_s": "Streets, Berkeley, California, 2009",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s71x1f/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s71x1f/data.zip\"}",
+  "dct_spatial_sm": [
+    "Berkeley (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Line data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s71x1f",
+  "gbl_mdModified_dt": "2018-04-03T23:34:35.206Z",
+  "id": "berkeley-s71x1f",
+  "locn_geometry": "ENVELOPE(-122.328309, -122.205766, 37.945666, 37.832172)",
+  "dcat_bbox": "ENVELOPE(-122.328309, -122.205766, 37.945666, 37.832172)",
+  "gbl_indexYear_im": [
+    2009
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

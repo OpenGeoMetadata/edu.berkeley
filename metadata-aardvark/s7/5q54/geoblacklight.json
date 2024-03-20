@@ -1,0 +1,45 @@
+{
+  "dct_creator_sm": [
+    "California. Department of Water Resources"
+  ],
+  "dct_description_sm": [
+    "This polyline dataset represents all inland waters for Shasta County, California in 2003. The hydrography layer consists of flowing waters (rivers and streams), standing waters (lakes and ponds), and wetlands -- both natural and manmade. Line features have attribute codes that represent streams or shorelines. This dataset originally aquired from the Watershed Information Model at http://www.westernshastarcd.org/wim.html"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s75q54"
+  ],
+  "dct_publisher_sm": [
+    "Vestra Resources, Inc. "
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Inlandwaters",
+    "Fresh Water",
+    "Inland Water",
+    "Hydrology"
+  ],
+  "dct_title_s": "Streams, Shasta County, California, 2003",
+  "dct_issued_s": "2003-08-06",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s75q54/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s75q54/data.zip\"}",
+  "dct_spatial_sm": [
+    "Shasta County (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Line data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s75q54",
+  "gbl_mdModified_dt": "2018-03-28T23:34:35.206Z",
+  "id": "berkeley-s75q54",
+  "locn_geometry": "ENVELOPE(-123.058579, -121.307461, 41.197043, 40.281195)",
+  "dcat_bbox": "ENVELOPE(-123.058579, -121.307461, 41.197043, 40.281195)",
+  "gbl_indexYear_im": [
+    2003
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

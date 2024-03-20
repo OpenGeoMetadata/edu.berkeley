@@ -1,0 +1,45 @@
+{
+  "dct_creator_sm": [
+    "MarinMap"
+  ],
+  "dct_description_sm": [
+    "Historic Resources of Marin County were digitized from a list of known historic locations provided by the State Office of Historic Resources."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7v307"
+  ],
+  "dct_publisher_sm": [
+    "San Rafael (Calif.). County Of Marin."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Demographics",
+    "Society"
+  ],
+  "dct_title_s": "Historic Resources Marin County 2005",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7v307/data.zip\"}",
+  "dct_spatial_sm": [
+    "Marin County (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "2004"
+  ],
+  "gbl_resourceType_sm": [
+    "Point data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7v307",
+  "gbl_mdModified_dt": "2012-11-28T23:34:56.057Z",
+  "id": "ark28722-s7v307",
+  "locn_geometry": "ENVELOPE(-123.032592, -122.420026, 38.254342, 37.806193)",
+  "dcat_bbox": "ENVELOPE(-123.032592, -122.420026, 38.254342, 37.806193)",
+  "gbl_indexYear_im": [
+    2004
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

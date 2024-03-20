@@ -1,0 +1,45 @@
+{
+  "dct_creator_sm": [
+    "CalAtlas"
+  ],
+  "dct_description_sm": [
+    "Areas in California owned by the United States Department of Defence within California Protected Areas"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7g59x"
+  ],
+  "dct_publisher_sm": [
+    "Oakland (Calif.). Greeninfo.org"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Environment",
+    "Conservation"
+  ],
+  "dct_title_s": "California Protected Areas Database Department of Defense Areas 2009",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7g59x/data.zip\"}",
+  "dct_spatial_sm": [
+    "California"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7g59x",
+  "gbl_mdModified_dt": "2012-11-28T23:34:45.556Z",
+  "id": "ark28722-s7g59x",
+  "locn_geometry": "ENVELOPE(-122.881745, -114.44479, 40.321997, 32.478793)",
+  "dcat_bbox": "ENVELOPE(-122.881745, -114.44479, 40.321997, 32.478793)",
+  "gbl_indexYear_im": [
+    2011
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

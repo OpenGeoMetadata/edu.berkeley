@@ -1,0 +1,47 @@
+{
+  "dct_creator_sm": [
+    "MTC"
+  ],
+  "dct_description_sm": [
+    "Bicycle routes in Sonoma County, California"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7459t"
+  ],
+  "dct_publisher_sm": [
+    "California. Metropolitan Transportation Commission."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Transportation",
+    "Bikes",
+    "Bike Routes",
+    "Bike Networks"
+  ],
+  "dct_title_s": "Bike Routes Sonoma County 2006",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7459t/data.zip\"}",
+  "dct_spatial_sm": [
+    "Sonoma County (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "2003"
+  ],
+  "gbl_resourceType_sm": [
+    "Line data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7459t",
+  "gbl_mdModified_dt": "2012-11-28T23:34:29.543Z",
+  "id": "ark28722-s7459t",
+  "locn_geometry": "ENVELOPE(-123.021896, -122.443256, 38.807193, 38.207565)",
+  "dcat_bbox": "ENVELOPE(-123.021896, -122.443256, 38.807193, 38.207565)",
+  "gbl_indexYear_im": [
+    2003
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

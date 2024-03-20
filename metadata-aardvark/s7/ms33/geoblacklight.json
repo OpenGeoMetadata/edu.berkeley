@@ -1,0 +1,47 @@
+{
+  "dct_creator_sm": [
+    "Marin County Community Development Agency"
+  ],
+  "dct_description_sm": [
+    "Bikeways were defined by the \"Marin County Bicycle and Pedestrian Master Plan\" (January 2000) and \"Marin County Unincorporated Area Bicycle and Pedestrian Master Plan\" (June 2001) by Alta Transportation Consulting.  Data was both digitized and extracted from existing road data.\n\nAttribute BIKECLASS is defined as:\n1 = Existing Bike Paths (Class 1)\n2 = Existing Bike Lanes/Shoulders (Class 2)\n3 = Existing Bike Routes (Class 3)\n\nAttribute BIKEPROP is defined as:\n1 = Proposed Bike Paths (Class 1)\n2 = Proposed Bike Lanes/Shoulders (Class 2)\n3 = Proposed Bike Routes (Class 3)"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7ms33"
+  ],
+  "dct_publisher_sm": [
+    "San Rafael (Calif.). County Of Marin."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Bikes",
+    "Bike Routes",
+    "Bike Networks",
+    "Transportation"
+  ],
+  "dct_title_s": "Bikeway",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7ms33/data.zip\"}",
+  "dct_spatial_sm": [
+    "Marin County (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "2007"
+  ],
+  "gbl_resourceType_sm": [
+    "Line data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7ms33",
+  "gbl_mdModified_dt": "2012-11-28T23:34:29.555Z",
+  "id": "ark28722-s7ms33",
+  "locn_geometry": "ENVELOPE(-122.839783, -122.406402, 38.194766, 37.802318)",
+  "dcat_bbox": "ENVELOPE(-122.839783, -122.406402, 38.194766, 37.802318)",
+  "gbl_indexYear_im": [
+    2007
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

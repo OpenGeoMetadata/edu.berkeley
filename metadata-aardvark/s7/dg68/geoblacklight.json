@@ -1,0 +1,56 @@
+{
+  "dct_creator_sm": [
+    "MTC"
+  ],
+  "dct_description_sm": [
+    "All transit stations, including bus, light rail, and commuter rail, in the San Francisco Bay Area, California"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7dg68"
+  ],
+  "dct_publisher_sm": [
+    "California. Metropolitan Transportation Commission."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Transportation",
+    "Transit Networks"
+  ],
+  "dct_title_s": "San Francisco Bay Area Transit Stations 2008",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7dg68/data.zip\"}",
+  "dct_spatial_sm": [
+    "San Francisco Bay (Calif.)",
+    "San Francisco Bay Area (Calif.)",
+    "Alameda County (Calif.)",
+    "Contra Costa County (Calif.)",
+    "Marin County (Calif.)",
+    "Napa County (Calif.)",
+    "San Francisco County (Calif.)",
+    "San Francisco (Calif.)",
+    "San Mateo County (Calif.)",
+    "Santa Clara County (Calif.)",
+    "Solano County (Calif.)",
+    "Sonoma County (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "2003"
+  ],
+  "gbl_resourceType_sm": [
+    "Point data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7dg68",
+  "gbl_mdModified_dt": "2012-11-28T23:35:32.477Z",
+  "id": "ark28722-s7dg68",
+  "locn_geometry": "ENVELOPE(-122.992371, -121.082031, 38.904182, 37.003784)",
+  "dcat_bbox": "ENVELOPE(-122.992371, -121.082031, 38.904182, 37.003784)",
+  "gbl_indexYear_im": [
+    2003
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

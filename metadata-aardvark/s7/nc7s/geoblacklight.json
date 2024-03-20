@@ -1,0 +1,45 @@
+{
+  "dct_creator_sm": [
+    "County of Marin"
+  ],
+  "dct_description_sm": [
+    "Planning Areas are subsets of Environmental Corridors.  Six planning areas are in the City-centered corridor and are defined by major watersheds draining into San Pablo Bay.  A seventh planning area is comprised on the Inland Rural and Coastal Recreation corridors.  Census tract data are aggregated to Planning Areas for reporting purposes."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7nc7s"
+  ],
+  "dct_publisher_sm": [
+    "San Rafael (Calif.). County Of Marin Community Development Agency."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Planning and Cadastral",
+    "Land Use"
+  ],
+  "dct_title_s": "Planning Area",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7nc7s/data.zip\"}",
+  "dct_spatial_sm": [
+    "Marin County (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "2007"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7nc7s",
+  "gbl_mdModified_dt": "2012-11-28T23:35:06.548Z",
+  "id": "ark28722-s7nc7s",
+  "locn_geometry": "ENVELOPE(-123.036191, -122.346189, 38.330904, 37.805713)",
+  "dcat_bbox": "ENVELOPE(-123.036191, -122.346189, 38.330904, 37.805713)",
+  "gbl_indexYear_im": [
+    2007
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

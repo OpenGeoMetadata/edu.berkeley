@@ -1,0 +1,45 @@
+{
+  "dct_creator_sm": [
+    "California Department of Forestry and Fire Protection (using data from BOR and DOC FMMP)"
+  ],
+  "dct_description_sm": [
+    "In late 1996, the Dept of Conservation (DOC) surveyed state and federal agencies about the county boundary coverage they used. As a result, DOC adopted the 1:24, 000 scale Bureau of Reclamation dataset (USGS source) for their Farmland Mapping and Monitoring Program (FMMP) but with several major and minor modifications. Detailed documentation of these changes is provided by FMMP and included as part of the data dictionary."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7vc7n"
+  ],
+  "dct_publisher_sm": [
+    "California. California Department Of Forestry and Fire Protection."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Boundaries",
+    "Administrative and Political Divisions"
+  ],
+  "dct_title_s": "County Boundaries (1:24000)",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7vc7n/data.zip\"}",
+  "dct_spatial_sm": [
+    "California"
+  ],
+  "dct_temporal_sm": [
+    "2004"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7vc7n",
+  "gbl_mdModified_dt": "2012-11-28T23:34:35.048Z",
+  "id": "ark28722-s7vc7n",
+  "locn_geometry": "ENVELOPE(-124.510455, -113.497021, 42.068685, 32.423594)",
+  "dcat_bbox": "ENVELOPE(-124.510455, -113.497021, 42.068685, 32.423594)",
+  "gbl_indexYear_im": [
+    2004
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

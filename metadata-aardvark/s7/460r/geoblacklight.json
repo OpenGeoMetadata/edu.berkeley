@@ -1,0 +1,44 @@
+{
+  "dct_creator_sm": [
+    "San Mateo County"
+  ],
+  "dct_description_sm": [
+    "This data layer portrays all streets, roads and highways in San Mateo County. Lynx Technologies, Inc. compiled this data layer in 2000-2001. Lynx compiled the parcel layer from County AutoCAD drawings and Fire Run maps as well as electronic data supplied by Cities within the County. The final layer was adjusted to best fit the Countys 200-scale orthophotography base. Street name attribution was derived from multiple sources. Farallon Geographics converted all data from ARC/Info coverages into Oracle Spatial. San Mateo County Public Works Department currently maintains the streets layer."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7460r"
+  ],
+  "dct_publisher_sm": [
+    "San Mateo County (Calif.). County Of San Mateo."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Transportation"
+  ],
+  "dct_title_s": "Streets San Mateo County 2001",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7460r/data.zip\"}",
+  "dct_spatial_sm": [
+    "San Mateo County (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "gbl_resourceType_sm": [
+    "Line data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7460r",
+  "gbl_mdModified_dt": "2012-11-28T23:34:55.984Z",
+  "id": "ark28722-s7460r",
+  "locn_geometry": "ENVELOPE(-122.50807, -122.08482, 37.71442, 37.10413)",
+  "dcat_bbox": "ENVELOPE(-122.50807, -122.08482, 37.71442, 37.10413)",
+  "gbl_indexYear_im": [
+    2011
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

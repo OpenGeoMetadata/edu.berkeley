@@ -1,0 +1,46 @@
+{
+  "dct_creator_sm": [
+    "City of Berkeley, CA"
+  ],
+  "dct_description_sm": [
+    "The City of Berkeley's council districts created during 2002 redistricting."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7rp4p"
+  ],
+  "dct_publisher_sm": [
+    "Berkeley (Calif.). City Of Berkeley."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Boundaries",
+    "Administrative and Political Divisions"
+  ],
+  "dct_title_s": "Council Districts Berkeley, California 2002",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7rp4p/data.zip\"}",
+  "dct_spatial_sm": [
+    "Berkeley (Calif.)",
+    "Alameda County (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "2002"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7rp4p",
+  "gbl_mdModified_dt": "2012-11-28T23:34:40.472Z",
+  "id": "ark28722-s7rp4p",
+  "locn_geometry": "ENVELOPE(-122.325148, -122.233609, 37.907046, 37.845623)",
+  "dcat_bbox": "ENVELOPE(-122.325148, -122.233609, 37.907046, 37.845623)",
+  "gbl_indexYear_im": [
+    2002
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

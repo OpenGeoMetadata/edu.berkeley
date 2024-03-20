@@ -1,0 +1,44 @@
+{
+  "dct_creator_sm": [
+    "Butte County (Calif.) -- Geographic Information Systems"
+  ],
+  "dct_description_sm": [
+    "This polygonal dataset represents the property boundaries (polygon) of public parks within Butte County, California. The layer was developed for cartographic purposes but is also suitable for minor analysis and general reference. It represents parks posted on city, town, and district web-sites as of August 2005. This layer does not contain state or federal parks."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s71d5s"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Boundaries",
+    "Environment",
+    "Planningcadastre",
+    "Park Facilities",
+    "Recreation Areas",
+    "Public Spaces"
+  ],
+  "dct_title_s": "Parks, Butte County, California, 2005",
+  "dct_issued_s": "2005-08-01",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s71d5s/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s71d5s/data.zip\"}",
+  "dct_spatial_sm": [
+    "Butte County (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s71d5s",
+  "gbl_mdModified_dt": "2018-04-10T23:34:35.206Z",
+  "id": "berkeley-s71d5s",
+  "locn_geometry": "ENVELOPE(-121.883378, -121.269629, 39.846761, 39.356811)",
+  "dcat_bbox": "ENVELOPE(-121.883378, -121.269629, 39.846761, 39.356811)",
+  "gbl_indexYear_im": [
+    2005
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

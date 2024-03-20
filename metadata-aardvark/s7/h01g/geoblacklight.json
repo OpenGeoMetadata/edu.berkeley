@@ -1,0 +1,46 @@
+{
+  "dct_creator_sm": [
+    "MarinMap, Marin Telecommunications Agency"
+  ],
+  "dct_description_sm": [
+    "These files contain building outline products for Marin County. The project encompasses the Urban/Suburban land area of Marin County with a 200 feet fringe outside the county boundary. The Digital Terrain Models (DTM) data developed over the Urban/Suburban area mainland covers approximately 210 square miles and over the rural and forest areas covering approximately 525 sq. miles to produce the 100 scale and 400 scale mapping Contours and Ortho Imagery. Builiding footprint outlines cover the same extent as the DTM. Building footprints were produced using stereo pairs from the 2004 orthophoto project to ensure that the on ground bases were captured, and are accurately depicted against a backdrop of the orthophoto sources."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7h01g"
+  ],
+  "dct_publisher_sm": [
+    "San Rafael (Calif.). County Of Marin Director Of Public Works."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Building Outlines",
+    "Building Footprints",
+    "Structure"
+  ],
+  "dct_title_s": "Building Footprint",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7h01g/data.zip\"}",
+  "dct_spatial_sm": [
+    "Marin County (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "2004"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7h01g",
+  "gbl_mdModified_dt": "2012-11-28T23:34:29.625Z",
+  "id": "ark28722-s7h01g",
+  "locn_geometry": "ENVELOPE(-123.03439, -122.418058, 38.328821, 37.815179)",
+  "dcat_bbox": "ENVELOPE(-123.03439, -122.418058, 38.328821, 37.815179)",
+  "gbl_indexYear_im": [
+    2004
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

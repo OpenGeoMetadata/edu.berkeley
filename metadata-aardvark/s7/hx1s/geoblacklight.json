@@ -1,0 +1,41 @@
+{
+  "dct_creator_sm": [
+    "Infor Alameda County "
+  ],
+  "dct_description_sm": [
+    "Updates and replaces Business Improvement Districts shapefile. Edits (addition/deletion of parcels) were made to the following districts in May 2009: Koreatown/North Gate, Temescal/Telegraph and Fruitvale. Also, two new districts were added that were established on July 15, 2008: Downtown Oakland and Lake Merritt."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7hx1s"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Boundaries",
+    "Society",
+    "Business Improvemnt District (BID)",
+    "Business Revitalization Zone (BRZ)"
+  ],
+  "dct_title_s": "Business Improvement Districts, Oakland, California, 2009",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7hx1s/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7hx1s/data.zip\"}",
+  "dct_spatial_sm": [
+    "Oakland (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7hx1s",
+  "gbl_mdModified_dt": "2018-03-01T23:34:35.206Z",
+  "id": "berkeley-s7hx1s",
+  "locn_geometry": "ENVELOPE(-122.276243, -122.194137, 37.853788, 37.771332)",
+  "dcat_bbox": "ENVELOPE(-122.276243, -122.194137, 37.853788, 37.771332)",
+  "gbl_indexYear_im": [
+    2009
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

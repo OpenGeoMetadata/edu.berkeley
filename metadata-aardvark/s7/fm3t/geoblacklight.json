@@ -1,0 +1,44 @@
+{
+  "dct_creator_sm": [
+    "Placer County Community Development Resource Agency-Geographic Information Systems Division"
+  ],
+  "dct_description_sm": [
+    "Placer County zoning vector data. Contains polygon data with zoning attributes (zoning). Refer to the Placer County Zoning Ordinance for detailed descriptions of zoning attributes. "
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7fm3t"
+  ],
+  "dct_publisher_sm": [
+    "Placer County"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Environment",
+    "Planningcadastre",
+    "Land Use"
+  ],
+  "dct_title_s": "Zoning, Placer County, California, 2014",
+  "dct_issued_s": "2014-09-02",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7fm3t/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7fm3t/data.zip\"}",
+  "dct_spatial_sm": [
+    "Placer County (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7fm3t",
+  "gbl_mdModified_dt": "2010-01-27T23:34:35.206Z",
+  "id": "berkeley-s7fm3t",
+  "locn_geometry": "ENVELOPE(-121.484635, -120.003028, 39.332207, 38.697384)",
+  "dcat_bbox": "ENVELOPE(-121.484635, -120.003028, 39.332207, 38.697384)",
+  "gbl_indexYear_im": [
+    2014
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

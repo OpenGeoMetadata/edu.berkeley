@@ -1,0 +1,41 @@
+{
+  "dct_creator_sm": [
+    "Alameda County Registrar of Voters "
+  ],
+  "dct_description_sm": [
+    "East Bay Regional Park District with ward boundaries, within the extent of Alameda County; boundaries have been updated to show 2011-2012 redistricting changes"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s77693"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Environment",
+    "Planningcadastre",
+    "Regional Parks",
+    "County Parks"
+  ],
+  "dct_title_s": "East Bay Regional Park District ward boundaries, Alameda County, California, 2012",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s77693/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s77693/data.zip\"}",
+  "dct_spatial_sm": [
+    "Alameda County (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s77693",
+  "gbl_mdModified_dt": "2018-03-15T23:34:35.206Z",
+  "id": "berkeley-s77693",
+  "locn_geometry": "ENVELOPE(-122.349013, -121.468933, 37.915926, 37.448458)",
+  "dcat_bbox": "ENVELOPE(-122.349013, -121.468933, 37.915926, 37.448458)",
+  "gbl_indexYear_im": [
+    2012
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

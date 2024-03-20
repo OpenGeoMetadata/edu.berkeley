@@ -1,0 +1,41 @@
+{
+  "dct_creator_sm": [
+    "Santa Clara County (Calif.)"
+  ],
+  "dct_description_sm": [
+    "This polygon dataset shows all condominium parcel data in the Santa Clara County, California Region. All data is for FY15 (July 1, 2014 – June 30 , 2015)"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s74x1c"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Planningcadastre",
+    "Real Property--maps",
+    "Condominiums"
+  ],
+  "dct_title_s": "Condos, Santa Clara County, California, 2015",
+  "dct_issued_s": "2015-06-30",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s74x1c/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s74x1c/data.zip\"}",
+  "dct_spatial_sm": [
+    "Santa Clara County (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s74x1c",
+  "gbl_mdModified_dt": "2018-02-23T23:34:35.206Z",
+  "id": "berkeley-s74x1c",
+  "locn_geometry": "ENVELOPE(-122.168698, -121.568966, 37.458464, 36.9909)",
+  "dcat_bbox": "ENVELOPE(-122.168698, -121.568966, 37.458464, 36.9909)",
+  "gbl_indexYear_im": [
+    2015
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

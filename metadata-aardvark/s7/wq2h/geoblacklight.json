@@ -1,0 +1,40 @@
+{
+  "dct_creator_sm": [
+    "Butte County (Calif.) -- Geographic Information Systems"
+  ],
+  "dct_description_sm": [
+    "The polyline dataset was developed to provide centerline road information for Butte County, California as of 2016. It contains road segments, road names, and geocoded (addressed) road segements for unincorporated areas of Butte County. The file should be used for cartographic purposes and geographic analysis which does not require a high degree of positional accuracy. Note: This is not an adopted layer.BACKGROUND:In late 2004, the existing Butte County road file was adjusted from the old Butte County parcel base, maintained by Butte County Development Services, to align with the Butte County Association of Governments (BCAG) parcel base. The reason being that the BCAG parcel base contains more accurate geometry than the previous base. Also, the BCAG base is being used by the majority of other municipalities in the area.In early 2005, the newly adjusted road file was geocoded to include addressed road segments within unincorporated Butte County. These geocoded (addressed) road segments can be used to place addressed databases using the geocode functions in ArcView and ArcMap. The segments were addressed using the existing Butte County address point file and the existing BCAG address point file. The Butte County address point was determined to be approx 80-85% accurate for the rural areas of the county, at that time. The BCAG address point file was determined to be approx 95-97% accurate for the incorporated areas of the county, at that time. These approx accuracies refer to attributes and parcel level position, not positional in terms of being on the actual structures.As of August 2005, an effort is currently in process to realign the road segments from the parcel base to the aerial photo's. It is fairly well known that certain areas of the county, mostly rural, have parcel boundaries and easements which do not align precisely with the aerial photo base. The reason being that some assessor parcel pages are fairly outdated and were not originally drawn, by the Assessor's Office, using survey data. In order to increase the positional accuracy for future projects and analysis, road segments which do not match the aerial photo base will be realigned. A seperate layer will be available, upon request, which contains segments that follow the parcel file. This process is expected to take several months to complete.The following fields were added in October 2005: jurisdict, ramp, and direct. 'Jurisdict' is populated with road jurisdiction attributes obtained from Butte County Public Works road name list file. Not all roads contained attributes, so a file of those roads were returned to public works. 'Ramp' and 'Direct' fields were added to signify off and on ramps for state highways. The direction marks which way the traffic is exiting or entering the highway. Note: The jurisdiction is for general reference purposes only and may not actually determine jurisdiction.The following fields were added in December 2005: road_no, fr_mile, to_mile, and length. These fields will be used for routing and general reference purposes for by the Butte County Public Works department. See process step 2 for more info.The following field was added in March 2006: major. Field was requested by LAFCO analyst for cartographic purposes. See process step 3 for more info."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7wq2h"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Transportation",
+    "Roads, Highways, Roadways, Thoroughfares"
+  ],
+  "dct_title_s": "Streets, Butte County, California, 2016",
+  "dct_issued_s": "2016-01-01",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7wq2h/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7wq2h/data.zip\"}",
+  "dct_spatial_sm": [
+    "Butte County (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Line data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7wq2h",
+  "gbl_mdModified_dt": "2018-04-10T23:34:35.206Z",
+  "id": "berkeley-s7wq2h",
+  "locn_geometry": "ENVELOPE(-122.050775, -121.101367, 40.170715, 39.248388)",
+  "dcat_bbox": "ENVELOPE(-122.050775, -121.101367, 40.170715, 39.248388)",
+  "gbl_indexYear_im": [
+    2016
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

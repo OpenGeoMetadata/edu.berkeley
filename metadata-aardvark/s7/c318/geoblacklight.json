@@ -1,0 +1,46 @@
+{
+  "dct_creator_sm": [
+    "Department of Parking and Traffic."
+  ],
+  "dct_description_sm": [
+    "Disabled Parking Blue Zones designate parking spaces for persons with a valid disabled parking permit. Blue zones are normally located in areas with high public use, such as in dense commercial areas, and near public parks and playgrounds, where the blue zones can serve a large number of individuals. Blue zones are not established for specific individuals or in front of private residences. There is no fee for establishing blue zones."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7c318"
+  ],
+  "dct_publisher_sm": [
+    "San Francisco (Calif.). Department Of Telecommunications and Information Services."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Transportation",
+    "Accessibility"
+  ],
+  "dct_title_s": "Disabled Parking Blue Zones",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7c318/data.zip\"}",
+  "dct_spatial_sm": [
+    "San Francisco County (Calif.)",
+    "San Francisco (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "2005"
+  ],
+  "gbl_resourceType_sm": [
+    "Point data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7c318",
+  "gbl_mdModified_dt": "2012-11-28T23:34:45.630Z",
+  "id": "ark28722-s7c318",
+  "locn_geometry": "ENVELOPE(-122.513939, -122.387425, 37.8074, 37.709707)",
+  "dcat_bbox": "ENVELOPE(-122.513939, -122.387425, 37.8074, 37.709707)",
+  "gbl_indexYear_im": [
+    2005
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

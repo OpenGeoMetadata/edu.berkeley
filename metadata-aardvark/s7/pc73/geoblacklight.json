@@ -1,0 +1,44 @@
+{
+  "dct_creator_sm": [
+    "California State Department of Conservation Division of Mines and Geology"
+  ],
+  "dct_description_sm": [
+    "Mineral Resource Preservation Sites created through parcel numbers provided by the California State Department of Conservation Division of Mines and Geology and Marin County Department of Public Works.  Four local sites were added to State list."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7pc73"
+  ],
+  "dct_publisher_sm": [
+    "San Rafael (Calif.). County Of Marin."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Geology"
+  ],
+  "dct_title_s": "Mineral Resource Preservation Sites",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7pc73/data.zip\"}",
+  "dct_spatial_sm": [
+    "Marin County (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "2004"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7pc73",
+  "gbl_mdModified_dt": "2012-11-28T23:35:01.311Z",
+  "id": "ark28722-s7pc73",
+  "locn_geometry": "ENVELOPE(-122.974439, -122.445717, 38.2922, 37.896853)",
+  "dcat_bbox": "ENVELOPE(-122.974439, -122.445717, 38.2922, 37.896853)",
+  "gbl_indexYear_im": [
+    2004
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

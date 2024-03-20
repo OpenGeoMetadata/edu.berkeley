@@ -1,0 +1,46 @@
+{
+  "dct_creator_sm": [
+    "California Department of Fish   Game"
+  ],
+  "dct_description_sm": [
+    "Large scale conservation planning areas"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7z598"
+  ],
+  "dct_publisher_sm": [
+    "California. California Department Of Fish and Game."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Nccp",
+    "Hcp",
+    "Conservation Plan"
+  ],
+  "dct_title_s": "nccp-hcp2006",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7z598/data.zip\"}",
+  "dct_spatial_sm": [
+    "California"
+  ],
+  "dct_temporal_sm": [
+    "2004"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7z598",
+  "gbl_mdModified_dt": "2012-11-28T23:35:01.351Z",
+  "id": "ark28722-s7z598",
+  "locn_geometry": "ENVELOPE(-124.346513, -113.494781, 42.092456, 32.423682)",
+  "dcat_bbox": "ENVELOPE(-124.346513, -113.494781, 42.092456, 32.423682)",
+  "gbl_indexYear_im": [
+    2004
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

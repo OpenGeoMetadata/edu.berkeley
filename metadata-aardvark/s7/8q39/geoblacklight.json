@@ -1,0 +1,40 @@
+{
+  "dct_creator_sm": [
+    "Fresno County (Calif.). Department of Public Works and Planning"
+  ],
+  "dct_description_sm": [
+    "This polygon dataset provides the borders of all zoning districts within unincorporated Fresno County, California for 2016, More information can be found within the Ordinance Code of the County of Fresno, Part VII Land Use Regulation and Planning (http://www.co.fresno.ca.us/ViewDocument.aspx?id=5584)"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s78q39"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Planningcadastre",
+    "Zoning"
+  ],
+  "dct_title_s": "Zoning, Fresno County, California, 2016",
+  "dct_issued_s": "2016-04-05",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s78q39/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s78q39/data.zip\"}",
+  "dct_spatial_sm": [
+    "Fresno County (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s78q39",
+  "gbl_mdModified_dt": "2018-02-23T23:34:35.206Z",
+  "id": "berkeley-s78q39",
+  "locn_geometry": "ENVELOPE(-120.940257, -118.354357, 37.585872, 35.900375)",
+  "dcat_bbox": "ENVELOPE(-120.940257, -118.354357, 37.585872, 35.900375)",
+  "gbl_indexYear_im": [
+    2016
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "dct_creator_sm": [
+    "Lynsey Wickman - County of Napa Conservation, Development   Planning Department"
+  ],
+  "dct_description_sm": [
+    "Napa County Airport runway."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7h88w"
+  ],
+  "dct_publisher_sm": [
+    "Napa County (Calif.). County Of Napa."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Planningcadastre",
+    "Boundaries",
+    "Land Use",
+    "Planning",
+    "Zoning"
+  ],
+  "dct_title_s": "Napa Airport Runway",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7h88w/data.zip\"}",
+  "dct_spatial_sm": [
+    "Napa County (Calif.)",
+    "Napa (Calif.)",
+    "Napa Airport (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "gbl_resourceType_sm": [
+    "Line data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7h88w",
+  "gbl_mdModified_dt": "2012-11-28T23:34:19.125Z",
+  "id": "ark28722-s7h88w",
+  "locn_geometry": "ENVELOPE(-122.288373, -122.271422, 38.223229, 38.207733)",
+  "dcat_bbox": "ENVELOPE(-122.288373, -122.271422, 38.223229, 38.207733)",
+  "gbl_indexYear_im": [
+    2010
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

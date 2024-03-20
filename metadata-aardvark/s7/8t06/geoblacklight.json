@@ -1,0 +1,43 @@
+{
+  "dct_creator_sm": [
+    "San Mateo County (Calif.)"
+  ],
+  "dct_description_sm": [
+    "This polygonal dataset identifies fire hazard boundaries in San Mateo County, California for 2015. This dataset includes State Responsibility Areas (SRA) and Local Responsibility Areas (LRA) and hazard classifications. More information can be found at: http://planning.smcgov.org/documents/san-mateo-county-hazards-california-state-fire-severity-zones"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s78t06"
+  ],
+  "dct_publisher_sm": [
+    "San Mateo County (Calif.)"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Planningcadastre",
+    "Fire Protection Districts"
+  ],
+  "dct_title_s": "Fire Hazard Boundaries, San Mateo County, California, 2015",
+  "dct_issued_s": "2014-10-14",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s78t06/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s78t06/data.zip\"}",
+  "dct_spatial_sm": [
+    "San Mateo County (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s78t06",
+  "gbl_mdModified_dt": "2018-02-23T23:34:35.206Z",
+  "id": "berkeley-s78t06",
+  "locn_geometry": "ENVELOPE(-122.520848, -122.151249, 37.704973, 37.107955)",
+  "dcat_bbox": "ENVELOPE(-122.520848, -122.151249, 37.704973, 37.107955)",
+  "gbl_indexYear_im": [
+    2015
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "dct_creator_sm": [
+    "SFMTA, Municipal Transportation Agency, Livable Streets"
+  ],
+  "dct_description_sm": [
+    "This shapefile contains information about the pilot stations of the Bay Area Bike Share program, including the type of location. This data is subject to change and the SFMTA does not assume any responsibility or liability for any property damage, injury, or other adverse circumstances that may arise while using this mapping data. "
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7g096"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Transportation",
+    "Bicycle Sharing Programs"
+  ],
+  "dct_title_s": "Bay Area Bike Share Pilot Stations, San Francisco, California, 2014 ",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7g096/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7g096/data.zip\"}",
+  "dct_spatial_sm": [
+    "San Francisco (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Point data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7g096",
+  "gbl_mdModified_dt": "2015-05-04T23:34:35.206Z",
+  "id": "berkeley-s7g096",
+  "locn_geometry": "ENVELOPE(-122.418954, -122.388128, 37.80477, 37.771058)",
+  "dcat_bbox": "ENVELOPE(-122.418954, -122.388128, 37.80477, 37.771058)",
+  "gbl_indexYear_im": [
+    2014
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

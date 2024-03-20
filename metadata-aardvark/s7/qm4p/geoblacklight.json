@@ -1,0 +1,43 @@
+{
+  "dct_creator_sm": [
+    "San Joaquin County, Community Development, Geographic Information Systems"
+  ],
+  "dct_description_sm": [
+    "This dataset represents the spheres of influence within San Joaquin County, California. Latest data export occurred on July 14th, 2014. Data was mapped and provided by the San Joaquin County, Community Development Department. "
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7qm4p"
+  ],
+  "dct_publisher_sm": [
+    "San Joaquin County (Calif.). Community Development Department"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Boundaries",
+    "Spheres Of Influence"
+  ],
+  "dct_title_s": "Spheres of Influence, San Joaquin County, California, 2014",
+  "dct_issued_s": "2014-07-14",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7qm4p/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7qm4p/data.zip\"}",
+  "dct_spatial_sm": [
+    "San Joaquin County (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7qm4p",
+  "gbl_mdModified_dt": "2018-03-27T23:34:35.206Z",
+  "id": "berkeley-s7qm4p",
+  "locn_geometry": "ENVELOPE(-121.563623, -120.975983, 38.170921, 37.654936)",
+  "dcat_bbox": "ENVELOPE(-121.563623, -120.975983, 38.170921, 37.654936)",
+  "gbl_indexYear_im": [
+    2014
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

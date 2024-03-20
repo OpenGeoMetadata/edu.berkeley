@@ -1,0 +1,44 @@
+{
+  "dct_description_sm": [
+    "Groundwater Basins for Marin County.  Data was downloaded from http://gis.ca.gov/data_index.epl and reprojected from NAD 27 meters.  Attributes not needed for the Countywide Plan were deleted."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s73k54"
+  ],
+  "dct_publisher_sm": [
+    "San Rafael (Calif.). County Of Marin."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Hydrology",
+    "Groundwater Basins",
+    "Environment",
+    "Farming"
+  ],
+  "dct_title_s": "Groundwater",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s73k54/data.zip\"}",
+  "dct_spatial_sm": [
+    "Marin County (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "2003"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s73k54",
+  "gbl_mdModified_dt": "2012-11-28T23:34:56.022Z",
+  "id": "ark28722-s73k54",
+  "locn_geometry": "ENVELOPE(-122.988831, -122.476419, 38.328824, 37.90322)",
+  "dcat_bbox": "ENVELOPE(-122.988831, -122.476419, 38.328824, 37.90322)",
+  "gbl_indexYear_im": [
+    2003
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

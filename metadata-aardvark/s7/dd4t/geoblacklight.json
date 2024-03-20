@@ -1,0 +1,44 @@
+{
+  "dct_creator_sm": [
+    "Fresno County (Calif.). Department of Public Works and Planning"
+  ],
+  "dct_description_sm": [
+    "This polyline dataset shows all existing street centerlines within Fresno County, California in 2016."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7dd4t"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Transportation",
+    "Streets",
+    "Roads",
+    "Highways",
+    "Roadways",
+    "Thoroughfares"
+  ],
+  "dct_title_s": "Streets, Fresno County, California, 2016",
+  "dct_issued_s": "2016-04-05",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7dd4t/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7dd4t/data.zip\"}",
+  "dct_spatial_sm": [
+    "Fresno County (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Line data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7dd4t",
+  "gbl_mdModified_dt": "2018-02-23T23:34:35.206Z",
+  "id": "berkeley-s7dd4t",
+  "locn_geometry": "ENVELOPE(-120.886989, -118.579607, 37.37928, 35.995724)",
+  "dcat_bbox": "ENVELOPE(-120.886989, -118.579607, 37.37928, 35.995724)",
+  "gbl_indexYear_im": [
+    2016
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

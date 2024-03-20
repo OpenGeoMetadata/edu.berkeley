@@ -1,0 +1,46 @@
+{
+  "dct_creator_sm": [
+    "County of Marin"
+  ],
+  "dct_description_sm": [
+    "Parcel Point is an interior location within a parcel polygon.  Often this point is the centroid of the parcel polygon but not always.  In cases where the centroid falls outside of the parcel boundary, it has been moved within."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s71p45"
+  ],
+  "dct_publisher_sm": [
+    "San Rafael (Calif.). County Of Marin Community Development Agency."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Parcels",
+    "Boundaries",
+    "Planning and Cadastral"
+  ],
+  "dct_title_s": "Parcel Point",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s71p45/data.zip\"}",
+  "dct_spatial_sm": [
+    "Marin County (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "gbl_resourceType_sm": [
+    "Point data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s71p45",
+  "gbl_mdModified_dt": "2012-11-28T23:35:06.435Z",
+  "id": "ark28722-s71p45",
+  "locn_geometry": "ENVELOPE(-123.024003, -122.419133, 38.326157, 37.820953)",
+  "dcat_bbox": "ENVELOPE(-123.024003, -122.419133, 38.326157, 37.820953)",
+  "gbl_indexYear_im": [
+    2000
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

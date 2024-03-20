@@ -1,0 +1,52 @@
+{
+  "dct_creator_sm": [
+    "Santa Cruz County (Calif.) -- Assessor's Office"
+  ],
+  "dct_description_sm": [
+    "The point data layer combines a number of previous layers. Some were used to create the HAS emergency preparedness maps. Some were used for the building inspection mapping for code enforcement. To avoid having overlap, all were combined into a single layer. These layers were prepared to support pandemic preparation as part of an emergency mapping project for HSA and are included on the oversized quad mapping. The building division of the Planning department has provided a second set of ‘Critical’ facilities that need to be inspected within 24 hours of an earthquake. There is some overlap between these two datasets (Planning and HSA) so we consolidated this information into a single layer using subtypes.A definition query can be used to single out a specific facility type for mapping.ChurchesClinicsHospitalsLibrariesRed Cross SitesRest-Nursing-Group HomesSchool SitesCamp/RecreationFire StationCounty Owned BuildingSheriff Sub Station "
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7fh6x"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Structure",
+    "Utilitiescommunication",
+    "Religious Facilities",
+    "Health Facilities",
+    "Hospitals",
+    "Libraries",
+    "Red Cross",
+    "Group Homes",
+    "School Sites",
+    "Campgrounds",
+    "Recreation Areas",
+    "Fire Stations",
+    "Public Buildings",
+    "Police Stations"
+  ],
+  "dct_title_s": "Facilities, Santa Cruz County, California, 2014",
+  "dct_issued_s": "2014-01-01",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7fh6x/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7fh6x/data.zip\"}",
+  "dct_spatial_sm": [
+    "Santa Cruz County (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Point data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7fh6x",
+  "gbl_mdModified_dt": "2018-04-10T23:34:35.206Z",
+  "id": "berkeley-s7fh6x",
+  "locn_geometry": "ENVELOPE(-122.223931, -121.729575, 37.265653, 36.861379)",
+  "dcat_bbox": "ENVELOPE(-122.223931, -121.729575, 37.265653, 36.861379)",
+  "gbl_indexYear_im": [
+    2014
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

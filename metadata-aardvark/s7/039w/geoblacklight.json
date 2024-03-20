@@ -1,0 +1,40 @@
+{
+  "dct_creator_sm": [
+    "Amador County (Calif.)"
+  ],
+  "dct_description_sm": [
+    "This dataset contains spheres of influence boundaries for the five incorporated cities in Amador County, California: Amador City, Ione, Jackson, Plymouth and Sutter Creek. This data set is based on sphere of influence boundaries approved and adopted by Amador LAFCO on June 21, 2007. However, please see Supplementary Information below."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7039w"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Planningcadastre",
+    "Spheres Of Influence"
+  ],
+  "dct_title_s": "Spheres of Influence, Amador County, California, 2008",
+  "dct_issued_s": "2008-10-04",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7039w/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7039w/data.zip\"}",
+  "dct_spatial_sm": [
+    "Amador County (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7039w",
+  "gbl_mdModified_dt": "2018-04-03T23:34:35.206Z",
+  "id": "berkeley-s7039w",
+  "locn_geometry": "ENVELOPE(-120.970911, -120.747382, 38.494929, 38.322647)",
+  "dcat_bbox": "ENVELOPE(-120.970911, -120.747382, 38.494929, 38.322647)",
+  "gbl_indexYear_im": [
+    2008
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

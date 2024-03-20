@@ -1,0 +1,40 @@
+{
+  "dct_creator_sm": [
+    "Placer County"
+  ],
+  "dct_description_sm": [
+    "This shapefile shows spheres of influence within Placer County, California. "
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7g405"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Planningcadastre",
+    "Spheres Of Influence."
+  ],
+  "dct_title_s": "Spheres of Influence, Placer County, California, 2007",
+  "dct_issued_s": "2007-04-11",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7g405/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7g405/data.zip\"}",
+  "dct_spatial_sm": [
+    "Placer County (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7g405",
+  "gbl_mdModified_dt": "2007-04-11T23:34:35.206Z",
+  "id": "berkeley-s7g405",
+  "locn_geometry": "ENVELOPE(-121.416357, -120.93074, 39.123044, 38.714488)",
+  "dcat_bbox": "ENVELOPE(-121.416357, -120.93074, 39.123044, 38.714488)",
+  "gbl_indexYear_im": [
+    2007
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

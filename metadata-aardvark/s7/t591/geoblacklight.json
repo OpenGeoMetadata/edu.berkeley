@@ -1,0 +1,45 @@
+{
+  "dct_creator_sm": [
+    "Margaret Moster"
+  ],
+  "dct_description_sm": [
+    "A point denoting the location of medical facilities of various types (e.g. hospital, clinics, etc.).  The feature class may not be comprehensive/complete."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7t591"
+  ],
+  "dct_publisher_sm": [
+    "San Rafael (Calif.). County Of Marin."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Structure",
+    "Health"
+  ],
+  "dct_title_s": "Medical Facility",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7t591/data.zip\"}",
+  "dct_spatial_sm": [
+    "Marin County (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "gbl_resourceType_sm": [
+    "Point data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7t591",
+  "gbl_mdModified_dt": "2012-11-28T23:35:01.295Z",
+  "id": "ark28722-s7t591",
+  "locn_geometry": "ENVELOPE(-122.808087, -122.50926, 38.123557, 37.895255)",
+  "dcat_bbox": "ENVELOPE(-122.808087, -122.50926, 38.123557, 37.895255)",
+  "gbl_indexYear_im": [
+    2011
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

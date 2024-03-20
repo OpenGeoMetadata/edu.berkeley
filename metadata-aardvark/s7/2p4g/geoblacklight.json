@@ -1,0 +1,45 @@
+{
+  "dct_creator_sm": [
+    "Illingworth   Rodkin, Inc."
+  ],
+  "dct_description_sm": [
+    "In July  2001 and July 2005, a noise monitoring survey was conducted at ten sites representative of noise sensitive locations throughout Marin County.  These locations consisted of sites along highways, freeways, primary arterials, and major local streets; the principal sources of noise in the county.  Five of these measurements were conducted at the approximate locations of the six sites measured at in 1987.  Four site locations were added based on recommendations of county staff.  The other site (LT2) was in the vicinity of the 1987 location but in order to locate the noise meter in a secure location it had to be placed closer to Highway 101.  The noise survey sites were selected to obtain noise measurements which reflect a range of land use, topographical, and traffic noise source conditions."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s72p4g"
+  ],
+  "dct_publisher_sm": [
+    "San Rafael (Calif.). County Of Marin Community Development Agency."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Noise Contours",
+    "Health"
+  ],
+  "dct_title_s": "Long Term Noise Site",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s72p4g/data.zip\"}",
+  "dct_spatial_sm": [
+    "Marin County (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "2005"
+  ],
+  "gbl_resourceType_sm": [
+    "Point data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s72p4g",
+  "gbl_mdModified_dt": "2012-11-28T23:34:56.227Z",
+  "id": "ark28722-s72p4g",
+  "locn_geometry": "ENVELOPE(-122.797598, -122.505256, 38.143718, 37.867098)",
+  "dcat_bbox": "ENVELOPE(-122.797598, -122.505256, 38.143718, 37.867098)",
+  "gbl_indexYear_im": [
+    2005
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

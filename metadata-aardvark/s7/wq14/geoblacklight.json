@@ -1,0 +1,39 @@
+{
+  "dct_creator_sm": [
+    "City of Berkeley- Department of Information Technology "
+  ],
+  "dct_description_sm": [
+    "Council districts boundaries adjusted to equalize population in the districts as a result of population changes reflected in the 2010 federal census. Berkeley City Charter requires City Council district boundaries to be adjusted, if needed, following each decennial census."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7wq14"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Planningcadastre",
+    "Election Districts"
+  ],
+  "dct_title_s": "Council Districts, Berkeley, California, 2015",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7wq14/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7wq14/data.zip\"}",
+  "dct_spatial_sm": [
+    "Berkeley (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7wq14",
+  "gbl_mdModified_dt": "2018-04-06T23:34:35.206Z",
+  "id": "berkeley-s7wq14",
+  "locn_geometry": "ENVELOPE(-122.327222, -122.233618, 37.906175, 37.845623)",
+  "dcat_bbox": "ENVELOPE(-122.327222, -122.233618, 37.906175, 37.845623)",
+  "gbl_indexYear_im": [
+    2015
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

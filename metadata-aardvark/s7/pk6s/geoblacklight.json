@@ -1,0 +1,44 @@
+{
+  "dct_creator_sm": [
+    "Jones   Stokes"
+  ],
+  "dct_description_sm": [
+    "The Napa County Watersheds were generated from two elevation datasets.  The Napa River Watershed was generated from LIDAR data processed by NCALM at UC Berkeley (http://calm.geo.berkeley.edu/ncalm/index.html).  The eastern side of the county was delineated from DTM data which was generated from aerial photography (2002).  The watersheds are intended to be used for hydrologic modeling and planning."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7pk6s"
+  ],
+  "dct_publisher_sm": [
+    "Napa County (Calif.). County Of Napa."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Hydrology"
+  ],
+  "dct_title_s": "major basins",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7pk6s/data.zip\"}",
+  "dct_spatial_sm": [
+    "Napa County (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "2005"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7pk6s",
+  "gbl_mdModified_dt": "2012-11-28T23:35:01.266Z",
+  "id": "ark28722-s7pk6s",
+  "locn_geometry": "ENVELOPE(-122.648961, -122.061188, 38.864112, 38.144157)",
+  "dcat_bbox": "ENVELOPE(-122.648961, -122.061188, 38.864112, 38.144157)",
+  "gbl_indexYear_im": [
+    2005
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

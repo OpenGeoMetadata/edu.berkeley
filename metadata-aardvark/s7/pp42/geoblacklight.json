@@ -1,0 +1,46 @@
+{
+  "dct_creator_sm": [
+    "Bureau of Indian Affairs, Pacific Regional Office"
+  ],
+  "dct_description_sm": [
+    "Exterior reservation boundaries of Native American Indian Reservations in California."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7pp42"
+  ],
+  "dct_publisher_sm": [
+    "Sacramento (Calif.). Bureau Of Indian Affairs, Pacific Regional Office."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Boundaries",
+    "Reservations",
+    "Native American"
+  ],
+  "dct_title_s": "PRO_Res_Boundary_20091009",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7pp42/data.zip\"}",
+  "dct_spatial_sm": [
+    "California"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7pp42",
+  "gbl_mdModified_dt": "2012-11-28T23:35:11.668Z",
+  "id": "ark28722-s7pp42",
+  "locn_geometry": "ENVELOPE(-124.357699, -113.670518, 42.077027, 32.538881)",
+  "dcat_bbox": "ENVELOPE(-124.357699, -113.670518, 42.077027, 32.538881)",
+  "gbl_indexYear_im": [
+    2009
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "dct_creator_sm": [
+    "Yolo County, Public Works Division, Planning Services "
+  ],
+  "dct_description_sm": [
+    "These boundaries were derived from \"heads-up\" digitizing based on the Census Boundaries. The best attempt was made to translate the boundary lines to the base map boundary lines of Yolo County. Interpretation was necessary in many places where Census boundary lines did not match and \"real world\" lines. For a copy of the Official GIS layer of these boundaries, please contact the Yolo Coynty Elections Department (530) 666-8133"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7509d"
+  ],
+  "dct_publisher_sm": [
+    "Yolo County (Calif.). Public Works Division "
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Boundaries",
+    "Spheres Of Influence"
+  ],
+  "dct_title_s": "Board of Supervisor Districts, Yolo County, California, 2011",
+  "dct_issued_s": "2013-02-22",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7509d/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7509d/data.zip\"}",
+  "dct_spatial_sm": [
+    "Yolo County (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7509d",
+  "gbl_mdModified_dt": "2018-04-10T23:34:35.206Z",
+  "id": "berkeley-s7509d",
+  "locn_geometry": "ENVELOPE(-122.423044, -121.497746, 38.926108, 38.312901)",
+  "dcat_bbox": "ENVELOPE(-122.423044, -121.497746, 38.926108, 38.312901)",
+  "gbl_indexYear_im": [
+    2011
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

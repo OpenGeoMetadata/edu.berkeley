@@ -1,0 +1,46 @@
+{
+  "dct_creator_sm": [
+    "Sudden Oak Death Project, Center for the Assessment and Monitoring of Forestry and Environmental Resources (CAMFER) at U.C. Berkeley"
+  ],
+  "dct_description_sm": [
+    "Areas of concentrated confirmed Sudden Oak Death from the California Department of Food and Agriculture, University of California at Davis, and University of California at Berkeley..  Reprojected from Albers GCS_North_American_1927 and renamed by County of Marin."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7b01x"
+  ],
+  "dct_publisher_sm": [
+    "San Rafael (Calif.). County Of Marin."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Sudden Oak Death",
+    "Vegetation",
+    "Biota"
+  ],
+  "dct_title_s": "Sudden Oak Death Suspected Areas",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7b01x/data.zip\"}",
+  "dct_spatial_sm": [
+    "Marin County (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "2002"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7b01x",
+  "gbl_mdModified_dt": "2012-11-28T23:35:27.205Z",
+  "id": "ark28722-s7b01x",
+  "locn_geometry": "ENVELOPE(-122.896632, -122.445819, 38.242808, 37.816143)",
+  "dcat_bbox": "ENVELOPE(-122.896632, -122.445819, 38.242808, 37.816143)",
+  "gbl_indexYear_im": [
+    2002
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

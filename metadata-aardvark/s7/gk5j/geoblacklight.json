@@ -1,0 +1,45 @@
+{
+  "dct_creator_sm": [
+    "MTC"
+  ],
+  "dct_description_sm": [
+    "Roads in Alameda County, California"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7gk5j"
+  ],
+  "dct_publisher_sm": [
+    "California. Metropolitan Transportation Commission."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Transportation",
+    "Transit Networks"
+  ],
+  "dct_title_s": "Alameda County Roads 2006",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7gk5j/data.zip\"}",
+  "dct_spatial_sm": [
+    "Alameda County (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
+  "gbl_resourceType_sm": [
+    "Line data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7gk5j",
+  "gbl_mdModified_dt": "2012-11-28T23:34:19.133Z",
+  "id": "ark28722-s7gk5j",
+  "locn_geometry": "ENVELOPE(-122.323915, -121.686581, 37.90443, 37.46082)",
+  "dcat_bbox": "ENVELOPE(-122.323915, -121.686581, 37.90443, 37.46082)",
+  "gbl_indexYear_im": [
+    2006
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

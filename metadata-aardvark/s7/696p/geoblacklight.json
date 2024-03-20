@@ -1,0 +1,39 @@
+{
+  "dct_creator_sm": [
+    "Department of Conservation & Development, Contra Costa County"
+  ],
+  "dct_description_sm": [
+    "This dataset represents the Census Tracts within Contra Costa, California. Latest data revision occurred in November 2012; Data was mapped and provided by the DCD GIS/Graphics Group within the Department of Conservation &amp; Development. "
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7696p"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Boundaries",
+    "Census Tracts"
+  ],
+  "dct_title_s": "Census Tracts (2000), Contra Costa County, California, 2005",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7696p/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7696p/data.zip\"}",
+  "dct_spatial_sm": [
+    "Contra Costa County (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7696p",
+  "gbl_mdModified_dt": "2018-02-16T23:34:35.206Z",
+  "id": "berkeley-s7696p",
+  "locn_geometry": "ENVELOPE(-122.444625, -121.532579, 38.105128, 37.71167)",
+  "dcat_bbox": "ENVELOPE(-122.444625, -121.532579, 38.105128, 37.71167)",
+  "gbl_indexYear_im": [
+    2005
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

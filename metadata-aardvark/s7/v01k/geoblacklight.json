@@ -1,0 +1,46 @@
+{
+  "dct_creator_sm": [
+    "MarinMap"
+  ],
+  "dct_description_sm": [
+    "Three trustee areas along the west coast of Marin County, California at the Pacific Ocean"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7v01k"
+  ],
+  "dct_publisher_sm": [
+    "San Rafael (Calif.). County Of Marin."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Boundaries",
+    "Administrative and Political Divisions"
+  ],
+  "dct_title_s": "Shoreline Trustee Area Marin County 2007",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7v01k/data.zip\"}",
+  "dct_spatial_sm": [
+    "Marin County (Calif.)",
+    "Pacific Ocean"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7v01k",
+  "gbl_mdModified_dt": "2012-11-28T23:35:22.152Z",
+  "id": "ark28722-s7v01k",
+  "locn_geometry": "ENVELOPE(-123.105808, -122.696812, 38.432759, 37.97679)",
+  "dcat_bbox": "ENVELOPE(-123.105808, -122.696812, 38.432759, 37.97679)",
+  "gbl_indexYear_im": [
+    2011
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

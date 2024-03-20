@@ -1,0 +1,42 @@
+{
+  "dct_creator_sm": [
+    "MarinMap"
+  ],
+  "dct_description_sm": [
+    "Ripples of the ocean, bay and water bodies (lakes and lagoon, etc) shorelines"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7r309"
+  ],
+  "dct_publisher_sm": [
+    "San Rafael (Calif.). County Of Marin."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Ocean",
+    "Estuaries"
+  ],
+  "dct_title_s": "Water Ripple Marin County 2007",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7r309/data.zip\"}",
+  "dct_spatial_sm": [
+    "Marin County (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Line data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7r309",
+  "gbl_mdModified_dt": "2013-10-23T21:37:43.737Z",
+  "id": "ark28722-s7r309",
+  "locn_geometry": "ENVELOPE(-123.037683, -122.383908, 38.327922, 37.794819)",
+  "dcat_bbox": "ENVELOPE(-123.037683, -122.383908, 38.327922, 37.794819)",
+  "gbl_indexYear_im": [
+    2011
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

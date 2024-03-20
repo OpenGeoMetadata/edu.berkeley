@@ -1,0 +1,41 @@
+{
+  "dct_creator_sm": [
+    " Department of Information Technology,  Solano Regional GIS Consortium "
+  ],
+  "dct_description_sm": [
+    "Dataset represents the Solano County Voting Precincts for the Solano County Elections 2014 "
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7wt2j"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Boundaries",
+    "Society",
+    "Administrative and Political Divisions",
+    "Voting Precincts"
+  ],
+  "dct_title_s": "Voting precincts, Solano County, California, 2014",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7wt2j/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7wt2j/data.zip\"}",
+  "dct_spatial_sm": [
+    "Solano County (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7wt2j",
+  "gbl_mdModified_dt": "2018-03-28T23:34:35.206Z",
+  "id": "berkeley-s7wt2j",
+  "locn_geometry": "ENVELOPE(-122.408934, -121.591808, 38.539102, 38.031301)",
+  "dcat_bbox": "ENVELOPE(-122.408934, -121.591808, 38.539102, 38.031301)",
+  "gbl_indexYear_im": [
+    2014
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

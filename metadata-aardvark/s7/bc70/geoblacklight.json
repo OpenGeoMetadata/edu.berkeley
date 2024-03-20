@@ -1,0 +1,46 @@
+{
+  "dct_creator_sm": [
+    "Cal State Parks - Acquisition and Development Division"
+  ],
+  "dct_description_sm": [
+    "State park boundaries as delineated  by Cal State Parks Survey Section"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7bc70"
+  ],
+  "dct_publisher_sm": [
+    "California. Cal State Parks - Acquisition and Development Division."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Parks",
+    "Environment",
+    "Boundaries"
+  ],
+  "dct_title_s": "csp09_2unitname",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7bc70/data.zip\"}",
+  "dct_spatial_sm": [
+    "California"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7bc70",
+  "gbl_mdModified_dt": "2012-11-28T23:34:45.564Z",
+  "id": "ark28722-s7bc70",
+  "locn_geometry": "ENVELOPE(-124.268395, -113.910458, 42.064063, 32.441881)",
+  "dcat_bbox": "ENVELOPE(-124.268395, -113.910458, 42.064063, 32.441881)",
+  "gbl_indexYear_im": [
+    2009
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

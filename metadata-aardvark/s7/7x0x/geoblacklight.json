@@ -1,0 +1,43 @@
+{
+  "dct_creator_sm": [
+    "Mono County (Calif.) -- Information Technology"
+  ],
+  "dct_description_sm": [
+    "This polygon dataset shows spheres of influences for Hollister and San Juan Bautista, cities within San Benito County, California for 2016. "
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s77x0x"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Boundaries",
+    "Planningcadastre",
+    "Spheres Of Influence",
+    "Cities and Towns"
+  ],
+  "dct_title_s": "Spheres of Influence, San Benito County, California, 2016",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s77x0x/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s77x0x/data.zip\"}",
+  "dct_spatial_sm": [
+    "San Benito County (Calif.)",
+    "San Juan Bautista (Calif.)",
+    "Hollister (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s77x0x",
+  "gbl_mdModified_dt": "2018-04-10T23:34:35.206Z",
+  "id": "berkeley-s77x0x",
+  "locn_geometry": "ENVELOPE(-121.566347, -121.361849, 36.90782, 36.812492)",
+  "dcat_bbox": "ENVELOPE(-121.566347, -121.361849, 36.90782, 36.812492)",
+  "gbl_indexYear_im": [
+    2016
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

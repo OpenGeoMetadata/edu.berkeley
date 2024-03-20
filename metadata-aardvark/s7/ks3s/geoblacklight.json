@@ -1,0 +1,45 @@
+{
+  "dct_creator_sm": [
+    "Community Development Agency, County of Marin, California"
+  ],
+  "dct_description_sm": [
+    "Community is a topologically correct polygon representation of Community boundaries within the unincorporated area of Marin County."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7ks3s"
+  ],
+  "dct_publisher_sm": [
+    "San Rafael (Calif.). County Of Marin Community Development Agency."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Boundaries",
+    "Administrative and Political Divisions"
+  ],
+  "dct_title_s": "Community",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7ks3s/data.zip\"}",
+  "dct_spatial_sm": [
+    "Marin County (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7ks3s",
+  "gbl_mdModified_dt": "2012-11-28T23:34:40.274Z",
+  "id": "ark28722-s7ks3s",
+  "locn_geometry": "ENVELOPE(-122.970701, -122.43694, 38.271096, 37.848814)",
+  "dcat_bbox": "ENVELOPE(-122.970701, -122.43694, 38.271096, 37.848814)",
+  "gbl_indexYear_im": [
+    2000
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

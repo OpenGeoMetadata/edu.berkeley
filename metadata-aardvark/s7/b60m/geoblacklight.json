@@ -1,0 +1,46 @@
+{
+  "dct_creator_sm": [
+    "UC Berkeley and Regional Water Quality Control Board LIDAR project (Napa River Watershed data)"
+  ],
+  "dct_description_sm": [
+    "Water Bodies."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7b60m"
+  ],
+  "dct_publisher_sm": [
+    "Napa County (Calif.). County Of Napa."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Inlandwaters",
+    "Lakes",
+    "Reservior"
+  ],
+  "dct_title_s": "Water Bodies",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7b60m/data.zip\"}",
+  "dct_spatial_sm": [
+    "Napa County (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7b60m",
+  "gbl_mdModified_dt": "2012-11-28T23:35:32.636Z",
+  "id": "ark28722-s7b60m",
+  "locn_geometry": "ENVELOPE(-122.639296, -122.075145, 38.854969, 38.076397)",
+  "dcat_bbox": "ENVELOPE(-122.639296, -122.075145, 38.854969, 38.076397)",
+  "gbl_indexYear_im": [
+    2010
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

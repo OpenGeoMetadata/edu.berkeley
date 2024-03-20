@@ -1,0 +1,49 @@
+{
+  "dct_creator_sm": [
+    "Vestra Resources Inc. Redding, CA"
+  ],
+  "dct_description_sm": [
+    "Sphere of Influence for the Silverado Community Services District."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s73p4s"
+  ],
+  "dct_publisher_sm": [
+    "Napa County (Calif.). County Of Napa."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Boundaries",
+    "Service Area",
+    "Lighting",
+    "Sweeping",
+    "Landscaping",
+    "Infrastructure"
+  ],
+  "dct_title_s": "Sphere of Influence for the Silverado Community Services District",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s73p4s/data.zip\"}",
+  "dct_spatial_sm": [
+    "Napa County (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s73p4s",
+  "gbl_mdModified_dt": "2012-11-28T23:35:22.159Z",
+  "id": "ark28722-s73p4s",
+  "locn_geometry": "ENVELOPE(-122.267537, -122.230934, 38.36687, 38.337592)",
+  "dcat_bbox": "ENVELOPE(-122.267537, -122.230934, 38.36687, 38.337592)",
+  "gbl_indexYear_im": [
+    2010
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

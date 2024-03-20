@@ -1,0 +1,46 @@
+{
+  "dct_creator_sm": [
+    "Real Estate Division/Department of Administrative Services"
+  ],
+  "dct_description_sm": [
+    "San Francisco Facilities - City-Owned, City-Leased and other designated Critical Facilities (hospitals, shelters, et al.). Each point represents an active facility according the Real Estate Information System (REIS), formerly ICPD).  The primary key, [FACILITY_I], is the link back to the REIS table CITYFACILS.  The REIS serves as the foundation for information regarding City Property, from which is produced, among other things, the Real Estate Property Book."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7zp5x"
+  ],
+  "dct_publisher_sm": [
+    "San Francisco (Calif.). Department Of Telecommunications and Information Services."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Facilities",
+    "Critical Facilities"
+  ],
+  "dct_title_s": "SDE.SFGIS.SFLNDS_PUBLIC_ALL",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7zp5x/data.zip\"}",
+  "dct_spatial_sm": [
+    "San Francisco County (Calif.)",
+    "San Francisco (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "2002"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7zp5x",
+  "gbl_mdModified_dt": "2012-11-28T23:35:21.995Z",
+  "id": "ark28722-s7zp5x",
+  "locn_geometry": "ENVELOPE(-122.517761, -122.350876, 37.812596, 37.602168)",
+  "dcat_bbox": "ENVELOPE(-122.517761, -122.350876, 37.812596, 37.602168)",
+  "gbl_indexYear_im": [
+    2002
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

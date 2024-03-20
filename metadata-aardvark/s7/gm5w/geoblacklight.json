@@ -1,0 +1,48 @@
+{
+  "dct_creator_sm": [
+    "Powell, Susan",
+    "Navarro, Fernando"
+  ],
+  "dct_description_sm": [
+    "This polygon dataset represents the aimag boundaries of Mongolia in 1978. The attributes include the names of the aimags in Mongolian Cyrillic and English transliterations (as they appear on the map). The dataset was developed as part of the Mongolian 20th-century Historical GIS Database project. It is designed to integrate and align well with other datasets created as part of the project. It can be used for creating small to medium size maps of historical Mongolia and for analysis, as appropriate to the resolution. This data is only as accurate as the source maps upon which it is based. As such, the UC Berkeley Library does not guarantee the accuracy of the data. Researchers should use their own judgement about appropriate uses for this data. Users should please acknowledge and cite the \"Mongolian 20th-century Historical GIS Database project\" in any derivative works. The source map for this dataset is: U.S. Central Intelligence Agency. 'Mongolia [map]'. Scale 1:2,500,000. Washington, D.C.: Central Intelligence Agency, 1978.\""
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "http://spatial.lib.berkeley.edu/viewpublic/berkeley-s7gm5w"
+  ],
+  "dct_publisher_sm": [
+    "UC Berkeley Library"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Boundaries",
+    "State Boundaries",
+    "Administrative Divisions"
+  ],
+  "dct_title_s": "Aimag Boundaries (adm1), Mongolia, 1978",
+  "dct_isPartOf_sm": [
+    "berkeley-s7vx1w"
+  ],
+  "dct_issued_s": "2022-12-21",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7gm5w/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7gm5w/data.zip\"}",
+  "dct_spatial_sm": [
+    "Mongolia"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7gm5w",
+  "gbl_mdModified_dt": "2022-12-23T23:34:35.206Z",
+  "id": "berkeley-s7gm5w",
+  "locn_geometry": "ENVELOPE(87.071048, 121.534156, 52.213444, 40.047878)",
+  "dcat_bbox": "ENVELOPE(87.071048, 121.534156, 52.213444, 40.047878)",
+  "gbl_indexYear_im": [
+    1978
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

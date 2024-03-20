@@ -1,0 +1,45 @@
+{
+  "dct_creator_sm": [
+    "Vestra Resources Inc."
+  ],
+  "dct_description_sm": [
+    "Airport Clear Zones. The clear zones shown are those that are currently in place as well as zones that are awaiting amendment to the Airport Industrial Area Specific Plan to be consistent with clear zones depicted in the Napa County General Plan"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s78p4b"
+  ],
+  "dct_publisher_sm": [
+    "Napa County (Calif.). County Of Napa."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Planning and Cadastral",
+    "Land Use"
+  ],
+  "dct_title_s": "Clear Zones adopted by the Airport Industrial Area Specific Plan (AIASP)",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s78p4b/data.zip\"}",
+  "dct_spatial_sm": [
+    "Napa County (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "2003"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s78p4b",
+  "gbl_mdModified_dt": "2012-11-28T23:34:19.043Z",
+  "id": "ark28722-s78p4b",
+  "locn_geometry": "ENVELOPE(-122.295491, -122.263974, 38.228437, 38.200198)",
+  "dcat_bbox": "ENVELOPE(-122.295491, -122.263974, 38.228437, 38.200198)",
+  "gbl_indexYear_im": [
+    2003
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

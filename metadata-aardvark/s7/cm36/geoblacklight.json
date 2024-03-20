@@ -1,0 +1,50 @@
+{
+  "dct_creator_sm": [
+    "Powell, Susan",
+    "Navarro, Fernando"
+  ],
+  "dct_description_sm": [
+    "This line dataset represents the roads in and near Mongolia in 1950. The features are identified as \"Main automobile roads,\" \"Other automobile roads,\" or \"Caravan routes and trails.\" The dataset was developed as part of the Mongolian 20th-century Historical GIS Database project. It is designed to integrate and align well with other datasets created as part of the project. It can be used for creating small to medium size maps of historical Mongolia and for analysis, as appropriate to the resolution. This data is only as accurate as the source maps upon which it is based. As such, the UC Berkeley Library does not guarantee the accuracy of the data. Researchers should use their own judgement about appropriate uses for this data. Users should please acknowledge and cite the “Mongolian 20th-century Historical GIS Database project” in any derivative works. The source map for this dataset is: \"Soviet Union, Glavnoe upravlenie geodezii i kartografii. Китай (China) [map]. Scale 1:5,000,000. Moscow: Glavnoe upravlenie geodezii i kartografii pri Sovete Ministrov SSSR, 1950.\""
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7cm36"
+  ],
+  "dct_publisher_sm": [
+    "UC Berkeley Library"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Transportation",
+    "Roads",
+    "Caravan Tracks"
+  ],
+  "dct_title_s": "Roads, Mongolia & Surrounding Areas, 1950",
+  "dct_isPartOf_sm": [
+    "berkeley-s7vx1w"
+  ],
+  "dct_issued_s": "2020-02-27",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7cm36/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7cm36/data.zip\"}",
+  "dct_spatial_sm": [
+    "Mongolia",
+    "China",
+    "Russia"
+  ],
+  "gbl_resourceType_sm": [
+    "Line data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7cm36",
+  "gbl_mdModified_dt": "2020-03-04T23:34:35.206Z",
+  "id": "berkeley-s7cm36",
+  "locn_geometry": "ENVELOPE(87.295858, 121.471108, 52.195303, 40.080067)",
+  "dcat_bbox": "ENVELOPE(87.295858, 121.471108, 52.195303, 40.080067)",
+  "gbl_indexYear_im": [
+    1950
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

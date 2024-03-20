@@ -1,0 +1,51 @@
+{
+  "dct_creator_sm": [
+    "Powell, Susan",
+    "Navarro, Fernando"
+  ],
+  "dct_description_sm": [
+    "This line dataset represents the boundary line for the China-Mongolia border drawn on Russian and Mongolian maps in the late 1950s and early 1960s, as represented on a US Army Togographic Command map printed in March 1971. The dataset was developed as part of the Mongolian 20th-century Historical GIS Database project. It is designed to integrate and align well with other datasets created as part of the project. It can be used for creating small to medium size maps of historical Mongolia and for analysis, as appropriate to the resolution. This data is only as accurate as the source maps upon which it is based. As such, the UC Berkeley Library does not guarantee the accuracy of the data. Researchers should use their own judgement about appropriate uses for this data. Users should please acknowledge and cite the \"Mongolian 20th-century Historical GIS Database project\" in any derivative works. The source map for this dataset is: 'Sino-Mongolian border: December 1962 [map],' scale approximately 1:10,000,000 (Washington, D.C.:Printed by the U.S. Army Topographic Command, 1971)."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "http://spatial.lib.berkeley.edu/viewpublic/berkeley-s7wq48"
+  ],
+  "dct_publisher_sm": [
+    "UC Berkeley Library"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Boundaries",
+    "Intelligencemilitary",
+    "Borders",
+    "Disputed Boundaries",
+    "Sino-mongolian Border"
+  ],
+  "dct_title_s": "China-Mongolia Border (as drawn on Russian and Mongolian maps), 1962",
+  "dct_isPartOf_sm": [
+    "berkeley-s7vx1w"
+  ],
+  "dct_issued_s": "2022-12-23",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7wq48/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7wq48/data.zip\"}",
+  "dct_spatial_sm": [
+    "Mongolia",
+    "China"
+  ],
+  "gbl_resourceType_sm": [
+    "Line data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7wq48",
+  "gbl_mdModified_dt": "2022-12-23T23:34:35.206Z",
+  "id": "berkeley-s7wq48",
+  "locn_geometry": "ENVELOPE(87.303319, 121.190562, 52.086988, 40.046725)",
+  "dcat_bbox": "ENVELOPE(87.303319, 121.190562, 52.086988, 40.046725)",
+  "gbl_indexYear_im": [
+    1962
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

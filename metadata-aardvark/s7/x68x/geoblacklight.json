@@ -1,0 +1,41 @@
+{
+  "dct_creator_sm": [
+    " Nevada County (Calif.)"
+  ],
+  "dct_description_sm": [
+    "The address point feature class provides site addresses maintained by the Planning Department. The address points are placed at the parcel centroid, and a parcel with many site addresses is manifested as overlapping points. Owner mailing address is not included."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7x68x"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Planningcadastre",
+    "Location",
+    "Street Addresses"
+  ],
+  "dct_title_s": "Addresses, Nevada County, California, 2013",
+  "dct_issued_s": "2013-01-30",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7x68x/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7x68x/data.zip\"}",
+  "dct_spatial_sm": [
+    "Nevada County (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Point data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7x68x",
+  "gbl_mdModified_dt": "2017-12-19T23:34:35.206Z",
+  "id": "berkeley-s7x68x",
+  "locn_geometry": "ENVELOPE(-121.281683, -120.003361, 39.519249, 38.993499)",
+  "dcat_bbox": "ENVELOPE(-121.281683, -120.003361, 39.519249, 38.993499)",
+  "gbl_indexYear_im": [
+    2013
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

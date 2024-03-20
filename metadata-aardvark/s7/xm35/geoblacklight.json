@@ -1,0 +1,39 @@
+{
+  "dct_creator_sm": [
+    "Department of Economic and Workforce Development ; City and Count of San Francisco "
+  ],
+  "dct_description_sm": [
+    "The CityLots spatial data layer is a representation of the City and County of San Francisco's Subdivision parcels. Each of the 200,000-plus polygons has a unique BLKLOT identifier which is the Assessor Parcel Number (APN). Multiple level (condominium, live/work, et al.) lots are represented as well, with their ground or base lot being the MAPBLKLOT key."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7xm35"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Planningcadastre",
+    "Enterprise Zones"
+  ],
+  "dct_title_s": "Enterprise Zone Lots, San Francisco, California, 2013 ",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7xm35/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7xm35/data.zip\"}",
+  "dct_spatial_sm": [
+    "San Francisco (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7xm35",
+  "gbl_mdModified_dt": "2018-02-23T23:34:35.206Z",
+  "id": "berkeley-s7xm35",
+  "locn_geometry": "ENVELOPE(-122.443738, -122.366821, 37.812388, 37.714239)",
+  "dcat_bbox": "ENVELOPE(-122.443738, -122.366821, 37.812388, 37.714239)",
+  "gbl_indexYear_im": [
+    2013
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

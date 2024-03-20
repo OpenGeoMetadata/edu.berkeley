@@ -1,0 +1,46 @@
+{
+  "dct_creator_sm": [
+    "Dept. of Public Works"
+  ],
+  "dct_description_sm": [
+    "This data set is a grid of San Francisco and Treasure Island that references the appropriate TileKey  Image and Quadrant for the Orthophotos."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7xs48"
+  ],
+  "dct_publisher_sm": [
+    "San Francisco (Calif.). Department Of Telecommunications and Information Services."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Imagery and Base Maps",
+    "Aerial Photos"
+  ],
+  "dct_title_s": "Orthophoto Grid",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7xs48/data.zip\"}",
+  "dct_spatial_sm": [
+    "San Francisco County (Calif.)",
+    "San Francisco (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7xs48",
+  "gbl_mdModified_dt": "2012-11-28T23:35:01.412Z",
+  "id": "ark28722-s7xs48",
+  "locn_geometry": "ENVELOPE(-142.793915, -122.218206, 37.833618, 30.0099)",
+  "dcat_bbox": "ENVELOPE(-142.793915, -122.218206, 37.833618, 30.0099)",
+  "gbl_indexYear_im": [
+    2000
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

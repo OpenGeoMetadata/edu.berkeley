@@ -1,0 +1,47 @@
+{
+  "dct_creator_sm": [
+    "Butte County (Calif.) -- Local Agency Formation Commission (LAFCo)"
+  ],
+  "dct_description_sm": [
+    "This polygonal dataset shows the district boundary of the El Medio Fire Suppression District in Butte County, California. Despite overlaps by the City Limits of Oroville, the boundary of the El Medio Fire Suppression District separates the City of Oroville, Butte County, CDF response responsibilities. El Medio Fire Suppression District was created in 1925. Subsequently, the district boundary was increased via annexations; and reduced by one detchment. Annexations: Crabtree, Dixen, Lacey Barnes Tract Annexations. Detachments: Wyandotte Avenue"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7dm58"
+  ],
+  "dct_publisher_sm": [
+    "Butte County (Calif.) -- Geographic Information Systems"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Boundaries",
+    "Environment",
+    "Planningcadastre",
+    "Fire Protection Districts",
+    "Emergency Management",
+    "Emergency Preparedness"
+  ],
+  "dct_title_s": "El Medio Fire Suppression District Annexations and Detachments, Butte County, California, 2004",
+  "dct_issued_s": "2004-12-08",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7dm58/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7dm58/data.zip\"}",
+  "dct_spatial_sm": [
+    "Butte County (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7dm58",
+  "gbl_mdModified_dt": "2018-04-10T23:34:35.206Z",
+  "id": "berkeley-s7dm58",
+  "locn_geometry": "ENVELOPE(-121.554083, -121.526025, 39.502121, 39.46573)",
+  "dcat_bbox": "ENVELOPE(-121.554083, -121.526025, 39.502121, 39.46573)",
+  "gbl_indexYear_im": [
+    2004
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

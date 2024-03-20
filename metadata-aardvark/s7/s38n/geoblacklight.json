@@ -1,0 +1,45 @@
+{
+  "dct_creator_sm": [
+    "Alameda County (Calif.)",
+    "Alameda County (Calif.). Assessor's Office",
+    "Community Development Agency "
+  ],
+  "dct_description_sm": [
+    "This dataset represents water districts in Alameda County, California. Geo-spatital files were were mapped and created by the county of Alameda. "
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7s38n"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Inlandwaters",
+    "Boundaries",
+    "Planningcadastre",
+    "Water Districts",
+    "Water Districts--california"
+  ],
+  "dct_title_s": "Water Districts, Alameda County, California, 2007",
+  "dct_issued_s": "2014-01-01",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7s38n/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7s38n/data.zip\"}",
+  "dct_spatial_sm": [
+    "Alameda County (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7s38n",
+  "gbl_mdModified_dt": "2014-11-07T23:34:35.206Z",
+  "id": "berkeley-s7s38n",
+  "locn_geometry": "ENVELOPE(-122.15563, -121.872611, 37.622463, 37.451219)",
+  "dcat_bbox": "ENVELOPE(-122.15563, -121.872611, 37.622463, 37.451219)",
+  "gbl_indexYear_im": [
+    2007
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

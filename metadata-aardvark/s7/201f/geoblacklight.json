@@ -1,0 +1,46 @@
+{
+  "dct_creator_sm": [
+    "City of Hayard"
+  ],
+  "dct_description_sm": [
+    "Commercial, residential and public address locations in the City of Hayward, California"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7201f"
+  ],
+  "dct_publisher_sm": [
+    "Hayward (Calif.)"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Location",
+    "Geodetic Networks"
+  ],
+  "dct_title_s": "Address Points Hayward 2010",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7201f/data.zip\"}",
+  "dct_spatial_sm": [
+    "Hayward (Calif.)",
+    "Alameda County (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "gbl_resourceType_sm": [
+    "Point data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7201f",
+  "gbl_mdModified_dt": "2012-11-28T23:34:35.128Z",
+  "id": "ark28722-s7201f",
+  "locn_geometry": "ENVELOPE(-122.184245, -121.925872, 37.700083, 37.604694)",
+  "dcat_bbox": "ENVELOPE(-122.184245, -121.925872, 37.700083, 37.604694)",
+  "gbl_indexYear_im": [
+    2010
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

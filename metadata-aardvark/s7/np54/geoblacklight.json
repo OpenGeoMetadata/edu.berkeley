@@ -1,0 +1,46 @@
+{
+  "dct_creator_sm": [
+    "County of Napa ITS Department"
+  ],
+  "dct_description_sm": [
+    "View of the parcels layer for use with public web applications.  This layer has a subset of the attributes that are available in the Parcels layer."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7np54"
+  ],
+  "dct_publisher_sm": [
+    "Napa County (Calif.). County Of Napa."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Parcels",
+    "Boundaries",
+    "Planning and Cadastral"
+  ],
+  "dct_title_s": "Parcels Public",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7np54/data.zip\"}",
+  "dct_spatial_sm": [
+    "Napa County (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "2008"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7np54",
+  "gbl_mdModified_dt": "2012-11-28T23:35:06.457Z",
+  "id": "ark28722-s7np54",
+  "locn_geometry": "ENVELOPE(-122.662302, -122.061226, 38.864947, 38.153245)",
+  "dcat_bbox": "ENVELOPE(-122.662302, -122.061226, 38.864947, 38.153245)",
+  "gbl_indexYear_im": [
+    2008
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

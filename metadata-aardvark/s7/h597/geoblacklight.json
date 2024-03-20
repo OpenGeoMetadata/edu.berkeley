@@ -1,0 +1,42 @@
+{
+  "dct_creator_sm": [
+    "Tele Atlas North America, Inc."
+  ],
+  "dct_description_sm": [
+    "U.S. ZIP Code Areas (Five-Digit) represents five-digit ZIP Code areas used by the U.S. Postal Service to deliver mail more effectively. The first digit of a five-digit ZIP Code divides the United States into 10 large groups of states numbered from 0 in the Northeast to 9 in the far West. Within these areas, each state is divided into an average of 10 smaller geographical areas, identified by the second and third digits. These digits, in conjunction with the first digit, represent a sectional center facility or a mail processing facility area. The fourth and fifth digits identify a post office, station, branch or local delivery area."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/UCB/ark28722-s7h597"
+  ],
+  "dct_publisher_sm": [
+    "Berkeley (Calif.). City Of Berkeley."
+  ],
+  "dct_accessRights_s": "Restricted",
+  "dct_subject_sm": [
+    "Zip Codes"
+  ],
+  "dct_title_s": "U.S. ZIP Code Areas (Five-Digit)",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices-secure.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices-secure.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/UCB/ark28722-s7h597/data.zip\"}",
+  "dct_spatial_sm": [
+    "Berkeley (Calif.)",
+    "Alameda County (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7h597",
+  "gbl_mdModified_dt": "2012-11-28T23:35:32.652Z",
+  "id": "ark28722-s7h597",
+  "locn_geometry": "ENVELOPE(-122.328244, -122.216184, 37.92164, 37.844474)",
+  "dcat_bbox": "ENVELOPE(-122.328244, -122.216184, 37.92164, 37.844474)",
+  "gbl_indexYear_im": [
+    2008
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

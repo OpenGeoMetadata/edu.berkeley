@@ -1,0 +1,48 @@
+{
+  "dct_creator_sm": [
+    "Vestra Resources Inc. Redding, CA"
+  ],
+  "dct_description_sm": [
+    "Sphere of Influence for the Napa Sanitation District."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s75p5s"
+  ],
+  "dct_publisher_sm": [
+    "Napa County (Calif.). County Of Napa."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Boundaries",
+    "Utilities and Communication",
+    "Sanitation",
+    "Infrastructure",
+    "Waste Management"
+  ],
+  "dct_title_s": "Sphere of Influence for the Napa Sanitation District",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s75p5s/data.zip\"}",
+  "dct_spatial_sm": [
+    "Napa County (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "2002"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s75p5s",
+  "gbl_mdModified_dt": "2012-11-28T23:35:01.338Z",
+  "id": "ark28722-s75p5s",
+  "locn_geometry": "ENVELOPE(-122.359317, -122.230428, 38.366871, 38.205673)",
+  "dcat_bbox": "ENVELOPE(-122.359317, -122.230428, 38.366871, 38.205673)",
+  "gbl_indexYear_im": [
+    2002
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

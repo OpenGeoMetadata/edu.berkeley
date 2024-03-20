@@ -1,0 +1,39 @@
+{
+  "dct_creator_sm": [
+    "Department of Conservation & Development, Contra Costa County"
+  ],
+  "dct_description_sm": [
+    "This dataset represents the Base Map within Contra Costa, California. Latest data revision occurred in 2002; Data was mapped and provided by the DCD GIS/Graphics Group within the Department of Conservation &amp; Development. "
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7kq2q"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Boundaries",
+    "Outline and Base Maps"
+  ],
+  "dct_title_s": "Base Map, Contra Costa County, California, 2002",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7kq2q/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7kq2q/data.zip\"}",
+  "dct_spatial_sm": [
+    "Contra Costa County (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7kq2q",
+  "gbl_mdModified_dt": "2017-12-19T23:34:35.206Z",
+  "id": "berkeley-s7kq2q",
+  "locn_geometry": "ENVELOPE(-122.447237, -121.534743, 38.110271, 37.703459)",
+  "dcat_bbox": "ENVELOPE(-122.447237, -121.534743, 38.110271, 37.703459)",
+  "gbl_indexYear_im": [
+    2002
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

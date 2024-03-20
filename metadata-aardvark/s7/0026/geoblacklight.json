@@ -1,0 +1,47 @@
+{
+  "dct_creator_sm": [
+    "Towill Inc."
+  ],
+  "dct_description_sm": [
+    "Spot Elevation Points of the Napa River Watershed Area, 200 foot interval.  The area covered by this data is referred to as the Watershed Area because it lies within the Napa River Watershed which is roughly the western half of the county. The data was originally delivered in 12,000 ft x 12,000 ft tiles. These were mosaiced together to create this layer."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s70026"
+  ],
+  "dct_publisher_sm": [
+    "Napa County (Calif.). County Of Napa."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Elevation",
+    "Dtm",
+    "Planimetric Control Points",
+    "Spot Elevation"
+  ],
+  "dct_title_s": "Spot Elevations, Watershed area",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s70026/data.zip\"}",
+  "dct_spatial_sm": [
+    "Napa County (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "gbl_resourceType_sm": [
+    "Point data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s70026",
+  "gbl_mdModified_dt": "2012-11-28T23:35:27.343Z",
+  "id": "ark28722-s70026",
+  "locn_geometry": "ENVELOPE(-122.653308, -122.18269, 38.674384, 38.148358)",
+  "dcat_bbox": "ENVELOPE(-122.653308, -122.18269, 38.674384, 38.148358)",
+  "gbl_indexYear_im": [
+    2010
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

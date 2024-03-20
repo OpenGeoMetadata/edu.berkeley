@@ -1,0 +1,44 @@
+{
+  "dct_creator_sm": [
+    "California Department of Forestry and Fire Protection"
+  ],
+  "dct_description_sm": [
+    "California regions developed by the Inter-agency Natural Areas Coordinating Committee (INACC) were digitized from a 1:1,200,000 California Department of Fish and Game paper map. The 2004 update utilizes the 1:24,000-scale county boundaries, coastline and state boundary from the  CMCC Framework data layer CNTY24K97_1. The North and South Sierra bioregions have also been collapsed to form one region,Sierra."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7301r"
+  ],
+  "dct_publisher_sm": [
+    "California. California Department Of Forestry and Fire Protection."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Biota"
+  ],
+  "dct_title_s": "Bioregions (INACC Regions)",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7301r/data.zip\"}",
+  "dct_spatial_sm": [
+    "California"
+  ],
+  "dct_temporal_sm": [
+    "2004"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7301r",
+  "gbl_mdModified_dt": "2012-11-28T23:34:56.137Z",
+  "id": "ark28722-s7301r",
+  "locn_geometry": "ENVELOPE(-124.511649, -113.497863, 42.068568, 32.423674)",
+  "dcat_bbox": "ENVELOPE(-124.511649, -113.497863, 42.068568, 32.423674)",
+  "gbl_indexYear_im": [
+    2004
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

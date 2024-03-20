@@ -1,0 +1,40 @@
+{
+  "dct_creator_sm": [
+    "San Francisco Enterprise GIS Program, Department of Technology"
+  ],
+  "dct_description_sm": [
+    "This data layer shows building footprints for the City and County of San Francisco as of June 2011. There were created using the ArcGIS 3D Analyst conversion tool, \"MultiPatch Footprint,\" converting the 3D building model data the City licensed from PIctometry, Inc."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s71t2s"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Planningcadastre",
+    "Structure",
+    "Buildings"
+  ],
+  "dct_title_s": "Building Footprints , San Francisco, California, 2014",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s71t2s/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s71t2s/data.zip\"}",
+  "dct_spatial_sm": [
+    "San Francisco (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s71t2s",
+  "gbl_mdModified_dt": "2015-05-08T23:34:35.206Z",
+  "id": "berkeley-s71t2s",
+  "locn_geometry": "ENVELOPE(-122.515654, -122.357094, 37.832176, 37.703688)",
+  "dcat_bbox": "ENVELOPE(-122.515654, -122.357094, 37.832176, 37.703688)",
+  "gbl_indexYear_im": [
+    2014
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

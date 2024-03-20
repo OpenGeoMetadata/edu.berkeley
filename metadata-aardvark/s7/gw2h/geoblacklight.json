@@ -1,0 +1,44 @@
+{
+  "dct_creator_sm": [
+    "compiled from US Geological Survey sources by Brian B. Quinn, Ph.D. GISP"
+  ],
+  "dct_description_sm": [
+    "Marin county-wide geology compiled from four USGS publications and 2004 topographic mapping\n- Open-File Report (1997) OFR97-456 for Point Reyes and the San Andreas Fault Zone, 1:48000\n- Miscellaneous Field Study (2000) MF-2337 for parts of Marin, San Francisco, and Contra Costa counties, 1:75000\n- portion of Miscellaneous Field Study (2005)  MF-2402 for northernmost Marin and western Sonoma counties, 1:62500\n- portion of Scientific Investigations Map (2007) SIM-2956 for eastern Sonoma county, 1:62500"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7gw2h"
+  ],
+  "dct_publisher_sm": [
+    "San Rafael (Calif.). County Of Marin."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Geology"
+  ],
+  "dct_title_s": "ENTERPRISE_DBO_geology",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7gw2h/data.zip\"}",
+  "dct_spatial_sm": [
+    "Marin County (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7gw2h",
+  "gbl_mdModified_dt": "2012-11-28T23:34:50.899Z",
+  "id": "ark28722-s7gw2h",
+  "locn_geometry": "ENVELOPE(-123.08608, -122.249616, 38.533472, 37.737207)",
+  "dcat_bbox": "ENVELOPE(-123.08608, -122.249616, 38.533472, 37.737207)",
+  "gbl_indexYear_im": [
+    2009
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

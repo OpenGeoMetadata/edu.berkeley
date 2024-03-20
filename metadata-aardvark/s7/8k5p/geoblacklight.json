@@ -1,0 +1,51 @@
+{
+  "dct_creator_sm": [
+    "Napa County Conservation Department"
+  ],
+  "dct_description_sm": [
+    "Napa County's Domestic Water Supply Drainages pertaining to Napa County Ordinance 1219.  Boundaries taken from the Drainages layer."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s78k5p"
+  ],
+  "dct_publisher_sm": [
+    "Napa County (Calif.). County Of Napa."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Hydrology"
+  ],
+  "dct_title_s": "Domestic_Wtr",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s78k5p/data.zip\"}",
+  "dct_spatial_sm": [
+    "Napa County (Calif.)",
+    "Kimball Reservoir (Calif.)",
+    "Bell Canyon Reservoir (Calif.)",
+    "Lake Hennessey (Calif.)",
+    "Rector Reservoir (Calif.)",
+    "Milliken Reservoir (Calif.)",
+    "Lake Curry (Calif.)",
+    "Lake Madigan(Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "2005"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s78k5p",
+  "gbl_mdModified_dt": "2012-11-28T23:34:45.600Z",
+  "id": "ark28722-s78k5p",
+  "locn_geometry": "ENVELOPE(-122.63436, -122.084552, 38.668212, 38.314232)",
+  "dcat_bbox": "ENVELOPE(-122.63436, -122.084552, 38.668212, 38.314232)",
+  "gbl_indexYear_im": [
+    2005
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

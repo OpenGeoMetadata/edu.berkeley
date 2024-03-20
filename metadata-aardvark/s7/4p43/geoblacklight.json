@@ -1,0 +1,47 @@
+{
+  "dct_creator_sm": [
+    "EDAW Inc"
+  ],
+  "dct_description_sm": [
+    "Dataset showing potential prime rangelands in Napa County based on soil information from SSURGO."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s74p43"
+  ],
+  "dct_publisher_sm": [
+    "Napa County (Calif.). County Of Napa."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Farming",
+    "Soils",
+    "Rangeland",
+    "Grazing"
+  ],
+  "dct_title_s": "potential_rangeland",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s74p43/data.zip\"}",
+  "dct_spatial_sm": [
+    "Napa County (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "2004"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s74p43",
+  "gbl_mdModified_dt": "2012-11-28T23:35:11.629Z",
+  "id": "ark28722-s74p43",
+  "locn_geometry": "ENVELOPE(-122.635669, -122.061703, 38.848714, 38.15336)",
+  "dcat_bbox": "ENVELOPE(-122.635669, -122.061703, 38.848714, 38.15336)",
+  "gbl_indexYear_im": [
+    2004
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

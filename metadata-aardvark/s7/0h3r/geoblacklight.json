@@ -1,0 +1,40 @@
+{
+  "dct_creator_sm": [
+    "Kern County (Calif.) -- Engineering, Surveying and Permit Services "
+  ],
+  "dct_description_sm": [
+    "This polygonal dataset contains all zoning districts with the exclusion of the incorporated cities for Kern County, California in 2014."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s70h3r"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Planningcadastre",
+    "Zoning"
+  ],
+  "dct_title_s": "Zoning Districts, Kern County, California, 2014",
+  "dct_issued_s": "2014-10-15",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s70h3r/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s70h3r/data.zip\"}",
+  "dct_spatial_sm": [
+    "Kern County (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s70h3r",
+  "gbl_mdModified_dt": "2018-02-16T23:34:35.206Z",
+  "id": "berkeley-s70h3r",
+  "locn_geometry": "ENVELOPE(-120.198674, -117.627431, 35.808878, 34.772396)",
+  "dcat_bbox": "ENVELOPE(-120.198674, -117.627431, 35.808878, 34.772396)",
+  "gbl_indexYear_im": [
+    2014
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

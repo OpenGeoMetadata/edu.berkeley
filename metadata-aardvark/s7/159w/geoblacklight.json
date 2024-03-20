@@ -1,0 +1,48 @@
+{
+  "dct_creator_sm": [
+    "Amy Lee, City of Berkeley, Office of Transportation"
+  ],
+  "dct_description_sm": [
+    "City of Berkeley Bicycle Boulevard - Bicycle priority streets.  Most sections are quiet residential streets and have bike lanes or routes.  Look for purple bicycle boulevard signs.  Bike Boulevard is also classified as Bike Routes (class3)"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7159w"
+  ],
+  "dct_publisher_sm": [
+    "Berkeley (Calif.). City Of Berkeley."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Bikes",
+    "Bike Routes",
+    "Bike Networks",
+    "Transportation"
+  ],
+  "dct_title_s": "Bike_Blvds",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7159w/data.zip\"}",
+  "dct_spatial_sm": [
+    "Berkeley (Calif.)",
+    "Alameda County (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "2004"
+  ],
+  "gbl_resourceType_sm": [
+    "Line data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7159w",
+  "gbl_mdModified_dt": "2012-11-28T23:34:24.473Z",
+  "id": "ark28722-s7159w",
+  "locn_geometry": "ENVELOPE(-122.300515, -122.244295, 37.886772, 37.846088)",
+  "dcat_bbox": "ENVELOPE(-122.300515, -122.244295, 37.886772, 37.846088)",
+  "gbl_indexYear_im": [
+    2004
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

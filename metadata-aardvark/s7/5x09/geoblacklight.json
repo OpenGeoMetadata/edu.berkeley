@@ -1,0 +1,40 @@
+{
+  "dct_creator_sm": [
+    "Fresno County (Calif.). Department of Public Works and Planning"
+  ],
+  "dct_description_sm": [
+    "This polygon dataset shows all existing lake waterbodies within Fresno County, California for 2016."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s75x09"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Inlandwaters",
+    "Lakes",
+    "Bodies Of Water"
+  ],
+  "dct_title_s": "Lakes, Fresno County, California, 2016",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s75x09/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s75x09/data.zip\"}",
+  "dct_spatial_sm": [
+    "Fresno County (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s75x09",
+  "gbl_mdModified_dt": "2018-02-23T23:34:35.206Z",
+  "id": "berkeley-s75x09",
+  "locn_geometry": "ENVELOPE(-119.74349, -118.899705, 37.406962, 36.726307)",
+  "dcat_bbox": "ENVELOPE(-119.74349, -118.899705, 37.406962, 36.726307)",
+  "gbl_indexYear_im": [
+    2016
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

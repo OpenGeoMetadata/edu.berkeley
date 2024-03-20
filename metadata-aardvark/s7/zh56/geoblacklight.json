@@ -1,0 +1,41 @@
+{
+  "dct_creator_sm": [
+    "Santa Cruz County GIS"
+  ],
+  "dct_description_sm": [
+    "This polygonal dataset shows building footprints for all structures within Santa Cruz County. The layer was developed between 2003 and 2008 based on Ortho-photography from the same years. Structures that were visible on the orthos were traced. The City of Santa Cruz and Watsonville had their footprints mapped by a consultant. The rest of the county was done by a combination of interns and County GIS staff. The primary purpose was for Fire Modeling and disaster preparedness. "
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7zh56"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Structure",
+    "Buildings",
+    "Structures"
+  ],
+  "dct_title_s": "Building Footprints, Santa Cruz County, California, 2008",
+  "dct_issued_s": "2008-12-03",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7zh56/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7zh56/data.zip\"}",
+  "dct_spatial_sm": [
+    "Santa Cruz County (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7zh56",
+  "gbl_mdModified_dt": "2018-04-10T23:34:35.206Z",
+  "id": "berkeley-s7zh56",
+  "locn_geometry": "ENVELOPE(-122.365518, -121.580872, 37.293321, 36.84507)",
+  "dcat_bbox": "ENVELOPE(-122.365518, -121.580872, 37.293321, 36.84507)",
+  "gbl_indexYear_im": [
+    2008
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

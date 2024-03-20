@@ -1,0 +1,42 @@
+{
+  "dct_creator_sm": [
+    "Geographic Information Systems, Sonoma County, California "
+  ],
+  "dct_description_sm": [
+    "The community separators dataset represents the Open Space and Resource Conservation Scenic Resources Element 2.1 of the Sonoma County General Plan 2020 as adopted on September 23, 2008 by Resolution No. 08-0808. This dataset includes revisions to the Community Separator adopted by Resolution #11-0463 on August 23, 2011. The community separators element assists in identifying eight areas that preserve the visual identities of communities by maintaining open space areas between cities and communities. These areas need to remain open or retain a rural character in order to avoid corridor-style urbanization. Therefore, the community separators function as rural open space to separate cities and other communities, contain urban development, and to provide city and community identity by providing visual relief from continuous urbanization. Although community separators are rural areas that have open space characteristics, many of these areas are also scenic. The lands within community separators are frequently subject to pressure for development because they are close to developed areas and major roads. The community separators represent one of three scenic resources component categories of the Sonoma County General Plan 2020 Open Space and Resource Conservation Element. The other scenic resource categories are Scenic Corridors and Scenic Landscape Units. The Figure OSRC-1 (http://www.sonoma-county.org/prmd/gp2020/adopted/fig-osrc1.pdf) shows these designated scenic resource areas. The following eight areas have been designated as Community Separators: Petaluma/Novato Petaluma/Rohnert Park Rohnert Park/Santa Rosa Santa Rosa/Sebastopol Windsor/Larkfield/Santa Rosa Windsor/Healdsburg Northeast Santa Rosa Glen Ellen/Agua Caliente The intent of the plan is that policies, guidelines, and standards be clear and direct so that property owners and citizens may easily understand its provisions and how they apply to parcels of land as well as their cumulative impact on future environmental conditions and quality of life. The broad purpose of the Sonoma County General Plan is to express policies which will guide decisions on future growth, development, and conservation of resources through 2020 in a manner consistent with the goals and quality of life desired by the county's residents. Under State law many actions on private land development, such as specific plans, area plans, zoning, subdivisions, public agency projects and other decisions must be consistent with the general plan. The goals, objectives, and policies set forth in the plan will be applied in a manner to insure their constitutionality. Per Title 7, Division 1 of the Government Code of the State of California. Article 5, Section 65300 et seq, the County of Sonoma is required to adopt a comprehensive general plan to guide its future physical development. Therefore, as required by law, the 2020 Sonoma County General Plan was officially adopted on September 23, 2008. Related Resources: Sonoma County General Plan 2020 Index [includes amendments since adoption] http://www.sonoma-county.org/prmd/gp2020/index.htm Sonoma County General Plan 2020 Open Space and Resource Conservation Scenic Resources Element http://www.sonoma-county.org/prmd/gp2020/adopted/osrce.pdf"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s7m09f"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Boundaries",
+    "Environment",
+    "Open Spaces--california",
+    "Landscape Protection"
+  ],
+  "dct_title_s": "Community Separators, Sonoma County, California, 2015",
+  "dct_issued_s": "2011-12-01",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7m09f/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7m09f/data.zip\"}",
+  "dct_spatial_sm": [
+    "Sonoma County (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7m09f",
+  "gbl_mdModified_dt": "2018-04-02T23:34:35.206Z",
+  "id": "berkeley-s7m09f",
+  "locn_geometry": "ENVELOPE(-122.858585, -122.486156, 38.608082, 38.178743)",
+  "dcat_bbox": "ENVELOPE(-122.858585, -122.486156, 38.608082, 38.178743)",
+  "gbl_indexYear_im": [
+    2015
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "dct_creator_sm": [
+    "Town of Corte Madera"
+  ],
+  "dct_description_sm": [
+    "The Zoning map denotes the spatial extent of land use designations defined in the Town of Corte Madera Zoning Ordinance/Development Code. Data extend over Assessor parcel boundaries in Town of Corte Madera's Sphere of Influence."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7x30v"
+  ],
+  "dct_publisher_sm": [
+    "San Rafael (Calif.). County Of Marin."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Planning and Cadastral",
+    "Land Use"
+  ],
+  "dct_title_s": "Corte Madera Zoning Map",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7x30v/data.zip\"}",
+  "dct_spatial_sm": [
+    "Corte Madera (Calif.)",
+    "Marin County (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "2008"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7x30v",
+  "gbl_mdModified_dt": "2012-11-28T23:34:40.453Z",
+  "id": "ark28722-s7x30v",
+  "locn_geometry": "ENVELOPE(-122.539465, -122.477661, 37.942616, 37.906695)",
+  "dcat_bbox": "ENVELOPE(-122.539465, -122.477661, 37.942616, 37.906695)",
+  "gbl_indexYear_im": [
+    2008
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

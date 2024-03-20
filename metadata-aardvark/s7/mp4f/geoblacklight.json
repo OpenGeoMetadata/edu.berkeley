@@ -1,0 +1,45 @@
+{
+  "dct_creator_sm": [
+    "EDAW, Inc."
+  ],
+  "dct_description_sm": [
+    "Major and Minor Ridgelines for Napa County"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7mp4f"
+  ],
+  "dct_publisher_sm": [
+    "Napa County (Calif.). County Of Napa."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Elevation",
+    "Ridgelines"
+  ],
+  "dct_title_s": "ridgeline",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7mp4f/data.zip\"}",
+  "dct_spatial_sm": [
+    "Napa County (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "gbl_resourceType_sm": [
+    "Line data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7mp4f",
+  "gbl_mdModified_dt": "2012-11-28T23:35:16.802Z",
+  "id": "ark28722-s7mp4f",
+  "locn_geometry": "ENVELOPE(-122.646558, -122.061343, 38.863457, 38.174036)",
+  "dcat_bbox": "ENVELOPE(-122.646558, -122.061343, 38.863457, 38.174036)",
+  "gbl_indexYear_im": [
+    2010
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "dct_creator_sm": [
+    "County of Sonoma GIS Central"
+  ],
+  "dct_description_sm": [
+    "This layer represents the orthophotography delivered by Merrick to the County of Sonoma.  The layer is divided up into 1596 different tiles which represent the individual photos of the orthophotography.  Smaller tiles represent high resolution orthophotography with 1/4 foot pixels with medium and large tiles representing decreasing resolution of 1/2 foot pixels, 1 foot pixels, and 2 foot pixels respectively.  The County GIS database encompasses the entire geographic extent of the project limits as defined in the scope of work documentation.  In order to rapidly reference and manage coverages, ARC/INFO graphic databases must be logically divided based on geographic area.  This module/area is termed a \"TILE\" by ARC/INFO.  In this project, the tile sizes are: 2000' (\"y\" axis) by 3000' (\"x\" axis) - Cotati, Rohnert Park and Petaluma, 4000' (\"y\" axis) by 6000' (\"x\" axis) - Areas of Significant Interest (Including Santa Rosa), 8000' (\"y\" axis) by 12000' (\"x\" axis) - Areas of Lesser Interest"
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7188j"
+  ],
+  "dct_publisher_sm": [
+    "Santa Rosa (Calif.). County Of Sonoma Gis Central."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Imagery and Base Maps",
+    "Aerial Photos"
+  ],
+  "dct_title_s": "REF_ORTHINDX",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7188j/data.zip\"}",
+  "dct_spatial_sm": [
+    "Sonoma County (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "2001"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7188j",
+  "gbl_mdModified_dt": "2012-11-28T23:35:11.752Z",
+  "id": "ark28722-s7188j",
+  "locn_geometry": "ENVELOPE(-122.713822, -122.703251, 38.366298, 38.355251)",
+  "dcat_bbox": "ENVELOPE(-122.713822, -122.703251, 38.366298, 38.355251)",
+  "gbl_indexYear_im": [
+    2001
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

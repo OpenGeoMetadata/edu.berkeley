@@ -1,0 +1,40 @@
+{
+  "dct_creator_sm": [
+    "City of Oakland, City Administration  "
+  ],
+  "dct_description_sm": [
+    "Council Districts are located within the confines of the City of Oakland, California. Boundaries have been updated to show 2005 districts. "
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s71h4f"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Boundaries",
+    "Judicial Districts",
+    "Election Districts"
+  ],
+  "dct_title_s": "Council Districts, Oakland, California, 2005",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s71h4f/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s71h4f/data.zip\"}",
+  "dct_spatial_sm": [
+    "Oakland (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s71h4f",
+  "gbl_mdModified_dt": "2018-02-16T23:34:35.206Z",
+  "id": "berkeley-s71h4f",
+  "locn_geometry": "ENVELOPE(-122.369408, -122.112939, 37.887174, 37.630485)",
+  "dcat_bbox": "ENVELOPE(-122.369408, -122.112939, 37.887174, 37.630485)",
+  "gbl_indexYear_im": [
+    2005
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

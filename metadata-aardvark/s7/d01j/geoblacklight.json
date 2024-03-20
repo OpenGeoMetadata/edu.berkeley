@@ -1,0 +1,44 @@
+{
+  "dct_creator_sm": [
+    "MarinMap"
+  ],
+  "dct_description_sm": [
+    "Precipitation data created under the recommendation of consultant Bill Vandivere for the Marin Countywide Plan.  Data was digitized from \"Isohyetal Map of San Francisco Bay Region, California, Showing Mean Annual Precipitation\" (1906-56).  This map was shown in the United States Department of the Interior Geological Survey Water Resources Division publication \"Mean Annual Precipitation and Precipitation Depth-Duration-Frequency Data for the San Francisco Bay Region, California\" by S.E. Rantz (1971)."
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/ark28722-s7d01j"
+  ],
+  "dct_publisher_sm": [
+    "San Rafael (Calif.). County Of Marin."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Climatology, Meteorology and Atmosphere"
+  ],
+  "dct_title_s": "Precipitation Marin County 2011",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s7d01j/data.zip\"}",
+  "dct_spatial_sm": [
+    "Marin County (Calif.)"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "gbl_resourceType_sm": [
+    "Line data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s7d01j",
+  "gbl_mdModified_dt": "2012-11-28T23:35:11.644Z",
+  "id": "ark28722-s7d01j",
+  "locn_geometry": "ENVELOPE(-123.023075, -122.342841, 38.32272, 37.810903)",
+  "dcat_bbox": "ENVELOPE(-123.023075, -122.342841, 38.32272, 37.810903)",
+  "gbl_indexYear_im": [
+    2011
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}

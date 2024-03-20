@@ -1,0 +1,44 @@
+{
+  "dct_creator_sm": [
+    "Yolo County, Public Works Division, Planning Services "
+  ],
+  "dct_description_sm": [
+    "This dataset represents the sphere of influence within Yolo County, California. Latest data export January 9th , 2013. Data was mapped and provided by the Yolo County, Public Works Division "
+  ],
+  "dct_format_s": "Shapefile",
+  "dct_identifier_sm": [
+    "https://spatial.lib.berkeley.edu/viewpublic/berkeley-s77t2n"
+  ],
+  "dct_publisher_sm": [
+    "Yolo County (Calif.). Public Works Division "
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_subject_sm": [
+    "Boundaries",
+    "Society",
+    "Spheres Of Influence"
+  ],
+  "dct_title_s": "Sphere of Influence, Yolo County, California, 2013",
+  "dct_issued_s": "2013-01-09",
+  "schema_provider_s": "University of California Berkeley",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s77t2n/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s77t2n/data.zip\"}",
+  "dct_spatial_sm": [
+    "Yolo County (Calif.)"
+  ],
+  "gbl_resourceType_sm": [
+    "Polygon data",
+    "Vector data"
+  ],
+  "gbl_wxsIdentifier_s": "s77t2n",
+  "gbl_mdModified_dt": "2018-04-10T23:34:35.206Z",
+  "id": "berkeley-s77t2n",
+  "locn_geometry": "ENVELOPE(-122.002519, -121.505382, 38.709638, 38.50126)",
+  "dcat_bbox": "ENVELOPE(-122.002519, -121.505382, 38.709638, 38.50126)",
+  "gbl_indexYear_im": [
+    2013
+  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ]
+}
