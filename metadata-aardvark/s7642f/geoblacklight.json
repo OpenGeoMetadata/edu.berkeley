@@ -1,0 +1,69 @@
+{
+    "dcat_bbox":"ENVELOPE(-122.15716281934056,-121.9436727725334,37.722431490227315,37.56796431453016)",
+    "dcat_keyword_sm":[
+        "Education",
+        "Points of interest"
+    ],
+    "dcat_theme_sm":[
+        "Location",
+        "Society",
+        "Structure"
+    ],
+    "dct_accessRights_s":"Public",
+    "dct_creator_sm":[
+        "City of Hayward"
+    ],
+    "dct_description_sm":[
+        "This point dataset represents locations of points of interest in Hayward, California as of 2018. Points of interest include the locations of schools, libraries, parks, government buildings, etc. It was downloaded from the City of Hayward (California) Open Data Portal in February 2019 by the University of California Berkeley Library as part of the California Open Data project. The data was reported on the website it was downloaded from to be last updated on June 26, 2018 and published on February 9, 2016."
+    ],
+    "dct_format_s":"Shapefile",
+    "dct_issued_s":"2018",
+    "dct_language_sm":[
+        "en"
+    ],
+    "dct_publisher_sm":[
+        "City of Hayward"
+    ],
+    "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7642f/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7642f/data.zip\"}",
+    "dct_rights_sm":[
+        "This item is in the public domain. There are no restrictions on use."
+    ],
+    "dct_spatial_sm":[
+        "Hayward (Calif.)",
+        "Alameda County (Calif.)",
+        "California"
+    ],
+    "dct_subject_sm":[
+        "Public Buildings",
+        "Municipal Buildings",
+        "Sports Facilities",
+        "Social Centers",
+        "School Facilities",
+        "Centers (Places For Activities)",
+        "Facilities",
+        "Public Spaces",
+        "Recreation Areas",
+        "Parks"
+    ],
+    "dct_temporal_sm":[
+        "2018"
+    ],
+    "dct_title_s":"Points of Interest, Hayward, California, 2018",
+    "gbl_fileSize_s":"0.02 MB",
+    "gbl_indexYear_im":[
+        2018
+    ],
+    "gbl_mdModified_dt":"2024-03-12T00:00:00Z",
+    "gbl_mdVersion_s":"Aardvark",
+    "gbl_resourceClass_sm":[
+        "Datasets"
+    ],
+    "gbl_resourceType_sm":[
+        "Point data",
+        "Vector data"
+    ],
+    "gbl_wxsIdentifier_s":"s7642f",
+    "id":"berkeley-s7642f",
+    "locn_geometry":"ENVELOPE(-122.15716281934056,-121.9436727725334,37.722431490227315,37.56796431453016)",
+    "schema_provider_s":"University of California Berkeley"
+}

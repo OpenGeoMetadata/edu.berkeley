@@ -1,0 +1,58 @@
+{
+    "dcat_bbox":"ENVELOPE(-120.99564866400145,-120.01785436552828,38.50988024887962,37.832911024759355)",
+    "dcat_keyword_sm":[
+        "Voter Precincts"
+    ],
+    "dcat_theme_sm":[
+        "Boundaries",
+        "Society"
+    ],
+    "dct_accessRights_s":"Public",
+    "dct_creator_sm":[
+        "Calaveras County GIS"
+    ],
+    "dct_description_sm":[
+        "This dataset shows the Voter Precincts for Calaveras County, California. It was downloaded from https://opendata-calaveras-gis.opendata.arcgis.com/datasets/calaveras-county-open-data-voter-precincts on November 3, 2020 by the University of California Berkeley Library as part of the California Open Data project. The data was reported on the website it was downloaded from to be last updated on July 29, 2020. The Calaveras County GIS Project was started through the cooperative effort of The City of Angels Camp, The Calaveras County Water District, The Calaveras Council of Governments, and the County of Calaveras and is used to distribute the county datasets to the general public."
+    ],
+    "dct_format_s":"Shapefile",
+    "dct_issued_s":"2020-07-29",
+    "dct_language_sm":[
+        "eng"
+    ],
+    "dct_publisher_sm":[
+        "Calaveras County GIS"
+    ],
+    "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7270g/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7270g/data.zip\"}",
+    "dct_rights_sm":[
+        "This item is in the public domain. There are no restrictions on use."
+    ],
+    "dct_spatial_sm":[
+        "Calaveras County (Calif.)",
+        "California"
+    ],
+    "dct_subject_sm":[
+        "Election Districts",
+        "Administrative and Political Divisions"
+    ],
+    "dct_temporal_sm":[
+        "2020"
+    ],
+    "dct_title_s":"Voter Precincts, Calaveras County, California, 2020",
+    "gbl_fileSize_s":"1.14 MB",
+    "gbl_indexYear_im":[
+        2020
+    ],
+    "gbl_mdModified_dt":"2023-12-07T00:00:00Z",
+    "gbl_mdVersion_s":"Aardvark",
+    "gbl_resourceClass_sm":[
+        "Datasets"
+    ],
+    "gbl_resourceType_sm":[
+        "Polygon data",
+        "Vector data"
+    ],
+    "gbl_wxsIdentifier_s":"s7270g",
+    "id":"berkeley-s7270g",
+    "locn_geometry":"ENVELOPE(-120.99564866400145,-120.01785436552828,38.50988024887962,37.832911024759355)",
+    "schema_provider_s":"University of California Berkeley"
+}
