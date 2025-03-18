@@ -1,9 +1,9 @@
 {
-    "dcat_bbox":"ENVELOPE(88.99739184187159,89.24734432092029,22.000808404158587,21.75082674004289)",
-    "dcat_keyword_sm":[
+    "dcat_bbox": "ENVELOPE(88.99739184187159,89.24734432092029,22.000808404158587,21.75082674004289)",
+    "dcat_keyword_sm": [
         "topographic maps"
     ],
-    "dcat_theme_sm":[
+    "dcat_theme_sm": [
         "Farming",
         "Biota",
         "Boundaries",
@@ -13,64 +13,64 @@
         "Transportation",
         "Utilities and Communication"
     ],
-    "dct_accessRights_s":"Restricted",
-    "dct_creator_sm":[
+    "dct_accessRights_s": "Restricted",
+    "dct_creator_sm": [
         "Land Info (Firm)",
         "Sārve aba Bāṃlādeśa",
         "Survey of Bangladesh"
     ],
-    "dct_description_sm":[
+    "dct_description_sm": [
         "This map is Sheet 79-G-1 (1st Edition) of the topographic map series Bangladesh 1:50,000 topographic maps, issued by Sārve aba Bāṃlādeśa, the Survey of Bangladesh. This digital version has been scanned, cropped to the map area, georeferenced, and published by Land Info. The original print sheet was published by the Survey of Bangladesh in 1973."
     ],
-    "dct_format_s":"GeoTIFF",
-    "dct_identifier_sm":[
+    "dct_format_s": "GeoTIFF",
+    "dct_identifier_sm": [
         "https://search.library.berkeley.edu/permalink/01UCS_BER/1thfj9n/alma991040609199706532"
     ],
-    "dct_isPartOf_sm":[
+    "dct_isPartOf_sm": [
         "berkeley-s7wh7b"
     ],
-    "dct_issued_s":"2017",
-    "dct_language_sm":[
+    "dct_issued_s": "2017",
+    "dct_language_sm": [
         "eng"
     ],
-    "dct_publisher_sm":[
+    "dct_publisher_sm": [
         "Land Info (Firm)"
     ],
-    "dct_references_s":"{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices-secure.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices-secure.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/UCB/berkeley-s7gh7m/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/UCB/berkeley-s7gh7m/data.zip\"}",
-    "dct_rights_sm":[
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices-secure.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices-secure.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7gh7m/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/UCB/berkeley-s7gh7m/data.zip\"}",
+    "dct_rights_sm": [
         "This data is copyrighted by Land Info, Inc. and/or its suppliers. Access is restricted to current UC Berkeley students, staff, and faculty, as well as walk-in users who are physically present on campus at the Earth Sciences & Map Library, who may make all use of the data as is consistent with the Fair Use Provisions of United States and international copyright laws. Authorized Users may transmit to a third party in hard copy or electronically, minimal, insubstantial amounts of the Licensed Materials for personal use or scholarly, educational, or scientific research or professional use but in no case for resale or commercial purposes. Derived works that include the source data must be merged with other value-added data in such a way that the derived work cannot be converted back to the original source data format. Use of this data should include proper source referencing to Land Info, Inc."
     ],
-    "dct_spatial_sm":[
+    "dct_spatial_sm": [
         "Bangladesh"
     ],
-    "dct_subject_sm":[
+    "dct_subject_sm": [
         "Bangladesh"
     ],
-    "dct_temporal_sm":[
+    "dct_temporal_sm": [
         "1973"
     ],
-    "dct_title_s":"Sheet 79-G-1, Bangladesh 1:50,000 topographic maps, 1973",
-    "gbl_displayNote_sm":[
+    "dct_title_s": "Sheet 79-G-1, Bangladesh 1:50,000 topographic maps, 1973",
+    "gbl_displayNote_sm": [
         "Note: A digital un-cropped, un-georeferenced version of this map is included as a zip file in the Original GeoTIFF download."
     ],
-    "gbl_fileSize_s":"69.18 MB",
-    "gbl_georeferenced_b":true,
-    "gbl_indexYear_im":[
+    "gbl_fileSize_s": "69.18 MB",
+    "gbl_georeferenced_b": true,
+    "gbl_indexYear_im": [
         1973
     ],
-    "gbl_mdModified_dt":"2023-12-14T00:00:00Z",
-    "gbl_mdVersion_s":"Aardvark",
-    "gbl_resourceClass_sm":[
+    "gbl_mdModified_dt": "2023-12-14T00:00:00Z",
+    "gbl_mdVersion_s": "Aardvark",
+    "gbl_resourceClass_sm": [
         "Maps"
     ],
-    "gbl_resourceType_sm":[
+    "gbl_resourceType_sm": [
         "Raster data",
         "Topographic maps",
         "Quadrangle maps",
         "Digital maps"
     ],
-    "gbl_wxsIdentifier_s":"s7gh7m",
-    "id":"berkeley-s7gh7m",
-    "locn_geometry":"ENVELOPE(88.99739184187159,89.24734432092029,22.000808404158587,21.75082674004289)",
-    "schema_provider_s":"University of California Berkeley"
+    "gbl_wxsIdentifier_s": "s7gh7m",
+    "id": "berkeley-s7gh7m",
+    "locn_geometry": "ENVELOPE(88.99739184187159,89.24734432092029,22.000808404158587,21.75082674004289)",
+    "schema_provider_s": "University of California Berkeley"
 }
