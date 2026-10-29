@@ -18,7 +18,7 @@
   ],
   "dct_title_s": "County Boundary, Marin County, California, 2014",
   "schema_provider_s": "University of California Berkeley",
-  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/metadata/berkeley-s7bt2k/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/berkeley-s7bt2k/data.zip\"}",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/public/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/public/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu//maps/berkeley-ark28722-s7bt2k/metadata/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu//maps/berkeley-ark28722-s7bt2k/data/original/data.zip\"}",
   "dct_spatial_sm": [
     "Marin County (Calif.)"
   ],

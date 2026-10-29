@@ -18,7 +18,7 @@
   ],
   "dct_title_s": "San Francisco Bay Area Regional Transit Routes May 19, 2006",
   "schema_provider_s": "University of California Berkeley",
-  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/public/ark28722-s79p4n/data.zip\"}",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/public/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/public/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu//maps/berkeley-ark28722-s79p4n/data/original/data.zip\"}",
   "dct_spatial_sm": [
     "San Francisco Bay (Calif.)",
     "San Francisco Bay Area (Calif.)",
