@@ -18,7 +18,7 @@
   ],
   "dct_title_s": "U.S. ZIP Code Areas (Five-Digit)",
   "schema_provider_s": "University of California Berkeley",
-  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/restricted/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/restricted/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu//maps/berkeley-ark28722-s7h597/data/original/data.zip\"}",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/restricted/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/restricted/wms\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/maps/berkeley-ark28722-s7h597/data/original/data.zip\"}",
   "dct_spatial_sm": [
     "Berkeley (Calif.)",
     "Alameda County (Calif.)"

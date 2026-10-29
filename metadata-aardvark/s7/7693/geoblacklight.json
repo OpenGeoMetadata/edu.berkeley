@@ -18,7 +18,7 @@
   ],
   "dct_title_s": "East Bay Regional Park District ward boundaries, Alameda County, California, 2012",
   "schema_provider_s": "University of California Berkeley",
-  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/public/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/public/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu//maps/berkeley-ark28722-s77693/metadata/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu//maps/berkeley-ark28722-s77693/data/original/data.zip\"}",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/public/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/public/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/maps/berkeley-ark28722-s77693/metadata/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/maps/berkeley-ark28722-s77693/data/original/data.zip\"}",
   "dct_spatial_sm": [
     "Alameda County (Calif.)"
   ],

@@ -21,7 +21,7 @@
   "dct_title_s": "Points of Interest (Parks), Santa Clara County, California, 2015",
   "dct_issued_s": "2015-10-15",
   "schema_provider_s": "University of California Berkeley",
-  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/public/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/public/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu//maps/berkeley-ark28722-s77091/metadata/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu//maps/berkeley-ark28722-s77091/data/original/data.zip\"}",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoservices.lib.berkeley.edu/geoserver/public/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoservices.lib.berkeley.edu/geoserver/public/wms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://spatial.lib.berkeley.edu/maps/berkeley-ark28722-s77091/metadata/iso19139.xml\",\"http://schema.org/downloadUrl\":\"https://spatial.lib.berkeley.edu/maps/berkeley-ark28722-s77091/data/original/data.zip\"}",
   "dct_spatial_sm": [
     "Santa Clara County (Calif.)"
   ],
